@@ -1,0 +1,589 @@
+code,place,wikidata_label,wikidata_id,coordinates,iso_country_code,geonames_id
+a,Asia,Asia,Q48,"43.681111111111115,87.33111111111111",,6255147
+a-af,Afghanistan,Afghanistan,Q889,"33,66",AF,1149361
+a-ai,Armenia (Republic),Armenia,Q399,"40.383333,44.95",AM,174982
+a-aj,Azerbaijan,Azerbaijan,Q227,"40.3,47.7",AZ,587116
+a-ba,Bahrain,Bahrain,Q398,"26.0675,50.551111",BH,290291
+a-bg,Bangladesh,Bangladesh,Q902,"24.016667,89.866667",BD,1210997
+a-bn,Borneo,Borneo,Q36117,"-1,114",ID|MY|BN,1648148|1641903
+a-br,Burma,Myanmar,Q836,"22,96",MM,1327865
+a-bt,Bhutan,Bhutan,Q917,"27.45,90.5",BT,1252634
+a-bx,Brunei,Brunei,Q921,"4.4,114.566667",BN,1820814
+a-cb,Cambodia,Cambodia,Q424,"12.5,105",KH,1831722
+a-cc,China,People's Republic of China,Q148,"35.844722222222224,103.45194444444445",CN,1814991
+a-cc-an,Anhui Sheng (China),Anhui,Q40956,"31.833333333333,117",CN,1818058
+a-cc-ch,Zhejiang Sheng (China),Zhejiang,Q16967,"30.266666666667,120.15",CN,1784764
+a-cc-cq,Chongqing (China),Chongqing,Q11725,"29.55,106.50694444444",CN,1814905
+a-cc-fu,Fujian Sheng (China),Fujian,Q41705,"25.9,118.3",CN,1811017
+a-cc-ha,Hainan Sheng (China),Hainan,Q42200,"20.03342,110.32398",CN,1809054
+a-cc-he,Heilongjiang Sheng (China),Heilongjiang,Q19206,"48,129",CN,2036965
+a-cc-hh,Hubei Sheng (China),Hubei,Q46862,"31.2,112.3",CN,1806949
+a-cc-hk,Hong Kong (China),Hong Kong,Q8646,"22.278333333333,114.15861111111",HK|CN,1819730
+a-cc-ho,Henan Sheng (China),Henan,Q43684,"33.9,113.5",CN,1808520
+a-cc-hp,Hebei Sheng (China),Hebei,Q21208,"38.042222222222,114.50861111111",CN,1808773
+a-cc-hu,Hunan Sheng (China),Hunan,Q45761,"27.4,111.8",CN,1806691
+a-cc-im,Inner Mongolia (China),Inner Mongolia,Q41079,"44,113",CN,2035607
+a-cc-ka,Gansu Sheng (China),Gansu,Q42392,"38,102",CN,1810676
+a-cc-kc,Guangxi Zhuangzu Zizhiqu (China),Guangxi,Q15176,"23.6,108.3",CN,1809867
+a-cc-ki,Jiangxi Sheng (China),Jiangxi,Q57052,"27.3,116",CN,1806222
+a-cc-kn,Guangdong Sheng (China),Guangdong,Q15175,"23.4,113.5",CN,1809935
+a-cc-kr,Jilin Sheng (China),Jilin,Q45208,"43.884166666667,125.30833333333",CN,2036500
+a-cc-ku,Jiangsu Sheng (China),Jiangsu,Q16963,"33,120",CN,1806260
+a-cc-kw,Guizhou Sheng (China),Guizhou,Q47097,"26.833333333333,106.83333333333",CN,1809445
+a-cc-lp,Liaoning Sheng (China),Liaoning,Q43934,"41.803888888889,123.42583333333",CN,2036115
+a-cc-mh,Macau (China : Special Administrative Region),Macau,Q14773,"22.166666666667,113.55",MO|CN,1821275|1821274
+a-cc-nn,Ningxia Huizu Zizhiqu (China),Ningxia,Q57448,"38.46654,106.27056",CN,1799355
+a-cc-pe,Beijing (China),Beijing,Q956,"39.90403,116.407526",CN,1816670
+a-cc-sh,Shanxi Sheng (China),Shanxi,Q46913,"37.873333333333,112.56444444444",CN,1795912
+a-cc-sm,Shanghai (China),Shanghai,Q8686,"31.166666666667,121.46666666667",CN,1796236
+a-cc-sp,Shandong Sheng (China),Shandong,Q43407,"36.4,118.4",CN,1796328
+a-cc-ss,Shaanxi Sheng (China),Shaanxi,Q47974,"34.266666666667,108.9",CN,1796480
+a-cc-su,Xinjiang Uygur Zizhiqu (China),Xinjiang,Q34800,"43.8253,87.61379",CN,1529047
+a-cc-sz,Sichuan Sheng (China),Sichuan,Q19770,"30,103",CN,1794299
+a-cc-ti,Tibet (China),Tibet,Q17269,"31.705556,86.940278",CN,1279685
+a-cc-tn,Tianjin (China),Tianjin,Q11736,"39.146666666667,117.20555555556",CN,1792943
+a-cc-ts,Qinghai Sheng (China),Qinghai,Q45833,"35,96",CN,1280239
+a-cc-yu,Yunnan Sheng (China),Yunnan,Q43194,"25.049444444444443,102.7088888888889",CN,1785694
+a-ccg,Yangtze River (China),Yangtze,Q5413,"33.444166666667,90.936111111111|31.393611111111,121.98305555556",CN,1815696
+a-cck,Kunlun Mountains (China and India),Kunlun Mountains,Q187871,"36,84",CN,1280792
+a-ccp,Bo Hai (China),Bohai Bay,Q495341,"38.7,118.1",CN,
+a-ccs,Xi River (China),Xi River,Q216941,"23.4692299,111.3122749|22.0601872,113.4791565|22.8,113.05",CN,1789402
+a-ccy,Yellow River (China),Yellow River,Q7355,"36.12419444444444,116.09766666666667",CN,1807482
+a-ce,Sri Lanka,Sri Lanka,Q854,"7,81",LK,1227603
+a-ch,Taiwan,Taiwan,Q865,"24,121",TW,1668284
+a-cy,Cyprus,Cyprus,Q229,"35,33",CY,146669
+a-em,Timor-Leste,East Timor,Q574,"-8.966667,125.75",TL,1966436
+a-gs,Georgia (Republic),Georgia,Q230,"42,44",GE,614540
+-a-hk,Hong Kong,Hong Kong,Q8646,"22.278333333333,114.15861111111",HK|CN,1819730
+a-ii,India,India,Q668,"22.8,83",IN,1269750
+a-io,Indonesia,Indonesia,Q252,"-2,118",ID,1643084
+a-iq,Iraq,Iraq,Q796,"33,43",IQ,99237
+a-ir,Iran,Iran,Q794,"32,53",IR,130758
+a-is,Israel,Israel,Q801,"31,35",IL,294640
+a-ja,Japan,Japan,Q17,"35,136",JP,1861060
+a-jo,Jordan,Jordan,Q810,"31.2,36.5",JO,248816
+a-kg,Kyrgyzstan,Kyrgyzstan,Q813,"41,75",KG,1527747
+a-kn,Korea (North),North Korea,Q423,"40,127",KP,1873107
+a-ko,Korea (South),South Korea,Q884,"36,128",KR,1835841
+a-kr,Korea,Korea,Q18097,"38.316666666667,127.23333333333",,
+a-ku,Kuwait,Kuwait,Q817,"29.166667,47.6",KW,285570
+a-kz,Kazakhstan,Kazakhstan,Q232,"48,68",KZ,1522867
+a-le,Lebanon,Lebanon,Q822,"33.833333,35.766667",LB,272103
+a-ls,Laos,Laos,Q819,"18.2,104.1",LA,1655842
+-a-mh,Macao,Macau,Q14773,"22.166666666667,113.55",MO|CN,1821275|1821274
+a-mk,Oman,Oman,Q842,"21,57",OM,286963
+a-mp,Mongolia,Mongolia,Q711,"46,105",MN,2029969
+a-my,Malaysia,Malaysia,Q833,"3.7805111,102.31436166666667",MY,1733045
+a-np,Nepal,Nepal,Q837,"28,84",NP,1282988
+a-nw,New Guinea,New Guinea,Q40285,"-5,140",ID|PG,2082514
+-a-ok,Okinawa,Okinawa Island,Q600614,"26.483333333333,127.95",JP,1854346
+a-ph,Philippines,Philippines,Q928,"12,123",PH,1694008
+a-pk,Pakistan,Pakistan,Q843,"30,71",PK,1168579
+a-pp,Papua New Guinea,Papua New Guinea,Q691,"-6.3,147",PG,2088628
+-a-pt,Portuguese Timor,Portuguese Timor,Q142965,"-8.55,125.583333",TL,
+a-qa,Qatar,Qatar,Q846,"25.269535,51.212767",QA,289688
+a-si,Singapore,Singapore,Q334,"1.3,103.8",SG,1880251
+-a-sk,Sikkim,Sikkim,Q1505,"27.55,88.5",IN,1256312
+a-su,Saudi Arabia,Saudi Arabia,Q851,"23.716667,44.116667",SA,102358
+a-sy,Syria,Syria,Q858,"35.216667,38.583333",SY,163843
+a-ta,Tajikistan,Tajikistan,Q863,"38.583333,71.366667",TJ,1220409
+a-th,Thailand,Thailand,Q869,"14,101",TH,1605651
+a-tk,Turkmenistan,Turkmenistan,Q874,"39,60",TM,1218197
+a-ts,United Arab Emirates,United Arab Emirates,Q878,"24.4,54.3",AE,290557
+a-tu,Turkey,Turkey,Q43,"39,36",TR,298795
+a-uz,Uzbekistan,Uzbekistan,Q265,"41,66",UZ,1512440
+-a-vn,"Viet Nam, North",North Vietnam,Q172640,"21.033333,105.85",,11608492
+-a-vs,"Viet Nam, South",Republic of Vietnam,Q180573,"10.776944444444444,106.69527777777778",,11608491
+a-vt,Vietnam,Vietnam,Q881,"16,108",VN,1562822
+a-ye,Yemen (Republic),Yemen,Q805,"15.5,48",YE,69543
+-a-ys,Yemen (People's Democratic Republic),South Yemen,Q199841,"12.8,45.033333333333",YE,8505034
+aa,Amur River (China and Russia),Amur River,Q6862,"52.9911,141.0467|53.3333,121.4814",RU|CN,2127376
+ab,"Bengal, Bay of",Bay of Bengal,Q38684,"15,88",IN|BD|LK|MM,1281789
+ac,"Asia, Central",Central Asia,Q27275,"45.3,63.9",KZ|KG|UZ|TJ|TM|AF|CN,7729893
+ae,East Asia,East Asia,Q27231,"47.210277777777776,102.84777777777778",JP|KR|KP|CN|MN|TW|RU|VN,7729894
+af,"Thailand, Gulf of",Gulf of Thailand,Q131217,"9.5,102",TH|KH|VN|MY,1818185
+ag,Mekong River,Mekong River,Q41179,"33.70861111111111,94.69555555555556|10.19,106.75|33.75972222222222,94.68666666666667|31.13222222222222,97.17777777777778",CN|MM|TH|LA|KH|VN,1574716
+ah,Himalaya Mountains,Himalayas,Q5451,"29,84",NP|MM|CN|PK|IN|AF|BT,1252558
+ai,Indochina,Armenia,Q399,"40.383333,44.95",AM,174982
+ak,Caspian Sea,Caspian Sea,Q5484,"42,50.5",IR|RU|KZ|AZ|TM,630671
+am,Malaya,Peninsular Malaysia,Q1973345,"4,102.5",MY,
+an,East China Sea,East China Sea,Q45341,"30,125",CN|JP|TW|KR,1676969
+ao,South China Sea,South China Sea,Q37660,"12,113",VN|TW|MY|KH|CN|PH|BN|ID,1594992
+aopf,Paracel Islands,Paracel Islands,Q274388,"16.654612,112.747192|16.5,112",,1821073
+aoxp,Spratly Islands,Spratly Islands,Q215664,"10,114",,1821005
+ap,Persian Gulf,Persian Gulf,Q34675,"26,52",,235616
+ar,Arabian Peninsula,Arabian Peninsula,Q31945,"23,46",,6957697
+as,Southeast Asia,Southeast Asia,Q11708,"12,105.1",,7729896
+at,Tien Shan,Tianshan Mountains,Q5474,"42.0375,80.125277777778",,1489643
+au,Arabian Sea,Arabian Sea,Q58705,"16,64",,1158455
+aw,Middle East,Middle East,Q7204,"28,45",,6269133
+awba,West Bank,West Bank,Q36678,"32,35.35",,285153
+awgz,Gaza Strip,Gaza Strip,Q39760,"31.45,34.4",,281132
+-awiu,Israel-Syria Demilitarized Zones,Israel-Syria Demilitarized Zones,Q21586797,"33,35.61667",,169355
+-awiw,Israel-Jordan Demilitarized Zones,Israel-Jordan Demilitarized Zones,Q62590159,,,
+-awiy,Iraq-Saudi Arabia Neutral Zone,Saudi–Iraqi Neutral Zone,Q15710,"29.12527778,45.52111111",,
+ay,Yellow Sea,Yellow Sea,Q37960,"35,123",,1818183
+az,South Asia,South Asia,Q771405,"26.9,72.2",,7729895
+b,Commonwealth countries,Commonwealth of Nations,Q7785,"51.505,-0.135833",,11812257
+c,Intercontinental areas (Western Hemisphere),,,,,
+cc,Caribbean Area; Caribbean Sea,Caribbean Sea,Q1247,"15,-75",,4563233|4795435
+cl,Latin America,Latin America,Q12585,"-1.106889,-68.097391",,7730009
+-cm,Middle America,Middle America,Q29876,"17.4,-91",,3496393
+-cr,Circumcaribbean,,,,,
+d,Developing countries,,,,,
+dd,Developed countries,,,,,
+e,Europe,Europe,Q46,"48.690959,9.14062",,6255148
+e-aa,Albania,Albania,Q222,"41,20",AL,783754
+e-an,Andorra,Andorra,Q228,"42.558333333333,1.5552777777778",AD,3041565
+e-au,Austria,Austria,Q40,"48,14",AT,2782113
+e-be,Belgium,Belgium,Q31,"50.641111111111,4.6680555555556",BE,2802361
+e-bn,Bosnia and Herzegovina,Bosnia and Herzegovina,Q225,"44,18",BA,3277605
+e-bu,Bulgaria,Bulgaria,Q219,"42.75,25.5",BG,732800
+e-bw,Belarus,Belarus,Q184,"53.528333333333,28.046666666667",BY,630336
+e-ci,Croatia,Croatia,Q224,"45.25,15.466667",HR,3202326
+e-cs,Czechoslovakia,Czechoslovakia,Q33946,"50.083333333333,14.416666666667",,8505031
+e-dk,Denmark,Denmark,Q35,"56,10",DK,2623032
+e-er,Estonia,Estonia,Q191,"59,26",EE,453733
+e-fi,Finland,Finland,Q33,"65,27",FI,660013
+e-fr,France,France,Q142,"47,2",FR,3017382
+e-ge,Germany (East),German Democratic Republic,Q16957,"52.052,12.389",,8354410
+e-gg,Guernsey,Bailiwick of Guernsey,Q25230,"49.45,-2.5833333333333",GG|GB,3042362
+e-gi,Gibraltar,Gibraltar,Q1410,"36.14,-5.35",GI,2411586|2411585
+e-gr,Greece,Greece,Q41,"38.5,23",GR,390903
+e-gw,Germany (West),West Germany,Q713750,"50.733888888889,7.0997222222222",,11612754
+e-gx,Germany,Germany,Q183,"51,10",DE,2921044
+e-hu,Hungary,Hungary,Q28,"47,19",HU,719819
+e-ic,Iceland,Iceland,Q189,"65,-19",IS,2629691
+e-ie,Ireland,Republic of Ireland,Q27,"53,-8",IE,2963597
+e-im,Isle of Man,Isle of Man,Q9676,"54.235,-4.525",IM,3042225
+e-it,Italy,Italy,Q38,"42.5,12.5",IT,3175395
+e-je,Jersey,Jersey,Q785,"49.19,-2.11",JE,3042142
+e-kv,Kosovo,Kosovo,Q1246,"42.55,20.833333333333",,831053
+e-lh,Liechtenstein,Liechtenstein,Q347,"47.145,9.553889",LI,3042058
+e-li,Lithuania,Lithuania,Q37,"55.2,24",LT,597427
+e-lu,Luxembourg,Luxembourg,Q32,"49.77,6.13",LU,2960313
+e-lv,Latvia,Latvia,Q211,"57,25",LV,458258
+e-mc,Monaco,Monaco,Q235,"43.73111111111111,7.42",MC,2993457
+e-mm,Malta,Malta,Q233,"35.88333333333333,14.5",MT,2562770
+e-mo,Montenegro,Montenegro,Q236,"42.766667,19.216667",ME,3194884
+e-mv,Moldova,Moldova,Q217,"47.25,28.516667",MD,617790
+e-ne,Netherlands,Netherlands,Q55,"52.316666666667,5.55",NL,2750405
+e-no,Norway,Norway,Q20,"65,11",NO,3144096
+e-pl,Poland,Poland,Q36,"52,19",PL,798544
+e-po,Portugal,Portugal,Q45,"38.7,-9.1833333333333",PT,2264397
+e-rb,Serbia,Serbia,Q403,"43.95,20.933333333333",RS,6290252
+e-rm,Romania,Romania,Q218,"46,25",RO,798549
+e-ru,Russia (Federation),Russia,Q159,"66.41666666666667,94.25",RU,2017370
+e-sm,San Marino,San Marino,Q238,"43.93333333333333,12.466666666666667",SM,3168068
+e-sp,Spain,Spain,Q29,"40.2,-3.5",ES,2510769
+e-sw,Sweden,Sweden,Q34,"61,15",SE,2661886
+e-sz,Switzerland,Switzerland,Q39,"46.798562,8.231973",CH,2658434
+e-uk,Great Britain,United Kingdom,Q145,"54.6,-2",GB,2635167
+e-uk-en,England,England,Q21,"53,-1",GB,6269131|2649994
+e-uk-ni,Northern Ireland,Northern Ireland,Q26,"54.6075,-6.6925",GB,2641364
+e-uk-st,Scotland,Scotland,Q22,"57,-5",GB,2638360
+-e-uk-ui,Great Britain Miscellaneous Island Dependencies,,,,,
+e-uk-wl,Wales,Wales,Q25,"52.35,-3.6333333333333",GB,2634895
+e-un,Ukraine,Ukraine,Q212,"49,32",UA,690791
+e-ur,Russia. Russian Empire. Soviet Union. Former Soviet Republics,Russia,Q159,"66.41666666666667,94.25",RU,2017370
+-e-ur-ai,Armenia (Republic),Armenia,Q399,"40.383333,44.95",AM,174982
+-e-ur-aj,Azerbaijan,Azerbaijan,Q227,"40.3,47.7",AZ,587116
+-e-ur-bw,Belarus,Belarus,Q184,"53.528333333333,28.046666666667",BY,630336
+-e-ur-er,Estonia,Estonia,Q191,"59,26",EE,453733
+-e-ur-gs,Georgia (Republic),Georgia,Q230,"42,44",GE,614540
+-e-ur-kg,Kyrgyzstan,Kyrgyzstan,Q813,"41,75",KG,1527747
+-e-ur-kz,Kazakhstan,Kazakhstan,Q232,"48,68",KZ,1522867
+-e-ur-li,Lithuania,Lithuania,Q37,"55.2,24",LT,597427
+-e-ur-lv,Latvia,Latvia,Q211,"57,25",LV,458258
+-e-ur-mv,Moldova,Moldova,Q217,"47.25,28.516667",MD,617790
+-e-ur-ru,Russia (Federation),Russia,Q159,"66.41666666666667,94.25",RU,2017370
+-e-ur-ta,Tajikistan,Tajikistan,Q863,"38.583333,71.366667",TJ,1220409
+-e-ur-tk,Turkmenistan,Turkmenistan,Q874,"39,60",TM,1218197
+-e-ur-un,Ukraine,Ukraine,Q212,"49,32",UA,690791
+-e-ur-uz,Uzbekistan,Uzbekistan,Q265,"41,66",UZ,1512440
+e-urc,Central Chernozem Region (Russia),Central Black Earth Economic Region,Q301538,,,
+e-ure,"Siberia, Eastern (Russia)",Eastern Siberia,Q1191996,,RU,
+e-urf,Russian Far East (Russia),Russian Far East,Q609176,"65.5,147.4",RU,
+e-urk,Caucasus,Caucasus,Q18869,"42.261111111111,44.121111111111",RU|GE|AM|AZ,615318
+-e-url,"Central Region, RSFSR",Central Russia,Q4504093,"54.533,37.617",RU,
+e-urn,"Soviet Union, Northwestern",Northwestern Federal District,Q383093,"59.95,30.316666666667",RU,
+-e-uro,Soviet Central Asia,Soviet Central Asia,Q1211919,,,
+e-urp,Volga River (Russia),Volga,Q626,"57.251331194444,32.467965694444|45.697194444444,47.8625",RU,472776
+e-urr,"Caucasus, Northern (Russia)",Caucasus,Q18869,"42.261111111111,44.121111111111",RU|GE|AM|AZ,615318
+e-urs,Siberia (Russia),Siberia,Q5428,"60,105",RU,11961345
+e-uru,Ural Mountains (Russia),Ural Mountains,Q35600,"60,59",RU,1488441
+-e-urv,"Volgo-Viatskii Region, RSFSR",Volga-Vyatka Economic Region,Q1050174,,,
+e-urw,"Siberia, Western (Russia)",Western Siberia,Q1191358,"55.2,81.6",RU,
+e-vc,Vatican City,Vatican City,Q237,"41.904,12.453",VA,3164670
+e-xn,North Macedonia,North Macedonia,Q221,"41.65,21.716667",MK,718075
+e-xo,Slovakia,Slovakia,Q214,"49,20",SK,3057568
+e-xr,Czech Republic,Czech Republic,Q213,"49.5,16",CZ,3077311
+e-xv,Slovenia,Slovenia,Q215,"46,15",SI,3190538
+e-yu,Serbia and Montenegro; Yugoslavia,Serbia and Montenegro,Q37024,"43.15,19.78",,8505033
+ea,Alps,Alps,Q1286,"46,10",,2661786
+eb,Baltic States,Baltic states,Q39731,"57,25",,
+ec,"Europe, Central",Central Europe,Q27509,"51,10",,
+ed,Balkan Peninsula,Balkans,Q23522,"42,22",,685608
+ee,"Europe, Eastern",Eastern Europe,Q27468,"49,31",,7729884
+-ei,Iberian Peninsula,Iberian Peninsula,Q12837,"40.24,-4.2391666666667",ES|PT|AD|GI|FR,2267430
+el,Benelux countries,Benelux,Q13116,,NL|BE|LU,
+en,"Europe, Northern",Northern Europe,Q27479,"57,14",,7729883
+eo,Danube River,Danube,Q1653,"45.221944444444446,29.743333333333332|48.09511111111111,8.15488888888889",DE|AT|SK|HU|HR|RS|RO|BG|MD|UA,791630
+ep,Pyrenees,Pyrenees,Q12431,"42.666666666667,1",ES|FR|AD,3112616
+er,Rhine River,Rhine,Q584,"51.980833333333,4.0930555555556|46.632513,8.67481|47.6662,9.1786",CH|AT|LI|DE|FR|NL,2748179
+es,"Europe, Southern",Southern Europe,Q27449,"41.093498,15.017008",,9408658
+-et,"Europe, East Central",East-Central Europe,Q16389571,,,
+ev,Scandinavia,Scandinavia,Q21195,"64.779642,14.760936",DK|NO|SE,2614165
+ew,"Europe, Western",Western Europe,Q27496,"47.409273,2.536919",,9408659
+f,Africa,Africa,Q15,"21.09375,7.1881",,6255146
+f-ae,Algeria,Algeria,Q262,"28,1",DZ,2589581
+f-ao,Angola,Angola,Q916,"-12.35,17.35",AO,3351879
+f-bd,Burundi,Burundi,Q967,"-3.666667,29.816667",BI,433561
+f-bs,Botswana,Botswana,Q963,"-22.2,23.7",BW,933860
+-f-by,Biafra,Biafra,Q178469,"6.45,7.5",,
+f-cd,Chad,Chad,Q657,"15.466667,19.4",TD,2434508
+f-cf,Congo (Brazzaville),Brazzaville,Q3844,"-4.269444444444445,15.27111111111111",CG,2260535
+f-cg,Congo (Democratic Republic),Democratic Republic of the Congo,Q974,"-2.88,23.656111111111112",CD,203312
+f-cm,Cameroon,Cameroon,Q1009,"5.133333333333334,12.65",CM,2233387
+f-cx,Central African Republic,Central African Republic,Q929,"6.7,20.9",CF,239880
+f-dm,Benin,Benin,Q962,"8.8333333333333,2.1833333333333",BJ,2395170
+f-ea,Eritrea,Eritrea,Q986,"15.483333,38.25",ER,338010
+f-eg,Equatorial Guinea,Equatorial Guinea,Q983,"1.5,10",GQ,2309096
+f-et,Ethiopia,Ethiopia,Q115,"9,40",ET,337996
+f-ft,Djibouti,Djibouti,Q977,"11.8,42.433333",DJ,223816
+f-gh,Ghana,Ghana,Q117,"8.03,-1.08",GH,2300660
+f-gm,Gambia,The Gambia,Q1005,"13.5,-15.5",GM,2413451
+f-go,Gabon,Gabon,Q1000,"-0.68333055555556,11.5",GA,2400553
+f-gv,Guinea,Guinea,Q1006,"10,-11",GN,2420477
+-f-if,Ifni,Ifni,Q763141,"29.366666666667,-10.183333333333",ES,
+f-iv,Côte d'Ivoire,Ivory Coast,Q1008,"8,-6",CI,2287781
+f-ke,Kenya,Kenya,Q114,"0.1,38",KE,192950
+f-lb,Liberia,Liberia,Q1014,"6.533333,-9.75",LR,2275384
+f-lo,Lesotho,Lesotho,Q1013,"-29.55,28.25",LS,932692
+f-ly,Libya,Libya,Q1016,"27,17",LY,2215636
+f-mg,Madagascar,Madagascar,Q1019,"-20,47",MG,1062947
+f-ml,Mali,Mali,Q912,"17,-4",ML,2453866
+f-mr,Morocco,Morocco,Q1028,"32,-6",MA,2542007
+f-mu,Mauritania,Mauritania,Q1025,"21,-11",MR,2378080
+f-mw,Malawi,Malawi,Q1020,"-13,34",MW,927384
+f-mz,Mozambique,Mozambique,Q1029,"-19,35",MZ,1036973
+f-ng,Niger,Niger,Q1032,"17,10",NE,2440476
+f-nr,Nigeria,Nigeria,Q1033,"9,8",NG,2328926
+f-pg,Guinea-Bissau,Guinea-Bissau,Q1007,"12,-15",GW,2372248
+f-rh,Zimbabwe,Zimbabwe,Q954,"-19,30",ZW,878675
+f-rw,Rwanda,Rwanda,Q1037,"-2,30",RW,49518
+f-sa,South Africa,South Africa,Q258,"-29,24",ZA,953987
+f-sd,South Sudan,South Sudan,Q958,"7,30",SS,7909807
+f-sf,Sao Tome and Principe,São Tomé and Príncipe,Q1039,"0.316667,6.6",ST,2410758
+f-sg,Senegal,Senegal,Q1041,"14.366667,-14.283333",SN,2245662
+f-sh,Spanish North Africa,plazas de soberanía,Q191011,,ES,
+f-sj,Sudan,Sudan,Q1049,"15,32",SD,366755
+f-sl,Sierra Leone,Sierra Leone,Q1044,"8.5,-12.1",SL,2403846
+f-so,Somalia,Somalia,Q1045,"6,47",SO,51537
+f-sq,Eswatini,Eswatini,Q1050,"-26.483333,31.433333",SZ,934841
+f-ss,Western Sahara,Western Sahara,Q6250,"25,-13",EH,2461445
+f-sx,Namibia,Namibia,Q1030,"-23,17",NA,3355338
+f-tg,Togo,Togo,Q945,"8.25,1.183333",TG,2363686
+f-ti,Tunisia,Tunisia,Q948,"34,10",TN,2464461
+f-tz,Tanzania,Tanzania,Q924,"-6.3069444444444445,34.85388888888889",TZ,149590
+f-ua,Egypt,Egypt,Q79,"27,29",EG,357994
+f-ug,Uganda,Uganda,Q1036,"1.28,32.39",UG,226074
+f-uv,Burkina Faso,Burkina Faso,Q965,"12.266667,-2.066667",BF,2361809
+f-za,Zambia,Zambia,Q953,"-14,28",ZM,895949
+fa,Atlas Mountains,Atlas Mountains,Q130135,"31.061944444444446,-7.916111111111111",MA|DZ|TN,2556769
+fb,"Africa, Sub-Saharan",Sub-Saharan Africa,Q132959,"-10,23",,
+fc,"Africa, Central",Central Africa,Q27433,"2.2230555555555553,16.19113888888889",AO|GA|CM|CD|CG|CF|TD|GQ,7729886
+fd,Sahara,Sahara,Q6583,"23.079722222222223,12.612222222222222",DZ|TD|EG|MA|TN|MR|NE|ML|SD,2212709
+fe,"Africa, Eastern",East Africa,Q27407,"-1.300444,36.84726",,7729889
+ff,"Africa, North",North Africa,Q27381,"30.440741666667,9.6817138888889",,7729887
+fg,Congo River,Congo,Q3503,"-6.075,12.45",AO|CD|CG|ZM,2241717|7731920
+fh,"Africa, Northeast",Northeast Africa,Q7057805,,,
+fi,Niger River,Niger River,Q3542,"9.097222222222221,-10.682777777777778|5.322222222222222,6.469166666666666",BJ|GN|ML|NE|NG,2328928
+fl,Nile River,Nile,Q3392,"15.640138888888888,32.5055|31.4653,30.3667",SD|EG|UG|SS|TZ|ER|KE|CD,351036
+fn,Sudan (Region),Sudan,Q209703,,SS|SD|ET|DJ|ER|TD|CF|CM|NG|NE|ML|BF|GH|TG|CI|SN|GM,
+fq,"Africa, French-speaking Equatorial",Equatorial Africa,Q255634,,,
+fr,Great Rift Valley,Great Rift Valley,Q81591,"-0.1,36.1",ER|ET|DJ|SS|KE|UG|CD|RW|BI|TZ|MW|MZ|ZM|ZW,6957928
+fs,"Africa, Southern",Southern Africa,Q27394,"-25.879105555556,23.097577777778",BW|LS|SZ|ZW|NA,9406051
+fu,Suez Canal (Egypt),Suez Canal,Q899,"30.705,32.344166666667",EG,347712
+fv,Volta River (Ghana),Volta River,Q192415,"8.648741,-0.982618|5.7711111111111,0.67305555555556",,2294237
+fw,"Africa, West",West Africa,Q4412,"12,3",,7729885
+fz,Zambezi River,Zambezi River,Q43106,"-11.3702,24.3083|-18.570555555555554,36.47027777777778",,876728
+h,French Community,French Community,Q1120363,,,
+i,Indian Ocean,Indian Ocean,Q1239,"-20,80",,1545739
+i-bi,British Indian Ocean Territory,British Indian Ocean Territory,Q43448,"-6,71.5",IO,1282588
+i-cq,Comoros,Comoros,Q970,"-12.3,43.7",KM,921929
+i-fs,Terres australes et antarctiques françaises,French Southern and Antarctic Lands,Q129003,"-43,67",TF,1546748
+i-hm,Heard and McDonald Islands,Heard Island and McDonald Islands,Q131198,"-53.09352777777778,73.517",HM,1547314
+i-mf,Mauritius,Mauritius,Q1027,"-20.2,57.5",MU,934292
+i-my,Mayotte,Mayotte,Q17063,"-12.843055555556,45.138333333333",YT,1024031
+i-re,Réunion,Réunion Island,Q25396403,"-21.133333333333333,55.55",,935316
+i-se,Seychelles,Seychelles,Q1042,"-7.1,52.766667",SC,241170
+i-xa,Christmas Island (Indian Ocean),Christmas Island,Q31063,"-10.49,105.6275",CX,2078138
+i-xb,Cocos (Keeling) Islands,Cocos Islands,Q36004,"-12.1175,96.895",CC,1547376
+i-xc,Maldives,Maldives,Q826,"4.18,73.51",MV,1282028
+-i-xo,Socotra Island,Socotra,Q82859,"12.51,53.92",,70302
+l,Atlantic Ocean,Atlantic Ocean,Q97,"0,-30",,3373405
+ln,North Atlantic Ocean,North Atlantic Ocean,Q350134,"47,-33",,3411923
+lnaz,Azores,Azores,Q25263,"38.66,-28.07",,3373385|3411865
+lnbm,Bermuda Islands,Bermuda,Q23635,"32.32,-64.74",BM|GB,3573345|3573342
+lnca,Canary Islands,Canary Islands,Q5813,"28.536,-15.749",ES,2593110
+lncv,Cabo Verde,Cape Verde,Q1011,"15.3,-23.7",CV,3374766
+lnfa,Faroe Islands,Faroe Islands,Q4628,"61.969944444444,-6.8444805555556",FO|DK,2622320
+lnjn,Jan Mayen Island,Jan Mayen,Q14056,"70.983,-8.5336",NO,3041963
+lnma,Madeira Islands,Madeira Islands,Q49296283,"32.666666666667,-16.75",PT,2266877
+lnsb,Svalbard (Norway),Svalbard,Q25231,"78.15706,15.86426",NO,7521757
+ls,South Atlantic Ocean,South Atlantic Ocean,Q1482804,"-33.73345,-18.83777",,3358844
+lsai,Ascension Island (Atlantic Ocean),Ascension,Q46197,"-7.9425,-14.368055555556",GB,2411429|2411430
+lsbv,Bouvet Island,Bouvet Island,Q23408,"-54.42,3.36",BV|NO,3371123|3371122
+lsfk,Falkland Islands,Falkland Islands,Q9648,"-51.73,-59.22",FK|GB,3474414
+lstd,Tristan da Cunha,Tristan da Cunha,Q220982,"-37.116666666667,-12.283333333333",SH,3370684
+lsxj,Saint Helena,Saint Helena,Q34497,"-15.95,-5.7166666666667",GB|SH,6930057|3370750
+lsxs,South Georgia and South Sandwich Islands,South Georgia and the South Sandwich Islands,Q35086,"-54.25,-36.75",GS|GB,3474415
+m,Intercontinental areas (Eastern Hemisphere),,,,,
+ma,Arab countries,Arab world,Q143487,"10.5,15.5",AE|BH|KW|IQ|SA|YE|OM|QA|LB|SY|PS|JO|EG|LY|TN|DZ|MA|EH|ER|SD|SO,
+mb,Black Sea,Black Sea,Q166,"43.41,34.26",BG|RU|UA|RO|TR|GE,630673
+me,Eurasia,Eurasia,Q5401,"50,80",,
+mm,Mediterranean Region; Mediterranean Sea,Mediterranean Sea,Q4918,"38,17",ES|FR|IT|MC|SI|HR|ME|AL|GR|MT|CY|TR|LB|SY|IL|PS|EG|LY|TN|DZ|MA|BA,363196
+mr,Red Sea,Red Sea,Q23406,"22,38",EG|SA|SD|DJ|ER|YE|IL|JO,350155
+n,North America,North America,Q49,"47,-105",CA|MX|US|BM|GL|FR|BZ|CR|SV|GT|HN|NI|PA|AG|BS|BB|DM|DO|GD|HT|JM|CU|KN|LC|VC|TT,6255149
+n-cn,Canada,Canada,Q16,"56,-109",CA,6251999
+n-cn-ab,Alberta,Alberta,Q1951,"55,-115",CA,5883102
+n-cn-bc,British Columbia,British Columbia,Q1973,"54.5,-124.5",CA,5909050
+n-cn-mb,Manitoba,Manitoba,Q1948,"55,-97",CA,6065171
+n-cn-nf,Newfoundland and Labrador,Newfoundland and Labrador,Q2003,"53,-60",CA,6354959
+n-cn-nk,New Brunswick,New Brunswick,Q1965,"46.6,-66",CA,6087430
+n-cn-ns,Nova Scotia,Nova Scotia,Q1952,"45,-63",CA,6091530
+n-cn-nt,Northwest Territories,Northwest Territories,Q2007,"66,-119",CA,6091069
+n-cn-nu,Nunavut,Nunavut,Q2023,"70,-90",CA,6091732
+n-cn-on,Ontario,Lake Ontario,Q1062,"43.72888888888889,-78.10638888888889",CA|US,6048611
+n-cn-pi,Prince Edward Island,Prince Edward Island,Q1978,"46.25,-63",CA,6113358
+n-cn-qu,Québec (Province),Quebec,Q176,"52,-72",CA,6115047
+n-cn-sn,Saskatchewan,Saskatchewan,Q1989,"55,-106",CA,6141242
+n-cn-yk,Yukon Territory,Yukon,Q2009,"60.72086,-135.05323",CA,6185811
+n-cnh,Hudson Bay,Hudson Bay,Q3040,"60,-85",CA,5978134
+n-cnm,Maritime Provinces,Maritimes,Q731613,"46,-64",CA,
+n-cnp,Prairie Provinces,Canadian Prairies,Q1364746,"50,-106",CA,
+n-gl,Greenland,Greenland,Q223,"72,-40",GL|DK,3425505
+n-mx,Mexico,Mexico,Q96,"23,-102",MX,3996063
+n-us,United States,United States of America,Q30,"39.828175,-98.5795",US,6252001
+n-us-ak,Alaska,Alaska,Q797,"64,-150",US,5879092
+n-us-al,Alabama,Alabama,Q173,"32.7,-86.7",US,4829764
+n-us-ar,Arkansas,Arkansas,Q1612,"34.8,-92.2",US,4099753
+n-us-az,Arizona,Arizona,Q816,"34.286667,-111.656944",US,5551752
+n-us-ca,California,California,Q99,"37,-120",US,5332921
+n-us-co,Colorado,Colorado,Q1261,"39,-105.5",US,5417618
+n-us-ct,Connecticut,Connecticut,Q779,"41.6,-72.7",US,4831725
+n-us-dc,Washington (D.C.),"Washington, D.C.",Q61,"38.895,-77.036666666667",US,4140963
+n-us-de,Delaware,Delaware,Q1393,"39,-75.5",US,4142224
+n-us-fl,Florida,Florida,Q812,"28.133333333333,-81.631666666667",US,4155751
+n-us-ga,Georgia,Georgia,Q1428,"33,-83.5",US,4197000
+n-us-hi,Hawaii,Hawaii,Q782,"21.5,-158",US,5855797
+n-us-ia,Iowa,Iowa,Q1546,"42,-93",US,4862182
+n-us-id,Idaho,Idaho,Q1221,"45,-114",US,5596512
+n-us-il,Illinois,Illinois,Q1204,"40.000277777777775,-89.25027777777778",US,4896861
+n-us-in,Indiana,Indiana,Q1415,"39.933333333333,-86.216666666667",US,4921868
+n-us-ks,Kansas,Kansas,Q1558,"38.5,-98",US,4273857
+n-us-ky,Kentucky,Kentucky,Q1603,"37.5,-85",US,6254925
+n-us-la,Louisiana,Louisiana,Q1588,"31,-92",US,4331987
+n-us-ma,Massachusetts,Massachusetts,Q771,"42.3,-71.8",US,6254926
+n-us-md,Maryland,Maryland,Q1391,"39,-76.7",US,4361885
+n-us-me,Maine,Maine,Q724,"45.5,-69",US,4971068
+n-us-mi,Michigan,Michigan,Q1166,"44.34,-85.58",US,5001836
+n-us-mn,Minnesota,Minnesota,Q1527,"46,-94",US,5037779
+n-us-mo,Missouri,Missouri,Q1581,"38.5,-92.5",US,4398678
+n-us-ms,Mississippi,Mississippi,Q1494,"33,-90",US,4436296
+n-us-mt,Montana,Montana,Q1212,"47,-110",US,5667009
+n-us-nb,Nebraska,Nebraska,Q1553,"41.5,-100",US,5073708
+n-us-nc,North Carolina,North Carolina,Q1454,"35.5,-80",US,4482348
+n-us-nd,North Dakota,North Dakota,Q1207,"47.5,-100.5",US,5690763
+n-us-nh,New Hampshire,New Hampshire,Q759,"44,-71.5",US,5090174
+n-us-nj,New Jersey,New Jersey,Q1408,"40,-74.5",US,5101760
+n-us-nm,New Mexico,New Mexico,Q1522,"34,-106",US,5481136
+n-us-nv,Nevada,Nevada,Q1227,"39,-117",US,5509151
+n-us-ny,New York,New York,Q1384,"43,-75",US,5128638
+n-us-oh,Ohio,Ohio,Q1397,"40.5,-82.5",US,5165418
+n-us-ok,Oklahoma,Oklahoma,Q1649,"35.5,-98",US,4544379
+n-us-or,Oregon,Oregon,Q824,"43.935833,-120.575",US,5744337
+n-us-pa,Pennsylvania,Pennsylvania,Q1400,"41,-77.5",US,6254927
+n-us-ri,Rhode Island,Rhode Island,Q1387,"41.7,-71.5",US,5224323
+n-us-sc,South Carolina,South Carolina,Q1456,"34,-81",US,4597040
+n-us-sd,South Dakota,South Dakota,Q1211,"44.5,-100",US,5769223
+n-us-tn,Tennessee,Tennessee,Q1509,"36,-86",US,4662168
+n-us-tx,Texas,Texas,Q1439,"31,-100",US,4736286
+n-us-ut,Utah,Utah,Q829,"39.5,-111.5",US,5549030
+n-us-va,Virginia,Virginia,Q1370,"37.5,-79",US,6254928
+n-us-vt,Vermont,Vermont,Q16551,"44,-72.7",US,5242283
+n-us-wa,Washington (State),Washington,Q1223,"47.5,-120.5",US,5815135
+n-us-wi,Wisconsin,Wisconsin,Q1537,"44.5,-89.5",US,5279468
+n-us-wv,West Virginia,West Virginia,Q1371,"39,-80.5",US,4826850
+n-us-wy,Wyoming,Wyoming,Q1214,"43,-107.5",US,5843591
+n-usa,Appalachian Mountains,Appalachian Mountains,Q93332,"38,-79",US|CA|FR,5178401
+n-usc,Middle West,Midwestern United States,Q186545,"41,-90",US,
+n-use,Northeastern States,Northeastern United States,Q24460,"42,-73",US,
+n-usl,Middle Atlantic States,Mid-Atlantic,Q632014,"41,-77",US,
+n-usm,Mississippi River,Mississippi River,Q1497,"47.2397,-95.2075|29.1536,-89.2508",US,10400307
+n-usn,New England,New England,Q18389,"44.205555555556,-70.306425",US,8502102
+n-uso,Ohio River,Ohio River,Q4915,"40.4430066,-80.0171244|36.9867,-89.1311",US,4401696
+n-usp,West (U.S.),Western United States,Q12612,"40,-113",US,11887751
+n-usr,East (U.S.),Eastern United States,Q1189650,"38,-82",US,
+n-uss,Missouri River,Missouri River,Q5419,"45.9275,-111.5081|38.8136,-90.1197",US,4398665
+n-ust,"Southwest, New",Southwestern United States,Q858847,"37,-111.2",US,
+n-usu,Southern States,Southern United States,Q49042,"33.9,-89.5",US,
+-n-usw,Northwest (U.S.),Northwestern United States,Q944857,"46,-117",US,
+n-xl,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Q34617,"46.825,-56.275",PM|FR,3424932
+nc,Central America,Central America,Q27611,"12,-86",,7729892
+ncbh,Belize,Belize,Q242,"17.066666666666666,-88.7",BZ,3582678
+nccr,Costa Rica,Costa Rica,Q800,"10,-84",CR,3624060
+nccz,Canal Zone,Panama Canal Zone,Q498979,"9.1176694444444,-79.720166666667",US,
+nces,El Salvador,El Salvador,Q792,"13.668889,-88.866111",SV,3585968
+ncgt,Guatemala,Guatemala,Q774,"15.5,-90.25",GT,3595528
+ncho,Honduras,Honduras,Q783,"14.633333,-86.816667",HN,3608932
+ncnq,Nicaragua,Nicaragua,Q811,"13,-85",NI,3617476
+ncpn,Panama,Panama,Q804,"8.616667,-80.366667",PA,3703430
+nl,Great Lakes (North America); Lake States,Great Lakes,Q7347,"45.75,-84",US,
+nm,"Mexico, Gulf of",Gulf of Mexico,Q12630,"25,-90",MX|US|CU,3523271|4326669
+np,Great Plains,Great Plains,Q12707,"40,-100",US|CA,5445514
+nr,Rocky Mountains,Rocky Mountains,Q5463,"44.5,-113.5",CA|US,5836950
+nw,West Indies,West Indies,Q669037,"21.98333333,-79.03333333",,3571219
+nwaq,Antigua and Barbuda,Antigua and Barbuda,Q781,"17.116666666667,-61.85",AG,3576396
+nwaw,Aruba,Aruba,Q21203,"12.51106253,-69.97422388",AW|NL,3577279
+nwbb,Barbados,Barbados,Q244,"13.17,-59.5525",BB,3374084
+-nwbc,Barbuda,Barbuda,Q238752,"17.6165,-61.8008",AG,3576390
+nwbf,Bahamas,The Bahamas,Q778,"25,-77.4",BS,3572887
+nwbn,Bonaire,Bonaire,Q25396,"12.1796,-68.2581",NL,7609816
+nwcj,Cayman Islands,Cayman Islands,Q5785,"19.5,-80.5",KY|GB,3580718
+nwco,Curaçao,Curaçao,Q25279,"12.1964,-69.012",CW|NL,7626836
+nwcu,Cuba,Cuba,Q241,"22,-79.5",CU,3562981
+nwdq,Dominica,Dominica,Q784,"15.416667,-61.333333",DM,3575830
+nwdr,Dominican Republic,Dominican Republic,Q786,"18.8,-70.2",DO,3508796
+nweu,Sint Eustatius,Sint Eustatius,Q26180,"17.483333333333,-62.966666666667",NL,7610359
+-nwga,Greater Antilles,Greater Antilles,Q128011,"21.983333333333,-79.033333333333",,
+nwgd,Grenada,Grenada,Q769,"12.116667,-61.666667",GD,3580239
+nwgp,Guadeloupe,Guadeloupe,Q17012,"16.2595,-61.5605",GP|FR,3579143
+-nwgs,Grenadines,Grenadines,Q503482,"12.666666666667,-61.25",VC|GD,3577891
+nwhi,Hispaniola,Hispaniola,Q25277,"19,-71",DO|HT,3504558
+nwht,Haiti,Haiti,Q790,"19,-72.8",HT,3723988
+nwjm,Jamaica,Jamaica,Q766,"18.18,-77.4",JM,3489940
+nwla,"Antilles, Lesser",Lesser Antilles,Q93259,"14,-61",AG|BB|VE|DM|GD|NL|KN|LC|VC|TT|FR|AI|VG|VI|MS|PR,3578932
+nwli,Leeward Islands (West Indies),Leeward Islands,Q29971,"17.083333333333,-61.8",AG,3513538
+nwmj,Montserrat,Montserrat,Q13353,"16.75,-62.2",MS|GB,3578097
+nwmq,Martinique,Martinique,Q17054,"14.65,-61.015",MQ|FR,3570311
+-nwna,Netherlands Antilles,Netherlands Antilles,Q25227,"15,-66",NL,8505032
+nwpr,Puerto Rico,Puerto Rico,Q1183,"18.25,-66.5",PR|US,4566966
+-nwsb,Saint-Barthélemy,Saint Barthélemy,Q25362,"17.897728,-62.8342438",BL|FR,3578476
+nwsc,Saint-Barthélemy,Saint Barthélemy,Q25362,"17.897728,-62.8342438",BL|FR,3578476
+nwsd,Saba,Saba,Q25528,"17.6325,-63.2375",NL,3513314|7610358
+nwsn,Sint Maarten,Sint Maarten,Q26273,"18.031944444444,-63.067777777778",SX|NL,7609695
+nwst,Saint-Martin,Saint-Martin,Q126125,"18.075277777778,-63.06",MF|FR,3578421
+nwsv,Swan Islands (Honduras),Swan Islands,Q1547671,"17.410555555556,-83.921944444444",HN,3601534
+nwtc,Turks and Caicos Islands,Turks and Caicos Islands,Q18221,"21.78,-71.8",TC|GB,3576916
+nwtr,Trinidad and Tobago,Trinidad and Tobago,Q754,"10.666666666667,-61.516666666667",TT,3573591
+nwuc,United States Miscellaneous Caribbean Islands,United States Miscellaneous Caribbean Islands,Q7890763,,,
+nwvb,British Virgin Islands,British Virgin Islands,Q25305,"18.445,-64.54",VG|GB,3577718
+nwvi,Virgin Islands of the United States,United States Virgin Islands,Q11703,"18.333333,-64.833333",VI|US,4796775
+-nwvr,Virgin Islands,Virgin Islands,Q26262,"18.2,-64.8",US|GB,3577322
+nwwi,Windward Islands (West Indies),Windward Islands,Q183416,"13.25,-61.2|13,-61",BB|GD|LC|VC|FR|TT,3578263
+nwxa,Anguilla,Anguilla,Q25228,"18.227222222222,-63.048888888889",AI|GB,3573511|3573512
+nwxi,Saint Kitts and Nevis,Saint Kitts and Nevis,Q763,"17.27166666666667,-62.666669444444445",KN,3575174
+nwxk,Saint Lucia,Saint Lucia,Q760,"13.883333333333333,-60.96666666666667",LC,3576468
+nwxm,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Q757,"13.0139,-61.2296",VC,3577815
+p,Pacific Ocean,Pacific Ocean,Q98,"0,-160",,2363254
+pn,North Pacific Ocean,North Pacific Ocean,Q12353254,,,4030875
+po,Oceania,Oceania,Q55643,"-18.5102,139.3671",,6255151
+poas,American Samoa,American Samoa,Q16641,"-14.295833,-170.7075",AS,5880801
+pobp,Solomon Islands,Solomon Islands,Q685,"-9.4666666666667,159.81666666667",SB,2103350
+poci,Caroline Islands,Caroline Islands,Q118350,"7.3825,147.0375",,
+-pocp,Canton and Enderbury Islands,Canton and Enderbury Islands,Q2618621,"-3,-171.4",,
+pocw,Cook Islands,Cook Islands,Q26988,"-21.233333333333334,-159.78333333333333",CK,1899402
+poea,Easter Island,Easter Island,Q14452,"-27.119444444444,-109.35472222222",CL,4030726|6930873
+pofj,Fiji,Fiji,Q712,"-18,178",FJ,2205218
+pofp,French Polynesia,French Polynesia,Q30971,"-17.533333333333335,-149.56666666666666",PF|FR,4030656
+pogg,Galapagos Islands,Galapagos Islands,Q38095,"-0.66666666666667,-90.55",EC,3658931
+-pogn,Gilbert and Ellice Islands,Gilbert and Ellice Islands,Q1050859,"1.26,173.02",GB,
+pogu,Guam,Guam,Q16635,"13.5,144.8",GU|US,4043988|4043542
+poji,Johnston Island,Johnston Atoll,Q131008,"16.75,-169.51666666667|16.72828,-169.53428",US,5854928
+pokb,Kiribati,Kiribati,Q710,"1.4666666666667,173.03333333333",KI,4030945
+poki,Kermadec Islands,Kermadec Islands,Q114935,"-29.276944444444,-177.92333333333",NZ,4032961|4032851
+poln,Line Islands,Line Islands,Q234796,"1.7,-157.2",KI|US,4030941
+pome,Melanesia,Melanesia,Q37394,"-7.4498138888888885,157.72016944444445",FJ|SB|PG|VU|FR|ID,7729899
+pomi,Micronesia (Federated States),Federated States of Micronesia,Q702,"6.9166666666667,158.18333333333",FM,2081918
+ponl,New Caledonia,New Caledonia,Q33788,"-21.25,165.3",NC|FR,2139685
+ponn,Vanuatu,Vanuatu,Q686,"-16.633330555556,168.01666944444",VU,2134431
+ponu,Nauru,Nauru,Q697,"-0.5275,166.935",NR,2110425
+popc,Pitcairn Island,Pitcairn Island,Q1779748,"-25.070556,-130.104444",GB,4030700
+popl,Palau,Palau,Q695,"7.466667,134.55",PW,1559582
+pops,Polynesia,Polynesia,Q35942,"-16.852961,148.40522",NZ|FR|CL|US|KI|TV|WS|TO|PN,7729901
+-pory,"Ryukyu Islands, Southern",Southern Ryukyu Islands,Q62590870,,,
+-posc,Santa Cruz Islands,Santa Cruz Islands,Q148839,"-11,166.25",SB,2178509
+posh,Samoan Islands,Samoan Islands,Q162126,"-14,-171",WS|US|AS,5881002
+-posn,Solomon Islands,Solomon Islands,Q685,"-9.4666666666667,159.81666666667",SB,2103350
+potl,Tokelau,Tokelau,Q36823,"-9.1666666666667,-171.83333333333",TK,4031074
+poto,Tonga,Tonga,Q678,"-20.587778,-174.810278",TO,4032283
+pott,Micronesia,Micronesia,Q3359409,"12,152",,7729900
+potv,Tuvalu,Tuvalu,Q672,"-7.475,178.005556",TV,2110297
+poup,United States Miscellaneous Pacific Islands,United States Miscellaneous Pacific Islands,Q3378903,,,
+powf,Wallis and Futuna Islands,Wallis and Futuna,Q35555,"-14.30181,-178.10932",WF,4034749|6942150
+powk,Wake Island,Wake Island,Q43296,"19.3,166.63333333333",,4041684
+pows,Samoa,Samoa,Q683,"-13.745,-172.2175",WS,4034894
+poxd,Mariana Islands,Mariana Islands,Q153732,"16.7,145.78",,6269450
+poxe,Marshall Islands,Marshall Islands,Q709,"9.82,169.29",MH,2080185
+poxf,Midway Islands,Midway Atoll,Q47863,"28.2075,-177.35",,5854941|5854943
+poxh,Niue,Niue,Q34020,"-19.05,-169.91666666667",NU,4036232
+ps,South Pacific Ocean,South Pacific Ocean,Q12355425,,,4030483
+q,Cold regions,,,,,
+r,Arctic Ocean; Arctic regions,Arctic Ocean,Q788,"90,0",,2960860
+s,South America,South America,Q18,"-21,-59",,6255150
+s-ag,Argentina,Argentina,Q414,"-34,-64",AR,3865483
+s-bl,Brazil,Brazil,Q155,"-14,-53",BR,3469034
+s-bo,Bolivia,Bolivia,Q750,"-17.056869611111,-64.991228611111",BO,3923057
+s-ck,Colombia,Colombia,Q739,"4,-73.25",CO,3686110
+s-cl,Chile,Chile,Q298,"-33,-71",CL,3895114
+s-ec,Ecuador,Ecuador,Q736,"-1,-78",EC,3658394
+s-fg,French Guiana,French Guiana,Q3769,"3.99886,-52.99994",GF|FR,3381670|6690606
+s-gy,Guyana,Guyana,Q734,"5.733333,-59.316667",GY,3378535
+s-pe,Peru,Peru,Q419,"-9.4,-76",PE,3932488
+s-py,Paraguay,Paraguay,Q733,"-23.5,-58",PY,3437598
+s-sr,Suriname,Suriname,Q730,"4,-56",SR,3382998
+s-uy,Uruguay,Uruguay,Q77,"-33,-56",UY,3439705
+s-ve,Venezuela,Venezuela,Q717,"8,-67",VE,3625428
+sa,Amazon River,Amazon,Q3783,"-4.44836,-73.4559|0.7077777777777778,-50.089444444444446",PE|CO|BR,3407729
+sn,Andes,Andes,Q5456,"-32.65333333,-70.01166667",BO|CL|CO|EC|PE|VE|AR,
+sp,Rio de la Plata (Argentina and Uruguay),Río de la Plata,Q35827,"-34.883055555556,-56.713611111111",,3426221|3441069
+t,Antarctic Ocean; Antarctica,Antarctic,Q1555938,"-90,0",,6632710
+-t-ay,Antarctica,Antarctica,Q51,"-90,0",,6255152
+u,Australasia,Australasia,Q45256,"-28.1095,146.301",,12626210
+u-ac,Ashmore and Cartier Islands,Ashmore and Cartier Islands,Q133888,"-12.258333333333,123.04166666667",AU,2077507
+u-at,Australia,Australia,Q408,"-25,133",AU,2077456
+u-at-ac,Australian Capital Territory,Australian Capital Territory,Q3258,"-35.45,148.98055555556",AU,2177478
+u-atc,Central Australia,Central Australia,Q18103669,"-23.7,133.87",AU,
+u-ate,Eastern Australia,Eastern states of Australia,Q5330629,"-27,146",AU,
+u-atn,Northern Australia,Northern Australia,Q17017944,,AU,
+u-at-ne,New South Wales,New South Wales,Q3224,"-32,147",AU,2155400
+u-at-no,Northern Territory,Northern Territory,Q3235,"-20,133",AU,2064513
+u-at-qn,Queensland,Queensland,Q36074,"-20,143",AU,2152274
+u-at-sa,South Australia,South Australia,Q35715,"-30,135",AU,2061327
+u-at-tm,Tasmania,Tasmania,Q34366,"-42,147",AU,2147291
+u-at-vi,Victoria,Victoria,Q36687,"-37,144",AU,2145234
+u-at-we,Western Australia,Western Australia,Q3206,"-26,121",AU,2058645
+u-cs,Coral Sea Islands,Coral Sea Islands,Q172216,"-19.090833333333,150.90166666667",AU,2170371
+u-nz,New Zealand,New Zealand,Q664,"-41.2,174",NZ,2186224
+-v,Communist countries,,,,,
+w,Tropics,tropics,Q42530,,,
+x,Earth,Earth,Q2,,,6295630
+xa,Eastern Hemisphere,Eastern Hemisphere,Q186198,"0,90",,
+xb,Northern Hemisphere,Northern Hemisphere,Q39061,"45,0",,
+xc,Southern Hemisphere,Southern Hemisphere,Q41228,"-45,0",,
+xd,Western Hemisphere,Western Hemisphere,Q181982,"0,-90",,
+zd,Deep space,,,,,
+zju,Jupiter,Jupiter,Q319,,,
+zma,Mars,Mars,Q111,,,
+zme,Mercury,Mercury,Q308,,,
+zmo,Moon,Moon,Q405,,,
+zne,Neptune,Neptune,Q332,,,
+zo,Outer space,outer space,Q4169,,,
+zpl,Pluto,Pluto,Q339,,,
+zs,Solar system,Solar System,Q544,,,
+zsa,Saturn,Saturn,Q193,,,
+zsu,Sun,Sun,Q525,,,
+zur,Uranus,Uranus,Q324,,,
+zve,Venus ,Venus,Q313,,,

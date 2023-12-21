@@ -1,0 +1,8135 @@
+{
+  "a-af": {
+    "place": "Afghanistan",
+    "wikidata_label": "Afghanistan",
+    "wikidata_id": "Q889",
+    "coordinates": [
+      "33,66"
+    ],
+    "iso_country_code": [
+      "AF"
+    ],
+    "geonames_id": [
+      "1149361"
+    ]
+  },
+  "f": {
+    "place": "Africa",
+    "wikidata_label": "Africa",
+    "wikidata_id": "Q15",
+    "coordinates": [
+      "21.09375,7.1881"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255146"
+    ]
+  },
+  "n-us-al": {
+    "place": "Alabama",
+    "wikidata_label": "Alabama",
+    "wikidata_id": "Q173",
+    "coordinates": [
+      "32.7,-86.7"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4829764"
+    ]
+  },
+  "n-us-ak": {
+    "place": "Alaska",
+    "wikidata_label": "Alaska",
+    "wikidata_id": "Q797",
+    "coordinates": [
+      "64,-150"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5879092"
+    ]
+  },
+  "e-aa": {
+    "place": "Albania",
+    "wikidata_label": "Albania",
+    "wikidata_id": "Q222",
+    "coordinates": [
+      "41,20"
+    ],
+    "iso_country_code": [
+      "AL"
+    ],
+    "geonames_id": [
+      "783754"
+    ]
+  },
+  "n-cn-ab": {
+    "place": "Alberta",
+    "wikidata_label": "Alberta",
+    "wikidata_id": "Q1951",
+    "coordinates": [
+      "55,-115"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "5883102"
+    ]
+  },
+  "f-ae": {
+    "place": "Algeria",
+    "wikidata_label": "Algeria",
+    "wikidata_id": "Q262",
+    "coordinates": [
+      "28,1"
+    ],
+    "iso_country_code": [
+      "DZ"
+    ],
+    "geonames_id": [
+      "2589581"
+    ]
+  },
+  "ea": {
+    "place": "Alps",
+    "wikidata_label": "Alps",
+    "wikidata_id": "Q1286",
+    "coordinates": [
+      "46,10"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "2661786"
+    ]
+  },
+  "sa": {
+    "place": "Amazon River",
+    "wikidata_label": "Amazon",
+    "wikidata_id": "Q3783",
+    "coordinates": [
+      "-4.44836,-73.4559",
+      "0.7077777777777778,-50.089444444444446"
+    ],
+    "iso_country_code": [
+      "PE",
+      "CO",
+      "BR"
+    ],
+    "geonames_id": [
+      "3407729"
+    ]
+  },
+  "poas": {
+    "place": "American Samoa",
+    "wikidata_label": "American Samoa",
+    "wikidata_id": "Q16641",
+    "coordinates": [
+      "-14.295833,-170.7075"
+    ],
+    "iso_country_code": [
+      "AS"
+    ],
+    "geonames_id": [
+      "5880801"
+    ]
+  },
+  "aa": {
+    "place": "Amur River (China and Russia)",
+    "wikidata_label": "Amur River",
+    "wikidata_id": "Q6862",
+    "coordinates": [
+      "52.9911,141.0467",
+      "53.3333,121.4814"
+    ],
+    "iso_country_code": [
+      "RU",
+      "CN"
+    ],
+    "geonames_id": [
+      "2127376"
+    ]
+  },
+  "sn": {
+    "place": "Andes",
+    "wikidata_label": "Andes",
+    "wikidata_id": "Q5456",
+    "coordinates": [
+      "-32.65333333,-70.01166667"
+    ],
+    "iso_country_code": [
+      "BO",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "VE",
+      "AR"
+    ],
+    "geonames_id": null
+  },
+  "e-an": {
+    "place": "Andorra",
+    "wikidata_label": "Andorra",
+    "wikidata_id": "Q228",
+    "coordinates": [
+      "42.558333333333,1.5552777777778"
+    ],
+    "iso_country_code": [
+      "AD"
+    ],
+    "geonames_id": [
+      "3041565"
+    ]
+  },
+  "f-ao": {
+    "place": "Angola",
+    "wikidata_label": "Angola",
+    "wikidata_id": "Q916",
+    "coordinates": [
+      "-12.35,17.35"
+    ],
+    "iso_country_code": [
+      "AO"
+    ],
+    "geonames_id": [
+      "3351879"
+    ]
+  },
+  "nwxa": {
+    "place": "Anguilla",
+    "wikidata_label": "Anguilla",
+    "wikidata_id": "Q25228",
+    "coordinates": [
+      "18.227222222222,-63.048888888889"
+    ],
+    "iso_country_code": [
+      "AI",
+      "GB"
+    ],
+    "geonames_id": [
+      "3573511",
+      "3573512"
+    ]
+  },
+  "a-cc-an": {
+    "place": "Anhui Sheng (China)",
+    "wikidata_label": "Anhui",
+    "wikidata_id": "Q40956",
+    "coordinates": [
+      "31.833333333333,117"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1818058"
+    ]
+  },
+  "t": {
+    "place": "Antarctic Ocean; Antarctica",
+    "wikidata_label": "Antarctic",
+    "wikidata_id": "Q1555938",
+    "coordinates": [
+      "-90,0"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6632710"
+    ]
+  },
+  "-t-ay": {
+    "place": "Antarctica",
+    "wikidata_label": "Antarctica",
+    "wikidata_id": "Q51",
+    "coordinates": [
+      "-90,0"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255152"
+    ]
+  },
+  "nwaq": {
+    "place": "Antigua and Barbuda",
+    "wikidata_label": "Antigua and Barbuda",
+    "wikidata_id": "Q781",
+    "coordinates": [
+      "17.116666666667,-61.85"
+    ],
+    "iso_country_code": [
+      "AG"
+    ],
+    "geonames_id": [
+      "3576396"
+    ]
+  },
+  "n-usa": {
+    "place": "Appalachian Mountains",
+    "wikidata_label": "Appalachian Mountains",
+    "wikidata_id": "Q93332",
+    "coordinates": [
+      "38,-79"
+    ],
+    "iso_country_code": [
+      "US",
+      "CA",
+      "FR"
+    ],
+    "geonames_id": [
+      "5178401"
+    ]
+  },
+  "ar": {
+    "place": "Arabian Peninsula",
+    "wikidata_label": "Arabian Peninsula",
+    "wikidata_id": "Q31945",
+    "coordinates": [
+      "23,46"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6957697"
+    ]
+  },
+  "au": {
+    "place": "Arabian Sea",
+    "wikidata_label": "Arabian Sea",
+    "wikidata_id": "Q58705",
+    "coordinates": [
+      "16,64"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1158455"
+    ]
+  },
+  "ma": {
+    "place": "Arab countries",
+    "wikidata_label": "Arab world",
+    "wikidata_id": "Q143487",
+    "coordinates": [
+      "10.5,15.5"
+    ],
+    "iso_country_code": [
+      "AE",
+      "BH",
+      "KW",
+      "IQ",
+      "SA",
+      "YE",
+      "OM",
+      "QA",
+      "LB",
+      "SY",
+      "PS",
+      "JO",
+      "EG",
+      "LY",
+      "TN",
+      "DZ",
+      "MA",
+      "EH",
+      "ER",
+      "SD",
+      "SO"
+    ],
+    "geonames_id": null
+  },
+  "r": {
+    "place": "Arctic Ocean; Arctic regions",
+    "wikidata_label": "Arctic Ocean",
+    "wikidata_id": "Q788",
+    "coordinates": [
+      "90,0"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "2960860"
+    ]
+  },
+  "s-ag": {
+    "place": "Argentina",
+    "wikidata_label": "Argentina",
+    "wikidata_id": "Q414",
+    "coordinates": [
+      "-34,-64"
+    ],
+    "iso_country_code": [
+      "AR"
+    ],
+    "geonames_id": [
+      "3865483"
+    ]
+  },
+  "n-us-az": {
+    "place": "Arizona",
+    "wikidata_label": "Arizona",
+    "wikidata_id": "Q816",
+    "coordinates": [
+      "34.286667,-111.656944"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5551752"
+    ]
+  },
+  "n-us-ar": {
+    "place": "Arkansas",
+    "wikidata_label": "Arkansas",
+    "wikidata_id": "Q1612",
+    "coordinates": [
+      "34.8,-92.2"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4099753"
+    ]
+  },
+  "a-ai": {
+    "place": "Armenia (Republic)",
+    "wikidata_label": "Armenia",
+    "wikidata_id": "Q399",
+    "coordinates": [
+      "40.383333,44.95"
+    ],
+    "iso_country_code": [
+      "AM"
+    ],
+    "geonames_id": [
+      "174982"
+    ]
+  },
+  "-e-ur-ai": {
+    "place": "Armenia (Republic)",
+    "wikidata_label": "Armenia",
+    "wikidata_id": "Q399",
+    "coordinates": [
+      "40.383333,44.95"
+    ],
+    "iso_country_code": [
+      "AM"
+    ],
+    "geonames_id": [
+      "174982"
+    ]
+  },
+  "nwaw": {
+    "place": "Aruba",
+    "wikidata_label": "Aruba",
+    "wikidata_id": "Q21203",
+    "coordinates": [
+      "12.51106253,-69.97422388"
+    ],
+    "iso_country_code": [
+      "AW",
+      "NL"
+    ],
+    "geonames_id": [
+      "3577279"
+    ]
+  },
+  "lsai": {
+    "place": "Ascension Island (Atlantic Ocean)",
+    "wikidata_label": "Ascension",
+    "wikidata_id": "Q46197",
+    "coordinates": [
+      "-7.9425,-14.368055555556"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "2411429",
+      "2411430"
+    ]
+  },
+  "u-ac": {
+    "place": "Ashmore and Cartier Islands",
+    "wikidata_label": "Ashmore and Cartier Islands",
+    "wikidata_id": "Q133888",
+    "coordinates": [
+      "-12.258333333333,123.04166666667"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2077507"
+    ]
+  },
+  "a": {
+    "place": "Asia",
+    "wikidata_label": "Asia",
+    "wikidata_id": "Q48",
+    "coordinates": [
+      "43.681111111111115,87.33111111111111"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255147"
+    ]
+  },
+  "l": {
+    "place": "Atlantic Ocean",
+    "wikidata_label": "Atlantic Ocean",
+    "wikidata_id": "Q97",
+    "coordinates": [
+      "0,-30"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3373405"
+    ]
+  },
+  "fa": {
+    "place": "Atlas Mountains",
+    "wikidata_label": "Atlas Mountains",
+    "wikidata_id": "Q130135",
+    "coordinates": [
+      "31.061944444444446,-7.916111111111111"
+    ],
+    "iso_country_code": [
+      "MA",
+      "DZ",
+      "TN"
+    ],
+    "geonames_id": [
+      "2556769"
+    ]
+  },
+  "u": {
+    "place": "Australasia",
+    "wikidata_label": "Australasia",
+    "wikidata_id": "Q45256",
+    "coordinates": [
+      "-28.1095,146.301"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "12626210"
+    ]
+  },
+  "u-at": {
+    "place": "Australia",
+    "wikidata_label": "Australia",
+    "wikidata_id": "Q408",
+    "coordinates": [
+      "-25,133"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2077456"
+    ]
+  },
+  "u-at-ac": {
+    "place": "Australian Capital Territory",
+    "wikidata_label": "Australian Capital Territory",
+    "wikidata_id": "Q3258",
+    "coordinates": [
+      "-35.45,148.98055555556"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2177478"
+    ]
+  },
+  "e-au": {
+    "place": "Austria",
+    "wikidata_label": "Austria",
+    "wikidata_id": "Q40",
+    "coordinates": [
+      "48,14"
+    ],
+    "iso_country_code": [
+      "AT"
+    ],
+    "geonames_id": [
+      "2782113"
+    ]
+  },
+  "a-aj": {
+    "place": "Azerbaijan",
+    "wikidata_label": "Azerbaijan",
+    "wikidata_id": "Q227",
+    "coordinates": [
+      "40.3,47.7"
+    ],
+    "iso_country_code": [
+      "AZ"
+    ],
+    "geonames_id": [
+      "587116"
+    ]
+  },
+  "-e-ur-aj": {
+    "place": "Azerbaijan",
+    "wikidata_label": "Azerbaijan",
+    "wikidata_id": "Q227",
+    "coordinates": [
+      "40.3,47.7"
+    ],
+    "iso_country_code": [
+      "AZ"
+    ],
+    "geonames_id": [
+      "587116"
+    ]
+  },
+  "lnaz": {
+    "place": "Azores",
+    "wikidata_label": "Azores",
+    "wikidata_id": "Q25263",
+    "coordinates": [
+      "38.66,-28.07"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3373385",
+      "3411865"
+    ]
+  },
+  "a-ba": {
+    "place": "Bahrain",
+    "wikidata_label": "Bahrain",
+    "wikidata_id": "Q398",
+    "coordinates": [
+      "26.0675,50.551111"
+    ],
+    "iso_country_code": [
+      "BH"
+    ],
+    "geonames_id": [
+      "290291"
+    ]
+  },
+  "e-gg": {
+    "place": "Guernsey",
+    "wikidata_label": "Bailiwick of Guernsey",
+    "wikidata_id": "Q25230",
+    "coordinates": [
+      "49.45,-2.5833333333333"
+    ],
+    "iso_country_code": [
+      "GG",
+      "GB"
+    ],
+    "geonames_id": [
+      "3042362"
+    ]
+  },
+  "ed": {
+    "place": "Balkan Peninsula",
+    "wikidata_label": "Balkans",
+    "wikidata_id": "Q23522",
+    "coordinates": [
+      "42,22"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "685608"
+    ]
+  },
+  "eb": {
+    "place": "Baltic States",
+    "wikidata_label": "Baltic states",
+    "wikidata_id": "Q39731",
+    "coordinates": [
+      "57,25"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "a-bg": {
+    "place": "Bangladesh",
+    "wikidata_label": "Bangladesh",
+    "wikidata_id": "Q902",
+    "coordinates": [
+      "24.016667,89.866667"
+    ],
+    "iso_country_code": [
+      "BD"
+    ],
+    "geonames_id": [
+      "1210997"
+    ]
+  },
+  "nwbb": {
+    "place": "Barbados",
+    "wikidata_label": "Barbados",
+    "wikidata_id": "Q244",
+    "coordinates": [
+      "13.17,-59.5525"
+    ],
+    "iso_country_code": [
+      "BB"
+    ],
+    "geonames_id": [
+      "3374084"
+    ]
+  },
+  "-nwbc": {
+    "place": "Barbuda",
+    "wikidata_label": "Barbuda",
+    "wikidata_id": "Q238752",
+    "coordinates": [
+      "17.6165,-61.8008"
+    ],
+    "iso_country_code": [
+      "AG"
+    ],
+    "geonames_id": [
+      "3576390"
+    ]
+  },
+  "ab": {
+    "place": "Bengal, Bay of",
+    "wikidata_label": "Bay of Bengal",
+    "wikidata_id": "Q38684",
+    "coordinates": [
+      "15,88"
+    ],
+    "iso_country_code": [
+      "IN",
+      "BD",
+      "LK",
+      "MM"
+    ],
+    "geonames_id": [
+      "1281789"
+    ]
+  },
+  "a-cc-pe": {
+    "place": "Beijing (China)",
+    "wikidata_label": "Beijing",
+    "wikidata_id": "Q956",
+    "coordinates": [
+      "39.90403,116.407526"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1816670"
+    ]
+  },
+  "e-bw": {
+    "place": "Belarus",
+    "wikidata_label": "Belarus",
+    "wikidata_id": "Q184",
+    "coordinates": [
+      "53.528333333333,28.046666666667"
+    ],
+    "iso_country_code": [
+      "BY"
+    ],
+    "geonames_id": [
+      "630336"
+    ]
+  },
+  "-e-ur-bw": {
+    "place": "Belarus",
+    "wikidata_label": "Belarus",
+    "wikidata_id": "Q184",
+    "coordinates": [
+      "53.528333333333,28.046666666667"
+    ],
+    "iso_country_code": [
+      "BY"
+    ],
+    "geonames_id": [
+      "630336"
+    ]
+  },
+  "e-be": {
+    "place": "Belgium",
+    "wikidata_label": "Belgium",
+    "wikidata_id": "Q31",
+    "coordinates": [
+      "50.641111111111,4.6680555555556"
+    ],
+    "iso_country_code": [
+      "BE"
+    ],
+    "geonames_id": [
+      "2802361"
+    ]
+  },
+  "ncbh": {
+    "place": "Belize",
+    "wikidata_label": "Belize",
+    "wikidata_id": "Q242",
+    "coordinates": [
+      "17.066666666666666,-88.7"
+    ],
+    "iso_country_code": [
+      "BZ"
+    ],
+    "geonames_id": [
+      "3582678"
+    ]
+  },
+  "el": {
+    "place": "Benelux countries",
+    "wikidata_label": "Benelux",
+    "wikidata_id": "Q13116",
+    "coordinates": null,
+    "iso_country_code": [
+      "NL",
+      "BE",
+      "LU"
+    ],
+    "geonames_id": null
+  },
+  "f-dm": {
+    "place": "Benin",
+    "wikidata_label": "Benin",
+    "wikidata_id": "Q962",
+    "coordinates": [
+      "8.8333333333333,2.1833333333333"
+    ],
+    "iso_country_code": [
+      "BJ"
+    ],
+    "geonames_id": [
+      "2395170"
+    ]
+  },
+  "lnbm": {
+    "place": "Bermuda Islands",
+    "wikidata_label": "Bermuda",
+    "wikidata_id": "Q23635",
+    "coordinates": [
+      "32.32,-64.74"
+    ],
+    "iso_country_code": [
+      "BM",
+      "GB"
+    ],
+    "geonames_id": [
+      "3573345",
+      "3573342"
+    ]
+  },
+  "a-bt": {
+    "place": "Bhutan",
+    "wikidata_label": "Bhutan",
+    "wikidata_id": "Q917",
+    "coordinates": [
+      "27.45,90.5"
+    ],
+    "iso_country_code": [
+      "BT"
+    ],
+    "geonames_id": [
+      "1252634"
+    ]
+  },
+  "-f-by": {
+    "place": "Biafra",
+    "wikidata_label": "Biafra",
+    "wikidata_id": "Q178469",
+    "coordinates": [
+      "6.45,7.5"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "mb": {
+    "place": "Black Sea",
+    "wikidata_label": "Black Sea",
+    "wikidata_id": "Q166",
+    "coordinates": [
+      "43.41,34.26"
+    ],
+    "iso_country_code": [
+      "BG",
+      "RU",
+      "UA",
+      "RO",
+      "TR",
+      "GE"
+    ],
+    "geonames_id": [
+      "630673"
+    ]
+  },
+  "a-ccp": {
+    "place": "Bo Hai (China)",
+    "wikidata_label": "Bohai Bay",
+    "wikidata_id": "Q495341",
+    "coordinates": [
+      "38.7,118.1"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": null
+  },
+  "s-bo": {
+    "place": "Bolivia",
+    "wikidata_label": "Bolivia",
+    "wikidata_id": "Q750",
+    "coordinates": [
+      "-17.056869611111,-64.991228611111"
+    ],
+    "iso_country_code": [
+      "BO"
+    ],
+    "geonames_id": [
+      "3923057"
+    ]
+  },
+  "nwbn": {
+    "place": "Bonaire",
+    "wikidata_label": "Bonaire",
+    "wikidata_id": "Q25396",
+    "coordinates": [
+      "12.1796,-68.2581"
+    ],
+    "iso_country_code": [
+      "NL"
+    ],
+    "geonames_id": [
+      "7609816"
+    ]
+  },
+  "a-bn": {
+    "place": "Borneo",
+    "wikidata_label": "Borneo",
+    "wikidata_id": "Q36117",
+    "coordinates": [
+      "-1,114"
+    ],
+    "iso_country_code": [
+      "ID",
+      "MY",
+      "BN"
+    ],
+    "geonames_id": [
+      "1648148",
+      "1641903"
+    ]
+  },
+  "e-bn": {
+    "place": "Bosnia and Herzegovina",
+    "wikidata_label": "Bosnia and Herzegovina",
+    "wikidata_id": "Q225",
+    "coordinates": [
+      "44,18"
+    ],
+    "iso_country_code": [
+      "BA"
+    ],
+    "geonames_id": [
+      "3277605"
+    ]
+  },
+  "f-bs": {
+    "place": "Botswana",
+    "wikidata_label": "Botswana",
+    "wikidata_id": "Q963",
+    "coordinates": [
+      "-22.2,23.7"
+    ],
+    "iso_country_code": [
+      "BW"
+    ],
+    "geonames_id": [
+      "933860"
+    ]
+  },
+  "lsbv": {
+    "place": "Bouvet Island",
+    "wikidata_label": "Bouvet Island",
+    "wikidata_id": "Q23408",
+    "coordinates": [
+      "-54.42,3.36"
+    ],
+    "iso_country_code": [
+      "BV",
+      "NO"
+    ],
+    "geonames_id": [
+      "3371123",
+      "3371122"
+    ]
+  },
+  "s-bl": {
+    "place": "Brazil",
+    "wikidata_label": "Brazil",
+    "wikidata_id": "Q155",
+    "coordinates": [
+      "-14,-53"
+    ],
+    "iso_country_code": [
+      "BR"
+    ],
+    "geonames_id": [
+      "3469034"
+    ]
+  },
+  "f-cf": {
+    "place": "Congo (Brazzaville)",
+    "wikidata_label": "Brazzaville",
+    "wikidata_id": "Q3844",
+    "coordinates": [
+      "-4.269444444444445,15.27111111111111"
+    ],
+    "iso_country_code": [
+      "CG"
+    ],
+    "geonames_id": [
+      "2260535"
+    ]
+  },
+  "n-cn-bc": {
+    "place": "British Columbia",
+    "wikidata_label": "British Columbia",
+    "wikidata_id": "Q1973",
+    "coordinates": [
+      "54.5,-124.5"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "5909050"
+    ]
+  },
+  "i-bi": {
+    "place": "British Indian Ocean Territory",
+    "wikidata_label": "British Indian Ocean Territory",
+    "wikidata_id": "Q43448",
+    "coordinates": [
+      "-6,71.5"
+    ],
+    "iso_country_code": [
+      "IO"
+    ],
+    "geonames_id": [
+      "1282588"
+    ]
+  },
+  "nwvb": {
+    "place": "British Virgin Islands",
+    "wikidata_label": "British Virgin Islands",
+    "wikidata_id": "Q25305",
+    "coordinates": [
+      "18.445,-64.54"
+    ],
+    "iso_country_code": [
+      "VG",
+      "GB"
+    ],
+    "geonames_id": [
+      "3577718"
+    ]
+  },
+  "a-bx": {
+    "place": "Brunei",
+    "wikidata_label": "Brunei",
+    "wikidata_id": "Q921",
+    "coordinates": [
+      "4.4,114.566667"
+    ],
+    "iso_country_code": [
+      "BN"
+    ],
+    "geonames_id": [
+      "1820814"
+    ]
+  },
+  "e-bu": {
+    "place": "Bulgaria",
+    "wikidata_label": "Bulgaria",
+    "wikidata_id": "Q219",
+    "coordinates": [
+      "42.75,25.5"
+    ],
+    "iso_country_code": [
+      "BG"
+    ],
+    "geonames_id": [
+      "732800"
+    ]
+  },
+  "f-uv": {
+    "place": "Burkina Faso",
+    "wikidata_label": "Burkina Faso",
+    "wikidata_id": "Q965",
+    "coordinates": [
+      "12.266667,-2.066667"
+    ],
+    "iso_country_code": [
+      "BF"
+    ],
+    "geonames_id": [
+      "2361809"
+    ]
+  },
+  "f-bd": {
+    "place": "Burundi",
+    "wikidata_label": "Burundi",
+    "wikidata_id": "Q967",
+    "coordinates": [
+      "-3.666667,29.816667"
+    ],
+    "iso_country_code": [
+      "BI"
+    ],
+    "geonames_id": [
+      "433561"
+    ]
+  },
+  "n-us-ca": {
+    "place": "California",
+    "wikidata_label": "California",
+    "wikidata_id": "Q99",
+    "coordinates": [
+      "37,-120"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5332921"
+    ]
+  },
+  "a-cb": {
+    "place": "Cambodia",
+    "wikidata_label": "Cambodia",
+    "wikidata_id": "Q424",
+    "coordinates": [
+      "12.5,105"
+    ],
+    "iso_country_code": [
+      "KH"
+    ],
+    "geonames_id": [
+      "1831722"
+    ]
+  },
+  "f-cm": {
+    "place": "Cameroon",
+    "wikidata_label": "Cameroon",
+    "wikidata_id": "Q1009",
+    "coordinates": [
+      "5.133333333333334,12.65"
+    ],
+    "iso_country_code": [
+      "CM"
+    ],
+    "geonames_id": [
+      "2233387"
+    ]
+  },
+  "n-cn": {
+    "place": "Canada",
+    "wikidata_label": "Canada",
+    "wikidata_id": "Q16",
+    "coordinates": [
+      "56,-109"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6251999"
+    ]
+  },
+  "n-cnp": {
+    "place": "Prairie Provinces",
+    "wikidata_label": "Canadian Prairies",
+    "wikidata_id": "Q1364746",
+    "coordinates": [
+      "50,-106"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": null
+  },
+  "lnca": {
+    "place": "Canary Islands",
+    "wikidata_label": "Canary Islands",
+    "wikidata_id": "Q5813",
+    "coordinates": [
+      "28.536,-15.749"
+    ],
+    "iso_country_code": [
+      "ES"
+    ],
+    "geonames_id": [
+      "2593110"
+    ]
+  },
+  "-pocp": {
+    "place": "Canton and Enderbury Islands",
+    "wikidata_label": "Canton and Enderbury Islands",
+    "wikidata_id": "Q2618621",
+    "coordinates": [
+      "-3,-171.4"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "lncv": {
+    "place": "Cabo Verde",
+    "wikidata_label": "Cape Verde",
+    "wikidata_id": "Q1011",
+    "coordinates": [
+      "15.3,-23.7"
+    ],
+    "iso_country_code": [
+      "CV"
+    ],
+    "geonames_id": [
+      "3374766"
+    ]
+  },
+  "cc": {
+    "place": "Caribbean Area; Caribbean Sea",
+    "wikidata_label": "Caribbean Sea",
+    "wikidata_id": "Q1247",
+    "coordinates": [
+      "15,-75"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "4563233",
+      "4795435"
+    ]
+  },
+  "poci": {
+    "place": "Caroline Islands",
+    "wikidata_label": "Caroline Islands",
+    "wikidata_id": "Q118350",
+    "coordinates": [
+      "7.3825,147.0375"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "ak": {
+    "place": "Caspian Sea",
+    "wikidata_label": "Caspian Sea",
+    "wikidata_id": "Q5484",
+    "coordinates": [
+      "42,50.5"
+    ],
+    "iso_country_code": [
+      "IR",
+      "RU",
+      "KZ",
+      "AZ",
+      "TM"
+    ],
+    "geonames_id": [
+      "630671"
+    ]
+  },
+  "e-urk": {
+    "place": "Caucasus",
+    "wikidata_label": "Caucasus",
+    "wikidata_id": "Q18869",
+    "coordinates": [
+      "42.261111111111,44.121111111111"
+    ],
+    "iso_country_code": [
+      "RU",
+      "GE",
+      "AM",
+      "AZ"
+    ],
+    "geonames_id": [
+      "615318"
+    ]
+  },
+  "e-urr": {
+    "place": "Caucasus, Northern (Russia)",
+    "wikidata_label": "Caucasus",
+    "wikidata_id": "Q18869",
+    "coordinates": [
+      "42.261111111111,44.121111111111"
+    ],
+    "iso_country_code": [
+      "RU",
+      "GE",
+      "AM",
+      "AZ"
+    ],
+    "geonames_id": [
+      "615318"
+    ]
+  },
+  "nwcj": {
+    "place": "Cayman Islands",
+    "wikidata_label": "Cayman Islands",
+    "wikidata_id": "Q5785",
+    "coordinates": [
+      "19.5,-80.5"
+    ],
+    "iso_country_code": [
+      "KY",
+      "GB"
+    ],
+    "geonames_id": [
+      "3580718"
+    ]
+  },
+  "fc": {
+    "place": "Africa, Central",
+    "wikidata_label": "Central Africa",
+    "wikidata_id": "Q27433",
+    "coordinates": [
+      "2.2230555555555553,16.19113888888889"
+    ],
+    "iso_country_code": [
+      "AO",
+      "GA",
+      "CM",
+      "CD",
+      "CG",
+      "CF",
+      "TD",
+      "GQ"
+    ],
+    "geonames_id": [
+      "7729886"
+    ]
+  },
+  "f-cx": {
+    "place": "Central African Republic",
+    "wikidata_label": "Central African Republic",
+    "wikidata_id": "Q929",
+    "coordinates": [
+      "6.7,20.9"
+    ],
+    "iso_country_code": [
+      "CF"
+    ],
+    "geonames_id": [
+      "239880"
+    ]
+  },
+  "nc": {
+    "place": "Central America",
+    "wikidata_label": "Central America",
+    "wikidata_id": "Q27611",
+    "coordinates": [
+      "12,-86"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729892"
+    ]
+  },
+  "ac": {
+    "place": "Asia, Central",
+    "wikidata_label": "Central Asia",
+    "wikidata_id": "Q27275",
+    "coordinates": [
+      "45.3,63.9"
+    ],
+    "iso_country_code": [
+      "KZ",
+      "KG",
+      "UZ",
+      "TJ",
+      "TM",
+      "AF",
+      "CN"
+    ],
+    "geonames_id": [
+      "7729893"
+    ]
+  },
+  "u-atc": {
+    "place": "Central Australia",
+    "wikidata_label": "Central Australia",
+    "wikidata_id": "Q18103669",
+    "coordinates": [
+      "-23.7,133.87"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": null
+  },
+  "e-urc": {
+    "place": "Central Chernozem Region (Russia)",
+    "wikidata_label": "Central Black Earth Economic Region",
+    "wikidata_id": "Q301538",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "ec": {
+    "place": "Europe, Central",
+    "wikidata_label": "Central Europe",
+    "wikidata_id": "Q27509",
+    "coordinates": [
+      "51,10"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-e-url": {
+    "place": "Central Region, RSFSR",
+    "wikidata_label": "Central Russia",
+    "wikidata_id": "Q4504093",
+    "coordinates": [
+      "54.533,37.617"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": null
+  },
+  "f-cd": {
+    "place": "Chad",
+    "wikidata_label": "Chad",
+    "wikidata_id": "Q657",
+    "coordinates": [
+      "15.466667,19.4"
+    ],
+    "iso_country_code": [
+      "TD"
+    ],
+    "geonames_id": [
+      "2434508"
+    ]
+  },
+  "s-cl": {
+    "place": "Chile",
+    "wikidata_label": "Chile",
+    "wikidata_id": "Q298",
+    "coordinates": [
+      "-33,-71"
+    ],
+    "iso_country_code": [
+      "CL"
+    ],
+    "geonames_id": [
+      "3895114"
+    ]
+  },
+  "a-cc-cq": {
+    "place": "Chongqing (China)",
+    "wikidata_label": "Chongqing",
+    "wikidata_id": "Q11725",
+    "coordinates": [
+      "29.55,106.50694444444"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1814905"
+    ]
+  },
+  "i-xa": {
+    "place": "Christmas Island (Indian Ocean)",
+    "wikidata_label": "Christmas Island",
+    "wikidata_id": "Q31063",
+    "coordinates": [
+      "-10.49,105.6275"
+    ],
+    "iso_country_code": [
+      "CX"
+    ],
+    "geonames_id": [
+      "2078138"
+    ]
+  },
+  "i-xb": {
+    "place": "Cocos (Keeling) Islands",
+    "wikidata_label": "Cocos Islands",
+    "wikidata_id": "Q36004",
+    "coordinates": [
+      "-12.1175,96.895"
+    ],
+    "iso_country_code": [
+      "CC"
+    ],
+    "geonames_id": [
+      "1547376"
+    ]
+  },
+  "s-ck": {
+    "place": "Colombia",
+    "wikidata_label": "Colombia",
+    "wikidata_id": "Q739",
+    "coordinates": [
+      "4,-73.25"
+    ],
+    "iso_country_code": [
+      "CO"
+    ],
+    "geonames_id": [
+      "3686110"
+    ]
+  },
+  "n-us-co": {
+    "place": "Colorado",
+    "wikidata_label": "Colorado",
+    "wikidata_id": "Q1261",
+    "coordinates": [
+      "39,-105.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5417618"
+    ]
+  },
+  "b": {
+    "place": "Commonwealth countries",
+    "wikidata_label": "Commonwealth of Nations",
+    "wikidata_id": "Q7785",
+    "coordinates": [
+      "51.505,-0.135833"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "11812257"
+    ]
+  },
+  "i-cq": {
+    "place": "Comoros",
+    "wikidata_label": "Comoros",
+    "wikidata_id": "Q970",
+    "coordinates": [
+      "-12.3,43.7"
+    ],
+    "iso_country_code": [
+      "KM"
+    ],
+    "geonames_id": [
+      "921929"
+    ]
+  },
+  "fg": {
+    "place": "Congo River",
+    "wikidata_label": "Congo",
+    "wikidata_id": "Q3503",
+    "coordinates": [
+      "-6.075,12.45"
+    ],
+    "iso_country_code": [
+      "AO",
+      "CD",
+      "CG",
+      "ZM"
+    ],
+    "geonames_id": [
+      "2241717",
+      "7731920"
+    ]
+  },
+  "n-us-ct": {
+    "place": "Connecticut",
+    "wikidata_label": "Connecticut",
+    "wikidata_id": "Q779",
+    "coordinates": [
+      "41.6,-72.7"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4831725"
+    ]
+  },
+  "pocw": {
+    "place": "Cook Islands",
+    "wikidata_label": "Cook Islands",
+    "wikidata_id": "Q26988",
+    "coordinates": [
+      "-21.233333333333334,-159.78333333333333"
+    ],
+    "iso_country_code": [
+      "CK"
+    ],
+    "geonames_id": [
+      "1899402"
+    ]
+  },
+  "u-cs": {
+    "place": "Coral Sea Islands",
+    "wikidata_label": "Coral Sea Islands",
+    "wikidata_id": "Q172216",
+    "coordinates": [
+      "-19.090833333333,150.90166666667"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2170371"
+    ]
+  },
+  "nccr": {
+    "place": "Costa Rica",
+    "wikidata_label": "Costa Rica",
+    "wikidata_id": "Q800",
+    "coordinates": [
+      "10,-84"
+    ],
+    "iso_country_code": [
+      "CR"
+    ],
+    "geonames_id": [
+      "3624060"
+    ]
+  },
+  "e-ci": {
+    "place": "Croatia",
+    "wikidata_label": "Croatia",
+    "wikidata_id": "Q224",
+    "coordinates": [
+      "45.25,15.466667"
+    ],
+    "iso_country_code": [
+      "HR"
+    ],
+    "geonames_id": [
+      "3202326"
+    ]
+  },
+  "nwcu": {
+    "place": "Cuba",
+    "wikidata_label": "Cuba",
+    "wikidata_id": "Q241",
+    "coordinates": [
+      "22,-79.5"
+    ],
+    "iso_country_code": [
+      "CU"
+    ],
+    "geonames_id": [
+      "3562981"
+    ]
+  },
+  "nwco": {
+    "place": "Curaçao",
+    "wikidata_label": "Curaçao",
+    "wikidata_id": "Q25279",
+    "coordinates": [
+      "12.1964,-69.012"
+    ],
+    "iso_country_code": [
+      "CW",
+      "NL"
+    ],
+    "geonames_id": [
+      "7626836"
+    ]
+  },
+  "a-cy": {
+    "place": "Cyprus",
+    "wikidata_label": "Cyprus",
+    "wikidata_id": "Q229",
+    "coordinates": [
+      "35,33"
+    ],
+    "iso_country_code": [
+      "CY"
+    ],
+    "geonames_id": [
+      "146669"
+    ]
+  },
+  "e-cs": {
+    "place": "Czechoslovakia",
+    "wikidata_label": "Czechoslovakia",
+    "wikidata_id": "Q33946",
+    "coordinates": [
+      "50.083333333333,14.416666666667"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "8505031"
+    ]
+  },
+  "e-xr": {
+    "place": "Czech Republic",
+    "wikidata_label": "Czech Republic",
+    "wikidata_id": "Q213",
+    "coordinates": [
+      "49.5,16"
+    ],
+    "iso_country_code": [
+      "CZ"
+    ],
+    "geonames_id": [
+      "3077311"
+    ]
+  },
+  "eo": {
+    "place": "Danube River",
+    "wikidata_label": "Danube",
+    "wikidata_id": "Q1653",
+    "coordinates": [
+      "45.221944444444446,29.743333333333332",
+      "48.09511111111111,8.15488888888889"
+    ],
+    "iso_country_code": [
+      "DE",
+      "AT",
+      "SK",
+      "HU",
+      "HR",
+      "RS",
+      "RO",
+      "BG",
+      "MD",
+      "UA"
+    ],
+    "geonames_id": [
+      "791630"
+    ]
+  },
+  "n-us-de": {
+    "place": "Delaware",
+    "wikidata_label": "Delaware",
+    "wikidata_id": "Q1393",
+    "coordinates": [
+      "39,-75.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4142224"
+    ]
+  },
+  "f-cg": {
+    "place": "Congo (Democratic Republic)",
+    "wikidata_label": "Democratic Republic of the Congo",
+    "wikidata_id": "Q974",
+    "coordinates": [
+      "-2.88,23.656111111111112"
+    ],
+    "iso_country_code": [
+      "CD"
+    ],
+    "geonames_id": [
+      "203312"
+    ]
+  },
+  "e-dk": {
+    "place": "Denmark",
+    "wikidata_label": "Denmark",
+    "wikidata_id": "Q35",
+    "coordinates": [
+      "56,10"
+    ],
+    "iso_country_code": [
+      "DK"
+    ],
+    "geonames_id": [
+      "2623032"
+    ]
+  },
+  "f-ft": {
+    "place": "Djibouti",
+    "wikidata_label": "Djibouti",
+    "wikidata_id": "Q977",
+    "coordinates": [
+      "11.8,42.433333"
+    ],
+    "iso_country_code": [
+      "DJ"
+    ],
+    "geonames_id": [
+      "223816"
+    ]
+  },
+  "nwdq": {
+    "place": "Dominica",
+    "wikidata_label": "Dominica",
+    "wikidata_id": "Q784",
+    "coordinates": [
+      "15.416667,-61.333333"
+    ],
+    "iso_country_code": [
+      "DM"
+    ],
+    "geonames_id": [
+      "3575830"
+    ]
+  },
+  "nwdr": {
+    "place": "Dominican Republic",
+    "wikidata_label": "Dominican Republic",
+    "wikidata_id": "Q786",
+    "coordinates": [
+      "18.8,-70.2"
+    ],
+    "iso_country_code": [
+      "DO"
+    ],
+    "geonames_id": [
+      "3508796"
+    ]
+  },
+  "x": {
+    "place": "Earth",
+    "wikidata_label": "Earth",
+    "wikidata_id": "Q2",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": [
+      "6295630"
+    ]
+  },
+  "fe": {
+    "place": "Africa, Eastern",
+    "wikidata_label": "East Africa",
+    "wikidata_id": "Q27407",
+    "coordinates": [
+      "-1.300444,36.84726"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729889"
+    ]
+  },
+  "ae": {
+    "place": "East Asia",
+    "wikidata_label": "East Asia",
+    "wikidata_id": "Q27231",
+    "coordinates": [
+      "47.210277777777776,102.84777777777778"
+    ],
+    "iso_country_code": [
+      "JP",
+      "KR",
+      "KP",
+      "CN",
+      "MN",
+      "TW",
+      "RU",
+      "VN"
+    ],
+    "geonames_id": [
+      "7729894"
+    ]
+  },
+  "-et": {
+    "place": "Europe, East Central",
+    "wikidata_label": "East-Central Europe",
+    "wikidata_id": "Q16389571",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "an": {
+    "place": "East China Sea",
+    "wikidata_label": "East China Sea",
+    "wikidata_id": "Q45341",
+    "coordinates": [
+      "30,125"
+    ],
+    "iso_country_code": [
+      "CN",
+      "JP",
+      "TW",
+      "KR"
+    ],
+    "geonames_id": [
+      "1676969"
+    ]
+  },
+  "poea": {
+    "place": "Easter Island",
+    "wikidata_label": "Easter Island",
+    "wikidata_id": "Q14452",
+    "coordinates": [
+      "-27.119444444444,-109.35472222222"
+    ],
+    "iso_country_code": [
+      "CL"
+    ],
+    "geonames_id": [
+      "4030726",
+      "6930873"
+    ]
+  },
+  "ee": {
+    "place": "Europe, Eastern",
+    "wikidata_label": "Eastern Europe",
+    "wikidata_id": "Q27468",
+    "coordinates": [
+      "49,31"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729884"
+    ]
+  },
+  "xa": {
+    "place": "Eastern Hemisphere",
+    "wikidata_label": "Eastern Hemisphere",
+    "wikidata_id": "Q186198",
+    "coordinates": [
+      "0,90"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-ure": {
+    "place": "Siberia, Eastern (Russia)",
+    "wikidata_label": "Eastern Siberia",
+    "wikidata_id": "Q1191996",
+    "coordinates": null,
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": null
+  },
+  "u-ate": {
+    "place": "Eastern Australia",
+    "wikidata_label": "Eastern states of Australia",
+    "wikidata_id": "Q5330629",
+    "coordinates": [
+      "-27,146"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": null
+  },
+  "n-usr": {
+    "place": "East (U.S.)",
+    "wikidata_label": "Eastern United States",
+    "wikidata_id": "Q1189650",
+    "coordinates": [
+      "38,-82"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "a-em": {
+    "place": "Timor-Leste",
+    "wikidata_label": "East Timor",
+    "wikidata_id": "Q574",
+    "coordinates": [
+      "-8.966667,125.75"
+    ],
+    "iso_country_code": [
+      "TL"
+    ],
+    "geonames_id": [
+      "1966436"
+    ]
+  },
+  "s-ec": {
+    "place": "Ecuador",
+    "wikidata_label": "Ecuador",
+    "wikidata_id": "Q736",
+    "coordinates": [
+      "-1,-78"
+    ],
+    "iso_country_code": [
+      "EC"
+    ],
+    "geonames_id": [
+      "3658394"
+    ]
+  },
+  "f-ua": {
+    "place": "Egypt",
+    "wikidata_label": "Egypt",
+    "wikidata_id": "Q79",
+    "coordinates": [
+      "27,29"
+    ],
+    "iso_country_code": [
+      "EG"
+    ],
+    "geonames_id": [
+      "357994"
+    ]
+  },
+  "nces": {
+    "place": "El Salvador",
+    "wikidata_label": "El Salvador",
+    "wikidata_id": "Q792",
+    "coordinates": [
+      "13.668889,-88.866111"
+    ],
+    "iso_country_code": [
+      "SV"
+    ],
+    "geonames_id": [
+      "3585968"
+    ]
+  },
+  "e-uk-en": {
+    "place": "England",
+    "wikidata_label": "England",
+    "wikidata_id": "Q21",
+    "coordinates": [
+      "53,-1"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "6269131",
+      "2649994"
+    ]
+  },
+  "fq": {
+    "place": "Africa, French-speaking Equatorial",
+    "wikidata_label": "Equatorial Africa",
+    "wikidata_id": "Q255634",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "f-eg": {
+    "place": "Equatorial Guinea",
+    "wikidata_label": "Equatorial Guinea",
+    "wikidata_id": "Q983",
+    "coordinates": [
+      "1.5,10"
+    ],
+    "iso_country_code": [
+      "GQ"
+    ],
+    "geonames_id": [
+      "2309096"
+    ]
+  },
+  "f-ea": {
+    "place": "Eritrea",
+    "wikidata_label": "Eritrea",
+    "wikidata_id": "Q986",
+    "coordinates": [
+      "15.483333,38.25"
+    ],
+    "iso_country_code": [
+      "ER"
+    ],
+    "geonames_id": [
+      "338010"
+    ]
+  },
+  "e-er": {
+    "place": "Estonia",
+    "wikidata_label": "Estonia",
+    "wikidata_id": "Q191",
+    "coordinates": [
+      "59,26"
+    ],
+    "iso_country_code": [
+      "EE"
+    ],
+    "geonames_id": [
+      "453733"
+    ]
+  },
+  "-e-ur-er": {
+    "place": "Estonia",
+    "wikidata_label": "Estonia",
+    "wikidata_id": "Q191",
+    "coordinates": [
+      "59,26"
+    ],
+    "iso_country_code": [
+      "EE"
+    ],
+    "geonames_id": [
+      "453733"
+    ]
+  },
+  "f-sq": {
+    "place": "Eswatini",
+    "wikidata_label": "Eswatini",
+    "wikidata_id": "Q1050",
+    "coordinates": [
+      "-26.483333,31.433333"
+    ],
+    "iso_country_code": [
+      "SZ"
+    ],
+    "geonames_id": [
+      "934841"
+    ]
+  },
+  "f-et": {
+    "place": "Ethiopia",
+    "wikidata_label": "Ethiopia",
+    "wikidata_id": "Q115",
+    "coordinates": [
+      "9,40"
+    ],
+    "iso_country_code": [
+      "ET"
+    ],
+    "geonames_id": [
+      "337996"
+    ]
+  },
+  "me": {
+    "place": "Eurasia",
+    "wikidata_label": "Eurasia",
+    "wikidata_id": "Q5401",
+    "coordinates": [
+      "50,80"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e": {
+    "place": "Europe",
+    "wikidata_label": "Europe",
+    "wikidata_id": "Q46",
+    "coordinates": [
+      "48.690959,9.14062"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255148"
+    ]
+  },
+  "lsfk": {
+    "place": "Falkland Islands",
+    "wikidata_label": "Falkland Islands",
+    "wikidata_id": "Q9648",
+    "coordinates": [
+      "-51.73,-59.22"
+    ],
+    "iso_country_code": [
+      "FK",
+      "GB"
+    ],
+    "geonames_id": [
+      "3474414"
+    ]
+  },
+  "lnfa": {
+    "place": "Faroe Islands",
+    "wikidata_label": "Faroe Islands",
+    "wikidata_id": "Q4628",
+    "coordinates": [
+      "61.969944444444,-6.8444805555556"
+    ],
+    "iso_country_code": [
+      "FO",
+      "DK"
+    ],
+    "geonames_id": [
+      "2622320"
+    ]
+  },
+  "pomi": {
+    "place": "Micronesia (Federated States)",
+    "wikidata_label": "Federated States of Micronesia",
+    "wikidata_id": "Q702",
+    "coordinates": [
+      "6.9166666666667,158.18333333333"
+    ],
+    "iso_country_code": [
+      "FM"
+    ],
+    "geonames_id": [
+      "2081918"
+    ]
+  },
+  "pofj": {
+    "place": "Fiji",
+    "wikidata_label": "Fiji",
+    "wikidata_id": "Q712",
+    "coordinates": [
+      "-18,178"
+    ],
+    "iso_country_code": [
+      "FJ"
+    ],
+    "geonames_id": [
+      "2205218"
+    ]
+  },
+  "e-fi": {
+    "place": "Finland",
+    "wikidata_label": "Finland",
+    "wikidata_id": "Q33",
+    "coordinates": [
+      "65,27"
+    ],
+    "iso_country_code": [
+      "FI"
+    ],
+    "geonames_id": [
+      "660013"
+    ]
+  },
+  "n-us-fl": {
+    "place": "Florida",
+    "wikidata_label": "Florida",
+    "wikidata_id": "Q812",
+    "coordinates": [
+      "28.133333333333,-81.631666666667"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4155751"
+    ]
+  },
+  "e-fr": {
+    "place": "France",
+    "wikidata_label": "France",
+    "wikidata_id": "Q142",
+    "coordinates": [
+      "47,2"
+    ],
+    "iso_country_code": [
+      "FR"
+    ],
+    "geonames_id": [
+      "3017382"
+    ]
+  },
+  "h": {
+    "place": "French Community",
+    "wikidata_label": "French Community",
+    "wikidata_id": "Q1120363",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "s-fg": {
+    "place": "French Guiana",
+    "wikidata_label": "French Guiana",
+    "wikidata_id": "Q3769",
+    "coordinates": [
+      "3.99886,-52.99994"
+    ],
+    "iso_country_code": [
+      "GF",
+      "FR"
+    ],
+    "geonames_id": [
+      "3381670",
+      "6690606"
+    ]
+  },
+  "pofp": {
+    "place": "French Polynesia",
+    "wikidata_label": "French Polynesia",
+    "wikidata_id": "Q30971",
+    "coordinates": [
+      "-17.533333333333335,-149.56666666666666"
+    ],
+    "iso_country_code": [
+      "PF",
+      "FR"
+    ],
+    "geonames_id": [
+      "4030656"
+    ]
+  },
+  "i-fs": {
+    "place": "Terres australes et antarctiques françaises",
+    "wikidata_label": "French Southern and Antarctic Lands",
+    "wikidata_id": "Q129003",
+    "coordinates": [
+      "-43,67"
+    ],
+    "iso_country_code": [
+      "TF"
+    ],
+    "geonames_id": [
+      "1546748"
+    ]
+  },
+  "a-cc-fu": {
+    "place": "Fujian Sheng (China)",
+    "wikidata_label": "Fujian",
+    "wikidata_id": "Q41705",
+    "coordinates": [
+      "25.9,118.3"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1811017"
+    ]
+  },
+  "f-go": {
+    "place": "Gabon",
+    "wikidata_label": "Gabon",
+    "wikidata_id": "Q1000",
+    "coordinates": [
+      "-0.68333055555556,11.5"
+    ],
+    "iso_country_code": [
+      "GA"
+    ],
+    "geonames_id": [
+      "2400553"
+    ]
+  },
+  "pogg": {
+    "place": "Galapagos Islands",
+    "wikidata_label": "Galapagos Islands",
+    "wikidata_id": "Q38095",
+    "coordinates": [
+      "-0.66666666666667,-90.55"
+    ],
+    "iso_country_code": [
+      "EC"
+    ],
+    "geonames_id": [
+      "3658931"
+    ]
+  },
+  "a-cc-ka": {
+    "place": "Gansu Sheng (China)",
+    "wikidata_label": "Gansu",
+    "wikidata_id": "Q42392",
+    "coordinates": [
+      "38,102"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1810676"
+    ]
+  },
+  "awgz": {
+    "place": "Gaza Strip",
+    "wikidata_label": "Gaza Strip",
+    "wikidata_id": "Q39760",
+    "coordinates": [
+      "31.45,34.4"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "281132"
+    ]
+  },
+  "a-gs": {
+    "place": "Georgia (Republic)",
+    "wikidata_label": "Georgia",
+    "wikidata_id": "Q230",
+    "coordinates": [
+      "42,44"
+    ],
+    "iso_country_code": [
+      "GE"
+    ],
+    "geonames_id": [
+      "614540"
+    ]
+  },
+  "-e-ur-gs": {
+    "place": "Georgia (Republic)",
+    "wikidata_label": "Georgia",
+    "wikidata_id": "Q230",
+    "coordinates": [
+      "42,44"
+    ],
+    "iso_country_code": [
+      "GE"
+    ],
+    "geonames_id": [
+      "614540"
+    ]
+  },
+  "n-us-ga": {
+    "place": "Georgia",
+    "wikidata_label": "Georgia",
+    "wikidata_id": "Q1428",
+    "coordinates": [
+      "33,-83.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4197000"
+    ]
+  },
+  "e-ge": {
+    "place": "Germany (East)",
+    "wikidata_label": "German Democratic Republic",
+    "wikidata_id": "Q16957",
+    "coordinates": [
+      "52.052,12.389"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "8354410"
+    ]
+  },
+  "e-gx": {
+    "place": "Germany",
+    "wikidata_label": "Germany",
+    "wikidata_id": "Q183",
+    "coordinates": [
+      "51,10"
+    ],
+    "iso_country_code": [
+      "DE"
+    ],
+    "geonames_id": [
+      "2921044"
+    ]
+  },
+  "f-gh": {
+    "place": "Ghana",
+    "wikidata_label": "Ghana",
+    "wikidata_id": "Q117",
+    "coordinates": [
+      "8.03,-1.08"
+    ],
+    "iso_country_code": [
+      "GH"
+    ],
+    "geonames_id": [
+      "2300660"
+    ]
+  },
+  "e-gi": {
+    "place": "Gibraltar",
+    "wikidata_label": "Gibraltar",
+    "wikidata_id": "Q1410",
+    "coordinates": [
+      "36.14,-5.35"
+    ],
+    "iso_country_code": [
+      "GI"
+    ],
+    "geonames_id": [
+      "2411586",
+      "2411585"
+    ]
+  },
+  "-pogn": {
+    "place": "Gilbert and Ellice Islands",
+    "wikidata_label": "Gilbert and Ellice Islands",
+    "wikidata_id": "Q1050859",
+    "coordinates": [
+      "1.26,173.02"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": null
+  },
+  "-nwga": {
+    "place": "Greater Antilles",
+    "wikidata_label": "Greater Antilles",
+    "wikidata_id": "Q128011",
+    "coordinates": [
+      "21.983333333333,-79.033333333333"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "nl": {
+    "place": "Great Lakes (North America); Lake States",
+    "wikidata_label": "Great Lakes",
+    "wikidata_id": "Q7347",
+    "coordinates": [
+      "45.75,-84"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "np": {
+    "place": "Great Plains",
+    "wikidata_label": "Great Plains",
+    "wikidata_id": "Q12707",
+    "coordinates": [
+      "40,-100"
+    ],
+    "iso_country_code": [
+      "US",
+      "CA"
+    ],
+    "geonames_id": [
+      "5445514"
+    ]
+  },
+  "fr": {
+    "place": "Great Rift Valley",
+    "wikidata_label": "Great Rift Valley",
+    "wikidata_id": "Q81591",
+    "coordinates": [
+      "-0.1,36.1"
+    ],
+    "iso_country_code": [
+      "ER",
+      "ET",
+      "DJ",
+      "SS",
+      "KE",
+      "UG",
+      "CD",
+      "RW",
+      "BI",
+      "TZ",
+      "MW",
+      "MZ",
+      "ZM",
+      "ZW"
+    ],
+    "geonames_id": [
+      "6957928"
+    ]
+  },
+  "e-gr": {
+    "place": "Greece",
+    "wikidata_label": "Greece",
+    "wikidata_id": "Q41",
+    "coordinates": [
+      "38.5,23"
+    ],
+    "iso_country_code": [
+      "GR"
+    ],
+    "geonames_id": [
+      "390903"
+    ]
+  },
+  "n-gl": {
+    "place": "Greenland",
+    "wikidata_label": "Greenland",
+    "wikidata_id": "Q223",
+    "coordinates": [
+      "72,-40"
+    ],
+    "iso_country_code": [
+      "GL",
+      "DK"
+    ],
+    "geonames_id": [
+      "3425505"
+    ]
+  },
+  "nwgd": {
+    "place": "Grenada",
+    "wikidata_label": "Grenada",
+    "wikidata_id": "Q769",
+    "coordinates": [
+      "12.116667,-61.666667"
+    ],
+    "iso_country_code": [
+      "GD"
+    ],
+    "geonames_id": [
+      "3580239"
+    ]
+  },
+  "-nwgs": {
+    "place": "Grenadines",
+    "wikidata_label": "Grenadines",
+    "wikidata_id": "Q503482",
+    "coordinates": [
+      "12.666666666667,-61.25"
+    ],
+    "iso_country_code": [
+      "VC",
+      "GD"
+    ],
+    "geonames_id": [
+      "3577891"
+    ]
+  },
+  "nwgp": {
+    "place": "Guadeloupe",
+    "wikidata_label": "Guadeloupe",
+    "wikidata_id": "Q17012",
+    "coordinates": [
+      "16.2595,-61.5605"
+    ],
+    "iso_country_code": [
+      "GP",
+      "FR"
+    ],
+    "geonames_id": [
+      "3579143"
+    ]
+  },
+  "pogu": {
+    "place": "Guam",
+    "wikidata_label": "Guam",
+    "wikidata_id": "Q16635",
+    "coordinates": [
+      "13.5,144.8"
+    ],
+    "iso_country_code": [
+      "GU",
+      "US"
+    ],
+    "geonames_id": [
+      "4043988",
+      "4043542"
+    ]
+  },
+  "a-cc-kn": {
+    "place": "Guangdong Sheng (China)",
+    "wikidata_label": "Guangdong",
+    "wikidata_id": "Q15175",
+    "coordinates": [
+      "23.4,113.5"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1809935"
+    ]
+  },
+  "a-cc-kc": {
+    "place": "Guangxi Zhuangzu Zizhiqu (China)",
+    "wikidata_label": "Guangxi",
+    "wikidata_id": "Q15176",
+    "coordinates": [
+      "23.6,108.3"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1809867"
+    ]
+  },
+  "ncgt": {
+    "place": "Guatemala",
+    "wikidata_label": "Guatemala",
+    "wikidata_id": "Q774",
+    "coordinates": [
+      "15.5,-90.25"
+    ],
+    "iso_country_code": [
+      "GT"
+    ],
+    "geonames_id": [
+      "3595528"
+    ]
+  },
+  "f-gv": {
+    "place": "Guinea",
+    "wikidata_label": "Guinea",
+    "wikidata_id": "Q1006",
+    "coordinates": [
+      "10,-11"
+    ],
+    "iso_country_code": [
+      "GN"
+    ],
+    "geonames_id": [
+      "2420477"
+    ]
+  },
+  "f-pg": {
+    "place": "Guinea-Bissau",
+    "wikidata_label": "Guinea-Bissau",
+    "wikidata_id": "Q1007",
+    "coordinates": [
+      "12,-15"
+    ],
+    "iso_country_code": [
+      "GW"
+    ],
+    "geonames_id": [
+      "2372248"
+    ]
+  },
+  "a-cc-kw": {
+    "place": "Guizhou Sheng (China)",
+    "wikidata_label": "Guizhou",
+    "wikidata_id": "Q47097",
+    "coordinates": [
+      "26.833333333333,106.83333333333"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1809445"
+    ]
+  },
+  "nm": {
+    "place": "Mexico, Gulf of",
+    "wikidata_label": "Gulf of Mexico",
+    "wikidata_id": "Q12630",
+    "coordinates": [
+      "25,-90"
+    ],
+    "iso_country_code": [
+      "MX",
+      "US",
+      "CU"
+    ],
+    "geonames_id": [
+      "3523271",
+      "4326669"
+    ]
+  },
+  "af": {
+    "place": "Thailand, Gulf of",
+    "wikidata_label": "Gulf of Thailand",
+    "wikidata_id": "Q131217",
+    "coordinates": [
+      "9.5,102"
+    ],
+    "iso_country_code": [
+      "TH",
+      "KH",
+      "VN",
+      "MY"
+    ],
+    "geonames_id": [
+      "1818185"
+    ]
+  },
+  "s-gy": {
+    "place": "Guyana",
+    "wikidata_label": "Guyana",
+    "wikidata_id": "Q734",
+    "coordinates": [
+      "5.733333,-59.316667"
+    ],
+    "iso_country_code": [
+      "GY"
+    ],
+    "geonames_id": [
+      "3378535"
+    ]
+  },
+  "a-cc-ha": {
+    "place": "Hainan Sheng (China)",
+    "wikidata_label": "Hainan",
+    "wikidata_id": "Q42200",
+    "coordinates": [
+      "20.03342,110.32398"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1809054"
+    ]
+  },
+  "nwht": {
+    "place": "Haiti",
+    "wikidata_label": "Haiti",
+    "wikidata_id": "Q790",
+    "coordinates": [
+      "19,-72.8"
+    ],
+    "iso_country_code": [
+      "HT"
+    ],
+    "geonames_id": [
+      "3723988"
+    ]
+  },
+  "n-us-hi": {
+    "place": "Hawaii",
+    "wikidata_label": "Hawaii",
+    "wikidata_id": "Q782",
+    "coordinates": [
+      "21.5,-158"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5855797"
+    ]
+  },
+  "i-hm": {
+    "place": "Heard and McDonald Islands",
+    "wikidata_label": "Heard Island and McDonald Islands",
+    "wikidata_id": "Q131198",
+    "coordinates": [
+      "-53.09352777777778,73.517"
+    ],
+    "iso_country_code": [
+      "HM"
+    ],
+    "geonames_id": [
+      "1547314"
+    ]
+  },
+  "a-cc-hp": {
+    "place": "Hebei Sheng (China)",
+    "wikidata_label": "Hebei",
+    "wikidata_id": "Q21208",
+    "coordinates": [
+      "38.042222222222,114.50861111111"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1808773"
+    ]
+  },
+  "a-cc-he": {
+    "place": "Heilongjiang Sheng (China)",
+    "wikidata_label": "Heilongjiang",
+    "wikidata_id": "Q19206",
+    "coordinates": [
+      "48,129"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "2036965"
+    ]
+  },
+  "a-cc-ho": {
+    "place": "Henan Sheng (China)",
+    "wikidata_label": "Henan",
+    "wikidata_id": "Q43684",
+    "coordinates": [
+      "33.9,113.5"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1808520"
+    ]
+  },
+  "ah": {
+    "place": "Himalaya Mountains",
+    "wikidata_label": "Himalayas",
+    "wikidata_id": "Q5451",
+    "coordinates": [
+      "29,84"
+    ],
+    "iso_country_code": [
+      "NP",
+      "MM",
+      "CN",
+      "PK",
+      "IN",
+      "AF",
+      "BT"
+    ],
+    "geonames_id": [
+      "1252558"
+    ]
+  },
+  "nwhi": {
+    "place": "Hispaniola",
+    "wikidata_label": "Hispaniola",
+    "wikidata_id": "Q25277",
+    "coordinates": [
+      "19,-71"
+    ],
+    "iso_country_code": [
+      "DO",
+      "HT"
+    ],
+    "geonames_id": [
+      "3504558"
+    ]
+  },
+  "ncho": {
+    "place": "Honduras",
+    "wikidata_label": "Honduras",
+    "wikidata_id": "Q783",
+    "coordinates": [
+      "14.633333,-86.816667"
+    ],
+    "iso_country_code": [
+      "HN"
+    ],
+    "geonames_id": [
+      "3608932"
+    ]
+  },
+  "a-cc-hk": {
+    "place": "Hong Kong (China)",
+    "wikidata_label": "Hong Kong",
+    "wikidata_id": "Q8646",
+    "coordinates": [
+      "22.278333333333,114.15861111111"
+    ],
+    "iso_country_code": [
+      "HK",
+      "CN"
+    ],
+    "geonames_id": [
+      "1819730"
+    ]
+  },
+  "-a-hk": {
+    "place": "Hong Kong",
+    "wikidata_label": "Hong Kong",
+    "wikidata_id": "Q8646",
+    "coordinates": [
+      "22.278333333333,114.15861111111"
+    ],
+    "iso_country_code": [
+      "HK",
+      "CN"
+    ],
+    "geonames_id": [
+      "1819730"
+    ]
+  },
+  "a-cc-hh": {
+    "place": "Hubei Sheng (China)",
+    "wikidata_label": "Hubei",
+    "wikidata_id": "Q46862",
+    "coordinates": [
+      "31.2,112.3"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1806949"
+    ]
+  },
+  "n-cnh": {
+    "place": "Hudson Bay",
+    "wikidata_label": "Hudson Bay",
+    "wikidata_id": "Q3040",
+    "coordinates": [
+      "60,-85"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "5978134"
+    ]
+  },
+  "a-cc-hu": {
+    "place": "Hunan Sheng (China)",
+    "wikidata_label": "Hunan",
+    "wikidata_id": "Q45761",
+    "coordinates": [
+      "27.4,111.8"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1806691"
+    ]
+  },
+  "e-hu": {
+    "place": "Hungary",
+    "wikidata_label": "Hungary",
+    "wikidata_id": "Q28",
+    "coordinates": [
+      "47,19"
+    ],
+    "iso_country_code": [
+      "HU"
+    ],
+    "geonames_id": [
+      "719819"
+    ]
+  },
+  "-ei": {
+    "place": "Iberian Peninsula",
+    "wikidata_label": "Iberian Peninsula",
+    "wikidata_id": "Q12837",
+    "coordinates": [
+      "40.24,-4.2391666666667"
+    ],
+    "iso_country_code": [
+      "ES",
+      "PT",
+      "AD",
+      "GI",
+      "FR"
+    ],
+    "geonames_id": [
+      "2267430"
+    ]
+  },
+  "e-ic": {
+    "place": "Iceland",
+    "wikidata_label": "Iceland",
+    "wikidata_id": "Q189",
+    "coordinates": [
+      "65,-19"
+    ],
+    "iso_country_code": [
+      "IS"
+    ],
+    "geonames_id": [
+      "2629691"
+    ]
+  },
+  "n-us-id": {
+    "place": "Idaho",
+    "wikidata_label": "Idaho",
+    "wikidata_id": "Q1221",
+    "coordinates": [
+      "45,-114"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5596512"
+    ]
+  },
+  "-f-if": {
+    "place": "Ifni",
+    "wikidata_label": "Ifni",
+    "wikidata_id": "Q763141",
+    "coordinates": [
+      "29.366666666667,-10.183333333333"
+    ],
+    "iso_country_code": [
+      "ES"
+    ],
+    "geonames_id": null
+  },
+  "n-us-il": {
+    "place": "Illinois",
+    "wikidata_label": "Illinois",
+    "wikidata_id": "Q1204",
+    "coordinates": [
+      "40.000277777777775,-89.25027777777778"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4896861"
+    ]
+  },
+  "a-ii": {
+    "place": "India",
+    "wikidata_label": "India",
+    "wikidata_id": "Q668",
+    "coordinates": [
+      "22.8,83"
+    ],
+    "iso_country_code": [
+      "IN"
+    ],
+    "geonames_id": [
+      "1269750"
+    ]
+  },
+  "n-us-in": {
+    "place": "Indiana",
+    "wikidata_label": "Indiana",
+    "wikidata_id": "Q1415",
+    "coordinates": [
+      "39.933333333333,-86.216666666667"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4921868"
+    ]
+  },
+  "i": {
+    "place": "Indian Ocean",
+    "wikidata_label": "Indian Ocean",
+    "wikidata_id": "Q1239",
+    "coordinates": [
+      "-20,80"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1545739"
+    ]
+  },
+  "a-io": {
+    "place": "Indonesia",
+    "wikidata_label": "Indonesia",
+    "wikidata_id": "Q252",
+    "coordinates": [
+      "-2,118"
+    ],
+    "iso_country_code": [
+      "ID"
+    ],
+    "geonames_id": [
+      "1643084"
+    ]
+  },
+  "a-cc-im": {
+    "place": "Inner Mongolia (China)",
+    "wikidata_label": "Inner Mongolia",
+    "wikidata_id": "Q41079",
+    "coordinates": [
+      "44,113"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "2035607"
+    ]
+  },
+  "n-us-ia": {
+    "place": "Iowa",
+    "wikidata_label": "Iowa",
+    "wikidata_id": "Q1546",
+    "coordinates": [
+      "42,-93"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4862182"
+    ]
+  },
+  "a-ir": {
+    "place": "Iran",
+    "wikidata_label": "Iran",
+    "wikidata_id": "Q794",
+    "coordinates": [
+      "32,53"
+    ],
+    "iso_country_code": [
+      "IR"
+    ],
+    "geonames_id": [
+      "130758"
+    ]
+  },
+  "a-iq": {
+    "place": "Iraq",
+    "wikidata_label": "Iraq",
+    "wikidata_id": "Q796",
+    "coordinates": [
+      "33,43"
+    ],
+    "iso_country_code": [
+      "IQ"
+    ],
+    "geonames_id": [
+      "99237"
+    ]
+  },
+  "e-im": {
+    "place": "Isle of Man",
+    "wikidata_label": "Isle of Man",
+    "wikidata_id": "Q9676",
+    "coordinates": [
+      "54.235,-4.525"
+    ],
+    "iso_country_code": [
+      "IM"
+    ],
+    "geonames_id": [
+      "3042225"
+    ]
+  },
+  "a-is": {
+    "place": "Israel",
+    "wikidata_label": "Israel",
+    "wikidata_id": "Q801",
+    "coordinates": [
+      "31,35"
+    ],
+    "iso_country_code": [
+      "IL"
+    ],
+    "geonames_id": [
+      "294640"
+    ]
+  },
+  "-awiw": {
+    "place": "Israel-Jordan Demilitarized Zones",
+    "wikidata_label": "Israel-Jordan Demilitarized Zones",
+    "wikidata_id": "Q62590159",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-awiu": {
+    "place": "Israel-Syria Demilitarized Zones",
+    "wikidata_label": "Israel-Syria Demilitarized Zones",
+    "wikidata_id": "Q21586797",
+    "coordinates": [
+      "33,35.61667"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "169355"
+    ]
+  },
+  "e-it": {
+    "place": "Italy",
+    "wikidata_label": "Italy",
+    "wikidata_id": "Q38",
+    "coordinates": [
+      "42.5,12.5"
+    ],
+    "iso_country_code": [
+      "IT"
+    ],
+    "geonames_id": [
+      "3175395"
+    ]
+  },
+  "f-iv": {
+    "place": "Côte d'Ivoire",
+    "wikidata_label": "Ivory Coast",
+    "wikidata_id": "Q1008",
+    "coordinates": [
+      "8,-6"
+    ],
+    "iso_country_code": [
+      "CI"
+    ],
+    "geonames_id": [
+      "2287781"
+    ]
+  },
+  "nwjm": {
+    "place": "Jamaica",
+    "wikidata_label": "Jamaica",
+    "wikidata_id": "Q766",
+    "coordinates": [
+      "18.18,-77.4"
+    ],
+    "iso_country_code": [
+      "JM"
+    ],
+    "geonames_id": [
+      "3489940"
+    ]
+  },
+  "lnjn": {
+    "place": "Jan Mayen Island",
+    "wikidata_label": "Jan Mayen",
+    "wikidata_id": "Q14056",
+    "coordinates": [
+      "70.983,-8.5336"
+    ],
+    "iso_country_code": [
+      "NO"
+    ],
+    "geonames_id": [
+      "3041963"
+    ]
+  },
+  "a-ja": {
+    "place": "Japan",
+    "wikidata_label": "Japan",
+    "wikidata_id": "Q17",
+    "coordinates": [
+      "35,136"
+    ],
+    "iso_country_code": [
+      "JP"
+    ],
+    "geonames_id": [
+      "1861060"
+    ]
+  },
+  "e-je": {
+    "place": "Jersey",
+    "wikidata_label": "Jersey",
+    "wikidata_id": "Q785",
+    "coordinates": [
+      "49.19,-2.11"
+    ],
+    "iso_country_code": [
+      "JE"
+    ],
+    "geonames_id": [
+      "3042142"
+    ]
+  },
+  "a-cc-ku": {
+    "place": "Jiangsu Sheng (China)",
+    "wikidata_label": "Jiangsu",
+    "wikidata_id": "Q16963",
+    "coordinates": [
+      "33,120"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1806260"
+    ]
+  },
+  "a-cc-ki": {
+    "place": "Jiangxi Sheng (China)",
+    "wikidata_label": "Jiangxi",
+    "wikidata_id": "Q57052",
+    "coordinates": [
+      "27.3,116"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1806222"
+    ]
+  },
+  "a-cc-kr": {
+    "place": "Jilin Sheng (China)",
+    "wikidata_label": "Jilin",
+    "wikidata_id": "Q45208",
+    "coordinates": [
+      "43.884166666667,125.30833333333"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "2036500"
+    ]
+  },
+  "poji": {
+    "place": "Johnston Island",
+    "wikidata_label": "Johnston Atoll",
+    "wikidata_id": "Q131008",
+    "coordinates": [
+      "16.75,-169.51666666667",
+      "16.72828,-169.53428"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5854928"
+    ]
+  },
+  "a-jo": {
+    "place": "Jordan",
+    "wikidata_label": "Jordan",
+    "wikidata_id": "Q810",
+    "coordinates": [
+      "31.2,36.5"
+    ],
+    "iso_country_code": [
+      "JO"
+    ],
+    "geonames_id": [
+      "248816"
+    ]
+  },
+  "zju": {
+    "place": "Jupiter",
+    "wikidata_label": "Jupiter",
+    "wikidata_id": "Q319",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-us-ks": {
+    "place": "Kansas",
+    "wikidata_label": "Kansas",
+    "wikidata_id": "Q1558",
+    "coordinates": [
+      "38.5,-98"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4273857"
+    ]
+  },
+  "a-kz": {
+    "place": "Kazakhstan",
+    "wikidata_label": "Kazakhstan",
+    "wikidata_id": "Q232",
+    "coordinates": [
+      "48,68"
+    ],
+    "iso_country_code": [
+      "KZ"
+    ],
+    "geonames_id": [
+      "1522867"
+    ]
+  },
+  "-e-ur-kz": {
+    "place": "Kazakhstan",
+    "wikidata_label": "Kazakhstan",
+    "wikidata_id": "Q232",
+    "coordinates": [
+      "48,68"
+    ],
+    "iso_country_code": [
+      "KZ"
+    ],
+    "geonames_id": [
+      "1522867"
+    ]
+  },
+  "n-us-ky": {
+    "place": "Kentucky",
+    "wikidata_label": "Kentucky",
+    "wikidata_id": "Q1603",
+    "coordinates": [
+      "37.5,-85"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "6254925"
+    ]
+  },
+  "f-ke": {
+    "place": "Kenya",
+    "wikidata_label": "Kenya",
+    "wikidata_id": "Q114",
+    "coordinates": [
+      "0.1,38"
+    ],
+    "iso_country_code": [
+      "KE"
+    ],
+    "geonames_id": [
+      "192950"
+    ]
+  },
+  "poki": {
+    "place": "Kermadec Islands",
+    "wikidata_label": "Kermadec Islands",
+    "wikidata_id": "Q114935",
+    "coordinates": [
+      "-29.276944444444,-177.92333333333"
+    ],
+    "iso_country_code": [
+      "NZ"
+    ],
+    "geonames_id": [
+      "4032961",
+      "4032851"
+    ]
+  },
+  "pokb": {
+    "place": "Kiribati",
+    "wikidata_label": "Kiribati",
+    "wikidata_id": "Q710",
+    "coordinates": [
+      "1.4666666666667,173.03333333333"
+    ],
+    "iso_country_code": [
+      "KI"
+    ],
+    "geonames_id": [
+      "4030945"
+    ]
+  },
+  "a-kr": {
+    "place": "Korea",
+    "wikidata_label": "Korea",
+    "wikidata_id": "Q18097",
+    "coordinates": [
+      "38.316666666667,127.23333333333"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-kv": {
+    "place": "Kosovo",
+    "wikidata_label": "Kosovo",
+    "wikidata_id": "Q1246",
+    "coordinates": [
+      "42.55,20.833333333333"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "831053"
+    ]
+  },
+  "a-cck": {
+    "place": "Kunlun Mountains (China and India)",
+    "wikidata_label": "Kunlun Mountains",
+    "wikidata_id": "Q187871",
+    "coordinates": [
+      "36,84"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1280792"
+    ]
+  },
+  "a-ku": {
+    "place": "Kuwait",
+    "wikidata_label": "Kuwait",
+    "wikidata_id": "Q817",
+    "coordinates": [
+      "29.166667,47.6"
+    ],
+    "iso_country_code": [
+      "KW"
+    ],
+    "geonames_id": [
+      "285570"
+    ]
+  },
+  "a-kg": {
+    "place": "Kyrgyzstan",
+    "wikidata_label": "Kyrgyzstan",
+    "wikidata_id": "Q813",
+    "coordinates": [
+      "41,75"
+    ],
+    "iso_country_code": [
+      "KG"
+    ],
+    "geonames_id": [
+      "1527747"
+    ]
+  },
+  "-e-ur-kg": {
+    "place": "Kyrgyzstan",
+    "wikidata_label": "Kyrgyzstan",
+    "wikidata_id": "Q813",
+    "coordinates": [
+      "41,75"
+    ],
+    "iso_country_code": [
+      "KG"
+    ],
+    "geonames_id": [
+      "1527747"
+    ]
+  },
+  "n-cn-on": {
+    "place": "Ontario",
+    "wikidata_label": "Lake Ontario",
+    "wikidata_id": "Q1062",
+    "coordinates": [
+      "43.72888888888889,-78.10638888888889"
+    ],
+    "iso_country_code": [
+      "CA",
+      "US"
+    ],
+    "geonames_id": [
+      "6048611"
+    ]
+  },
+  "a-ls": {
+    "place": "Laos",
+    "wikidata_label": "Laos",
+    "wikidata_id": "Q819",
+    "coordinates": [
+      "18.2,104.1"
+    ],
+    "iso_country_code": [
+      "LA"
+    ],
+    "geonames_id": [
+      "1655842"
+    ]
+  },
+  "cl": {
+    "place": "Latin America",
+    "wikidata_label": "Latin America",
+    "wikidata_id": "Q12585",
+    "coordinates": [
+      "-1.106889,-68.097391"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7730009"
+    ]
+  },
+  "e-lv": {
+    "place": "Latvia",
+    "wikidata_label": "Latvia",
+    "wikidata_id": "Q211",
+    "coordinates": [
+      "57,25"
+    ],
+    "iso_country_code": [
+      "LV"
+    ],
+    "geonames_id": [
+      "458258"
+    ]
+  },
+  "-e-ur-lv": {
+    "place": "Latvia",
+    "wikidata_label": "Latvia",
+    "wikidata_id": "Q211",
+    "coordinates": [
+      "57,25"
+    ],
+    "iso_country_code": [
+      "LV"
+    ],
+    "geonames_id": [
+      "458258"
+    ]
+  },
+  "a-le": {
+    "place": "Lebanon",
+    "wikidata_label": "Lebanon",
+    "wikidata_id": "Q822",
+    "coordinates": [
+      "33.833333,35.766667"
+    ],
+    "iso_country_code": [
+      "LB"
+    ],
+    "geonames_id": [
+      "272103"
+    ]
+  },
+  "nwli": {
+    "place": "Leeward Islands (West Indies)",
+    "wikidata_label": "Leeward Islands",
+    "wikidata_id": "Q29971",
+    "coordinates": [
+      "17.083333333333,-61.8"
+    ],
+    "iso_country_code": [
+      "AG"
+    ],
+    "geonames_id": [
+      "3513538"
+    ]
+  },
+  "f-lo": {
+    "place": "Lesotho",
+    "wikidata_label": "Lesotho",
+    "wikidata_id": "Q1013",
+    "coordinates": [
+      "-29.55,28.25"
+    ],
+    "iso_country_code": [
+      "LS"
+    ],
+    "geonames_id": [
+      "932692"
+    ]
+  },
+  "nwla": {
+    "place": "Antilles, Lesser",
+    "wikidata_label": "Lesser Antilles",
+    "wikidata_id": "Q93259",
+    "coordinates": [
+      "14,-61"
+    ],
+    "iso_country_code": [
+      "AG",
+      "BB",
+      "VE",
+      "DM",
+      "GD",
+      "NL",
+      "KN",
+      "LC",
+      "VC",
+      "TT",
+      "FR",
+      "AI",
+      "VG",
+      "VI",
+      "MS",
+      "PR"
+    ],
+    "geonames_id": [
+      "3578932"
+    ]
+  },
+  "a-cc-lp": {
+    "place": "Liaoning Sheng (China)",
+    "wikidata_label": "Liaoning",
+    "wikidata_id": "Q43934",
+    "coordinates": [
+      "41.803888888889,123.42583333333"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "2036115"
+    ]
+  },
+  "f-lb": {
+    "place": "Liberia",
+    "wikidata_label": "Liberia",
+    "wikidata_id": "Q1014",
+    "coordinates": [
+      "6.533333,-9.75"
+    ],
+    "iso_country_code": [
+      "LR"
+    ],
+    "geonames_id": [
+      "2275384"
+    ]
+  },
+  "f-ly": {
+    "place": "Libya",
+    "wikidata_label": "Libya",
+    "wikidata_id": "Q1016",
+    "coordinates": [
+      "27,17"
+    ],
+    "iso_country_code": [
+      "LY"
+    ],
+    "geonames_id": [
+      "2215636"
+    ]
+  },
+  "e-lh": {
+    "place": "Liechtenstein",
+    "wikidata_label": "Liechtenstein",
+    "wikidata_id": "Q347",
+    "coordinates": [
+      "47.145,9.553889"
+    ],
+    "iso_country_code": [
+      "LI"
+    ],
+    "geonames_id": [
+      "3042058"
+    ]
+  },
+  "poln": {
+    "place": "Line Islands",
+    "wikidata_label": "Line Islands",
+    "wikidata_id": "Q234796",
+    "coordinates": [
+      "1.7,-157.2"
+    ],
+    "iso_country_code": [
+      "KI",
+      "US"
+    ],
+    "geonames_id": [
+      "4030941"
+    ]
+  },
+  "e-li": {
+    "place": "Lithuania",
+    "wikidata_label": "Lithuania",
+    "wikidata_id": "Q37",
+    "coordinates": [
+      "55.2,24"
+    ],
+    "iso_country_code": [
+      "LT"
+    ],
+    "geonames_id": [
+      "597427"
+    ]
+  },
+  "-e-ur-li": {
+    "place": "Lithuania",
+    "wikidata_label": "Lithuania",
+    "wikidata_id": "Q37",
+    "coordinates": [
+      "55.2,24"
+    ],
+    "iso_country_code": [
+      "LT"
+    ],
+    "geonames_id": [
+      "597427"
+    ]
+  },
+  "n-us-la": {
+    "place": "Louisiana",
+    "wikidata_label": "Louisiana",
+    "wikidata_id": "Q1588",
+    "coordinates": [
+      "31,-92"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4331987"
+    ]
+  },
+  "e-lu": {
+    "place": "Luxembourg",
+    "wikidata_label": "Luxembourg",
+    "wikidata_id": "Q32",
+    "coordinates": [
+      "49.77,6.13"
+    ],
+    "iso_country_code": [
+      "LU"
+    ],
+    "geonames_id": [
+      "2960313"
+    ]
+  },
+  "a-cc-mh": {
+    "place": "Macau (China : Special Administrative Region)",
+    "wikidata_label": "Macau",
+    "wikidata_id": "Q14773",
+    "coordinates": [
+      "22.166666666667,113.55"
+    ],
+    "iso_country_code": [
+      "MO",
+      "CN"
+    ],
+    "geonames_id": [
+      "1821275",
+      "1821274"
+    ]
+  },
+  "-a-mh": {
+    "place": "Macao",
+    "wikidata_label": "Macau",
+    "wikidata_id": "Q14773",
+    "coordinates": [
+      "22.166666666667,113.55"
+    ],
+    "iso_country_code": [
+      "MO",
+      "CN"
+    ],
+    "geonames_id": [
+      "1821275",
+      "1821274"
+    ]
+  },
+  "f-mg": {
+    "place": "Madagascar",
+    "wikidata_label": "Madagascar",
+    "wikidata_id": "Q1019",
+    "coordinates": [
+      "-20,47"
+    ],
+    "iso_country_code": [
+      "MG"
+    ],
+    "geonames_id": [
+      "1062947"
+    ]
+  },
+  "lnma": {
+    "place": "Madeira Islands",
+    "wikidata_label": "Madeira Islands",
+    "wikidata_id": "Q49296283",
+    "coordinates": [
+      "32.666666666667,-16.75"
+    ],
+    "iso_country_code": [
+      "PT"
+    ],
+    "geonames_id": [
+      "2266877"
+    ]
+  },
+  "n-us-me": {
+    "place": "Maine",
+    "wikidata_label": "Maine",
+    "wikidata_id": "Q724",
+    "coordinates": [
+      "45.5,-69"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4971068"
+    ]
+  },
+  "ai": {
+    "place": "Indochina",
+    "wikidata_label": "Mainland Southeast Asia",
+    "wikidata_id": "Q43467",
+    "coordinates": [
+      "16,102"
+    ],
+    "iso_country_code": [
+      "MM",
+      "KH",
+      "LA",
+      "MY",
+      "TH",
+      "VN"
+    ],
+    "geonames_id": []
+  },
+  "f-mw": {
+    "place": "Malawi",
+    "wikidata_label": "Malawi",
+    "wikidata_id": "Q1020",
+    "coordinates": [
+      "-13,34"
+    ],
+    "iso_country_code": [
+      "MW"
+    ],
+    "geonames_id": [
+      "927384"
+    ]
+  },
+  "a-my": {
+    "place": "Malaysia",
+    "wikidata_label": "Malaysia",
+    "wikidata_id": "Q833",
+    "coordinates": [
+      "3.7805111,102.31436166666667"
+    ],
+    "iso_country_code": [
+      "MY"
+    ],
+    "geonames_id": [
+      "1733045"
+    ]
+  },
+  "i-xc": {
+    "place": "Maldives",
+    "wikidata_label": "Maldives",
+    "wikidata_id": "Q826",
+    "coordinates": [
+      "4.18,73.51"
+    ],
+    "iso_country_code": [
+      "MV"
+    ],
+    "geonames_id": [
+      "1282028"
+    ]
+  },
+  "f-ml": {
+    "place": "Mali",
+    "wikidata_label": "Mali",
+    "wikidata_id": "Q912",
+    "coordinates": [
+      "17,-4"
+    ],
+    "iso_country_code": [
+      "ML"
+    ],
+    "geonames_id": [
+      "2453866"
+    ]
+  },
+  "e-mm": {
+    "place": "Malta",
+    "wikidata_label": "Malta",
+    "wikidata_id": "Q233",
+    "coordinates": [
+      "35.88333333333333,14.5"
+    ],
+    "iso_country_code": [
+      "MT"
+    ],
+    "geonames_id": [
+      "2562770"
+    ]
+  },
+  "n-cn-mb": {
+    "place": "Manitoba",
+    "wikidata_label": "Manitoba",
+    "wikidata_id": "Q1948",
+    "coordinates": [
+      "55,-97"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6065171"
+    ]
+  },
+  "poxd": {
+    "place": "Mariana Islands",
+    "wikidata_label": "Mariana Islands",
+    "wikidata_id": "Q153732",
+    "coordinates": [
+      "16.7,145.78"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6269450"
+    ]
+  },
+  "n-cnm": {
+    "place": "Maritime Provinces",
+    "wikidata_label": "Maritimes",
+    "wikidata_id": "Q731613",
+    "coordinates": [
+      "46,-64"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": null
+  },
+  "zma": {
+    "place": "Mars",
+    "wikidata_label": "Mars",
+    "wikidata_id": "Q111",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "poxe": {
+    "place": "Marshall Islands",
+    "wikidata_label": "Marshall Islands",
+    "wikidata_id": "Q709",
+    "coordinates": [
+      "9.82,169.29"
+    ],
+    "iso_country_code": [
+      "MH"
+    ],
+    "geonames_id": [
+      "2080185"
+    ]
+  },
+  "nwmq": {
+    "place": "Martinique",
+    "wikidata_label": "Martinique",
+    "wikidata_id": "Q17054",
+    "coordinates": [
+      "14.65,-61.015"
+    ],
+    "iso_country_code": [
+      "MQ",
+      "FR"
+    ],
+    "geonames_id": [
+      "3570311"
+    ]
+  },
+  "n-us-md": {
+    "place": "Maryland",
+    "wikidata_label": "Maryland",
+    "wikidata_id": "Q1391",
+    "coordinates": [
+      "39,-76.7"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4361885"
+    ]
+  },
+  "n-us-ma": {
+    "place": "Massachusetts",
+    "wikidata_label": "Massachusetts",
+    "wikidata_id": "Q771",
+    "coordinates": [
+      "42.3,-71.8"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "6254926"
+    ]
+  },
+  "f-mu": {
+    "place": "Mauritania",
+    "wikidata_label": "Mauritania",
+    "wikidata_id": "Q1025",
+    "coordinates": [
+      "21,-11"
+    ],
+    "iso_country_code": [
+      "MR"
+    ],
+    "geonames_id": [
+      "2378080"
+    ]
+  },
+  "i-mf": {
+    "place": "Mauritius",
+    "wikidata_label": "Mauritius",
+    "wikidata_id": "Q1027",
+    "coordinates": [
+      "-20.2,57.5"
+    ],
+    "iso_country_code": [
+      "MU"
+    ],
+    "geonames_id": [
+      "934292"
+    ]
+  },
+  "i-my": {
+    "place": "Mayotte",
+    "wikidata_label": "Mayotte",
+    "wikidata_id": "Q17063",
+    "coordinates": [
+      "-12.843055555556,45.138333333333"
+    ],
+    "iso_country_code": [
+      "YT"
+    ],
+    "geonames_id": [
+      "1024031"
+    ]
+  },
+  "mm": {
+    "place": "Mediterranean Region; Mediterranean Sea",
+    "wikidata_label": "Mediterranean Sea",
+    "wikidata_id": "Q4918",
+    "coordinates": [
+      "38,17"
+    ],
+    "iso_country_code": [
+      "ES",
+      "FR",
+      "IT",
+      "MC",
+      "SI",
+      "HR",
+      "ME",
+      "AL",
+      "GR",
+      "MT",
+      "CY",
+      "TR",
+      "LB",
+      "SY",
+      "IL",
+      "PS",
+      "EG",
+      "LY",
+      "TN",
+      "DZ",
+      "MA",
+      "BA"
+    ],
+    "geonames_id": [
+      "363196"
+    ]
+  },
+  "ag": {
+    "place": "Mekong River",
+    "wikidata_label": "Mekong River",
+    "wikidata_id": "Q41179",
+    "coordinates": [
+      "33.70861111111111,94.69555555555556",
+      "10.19,106.75",
+      "33.75972222222222,94.68666666666667",
+      "31.13222222222222,97.17777777777778"
+    ],
+    "iso_country_code": [
+      "CN",
+      "MM",
+      "TH",
+      "LA",
+      "KH",
+      "VN"
+    ],
+    "geonames_id": [
+      "1574716"
+    ]
+  },
+  "pome": {
+    "place": "Melanesia",
+    "wikidata_label": "Melanesia",
+    "wikidata_id": "Q37394",
+    "coordinates": [
+      "-7.4498138888888885,157.72016944444445"
+    ],
+    "iso_country_code": [
+      "FJ",
+      "SB",
+      "PG",
+      "VU",
+      "FR",
+      "ID"
+    ],
+    "geonames_id": [
+      "7729899"
+    ]
+  },
+  "zme": {
+    "place": "Mercury",
+    "wikidata_label": "Mercury",
+    "wikidata_id": "Q308",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-mx": {
+    "place": "Mexico",
+    "wikidata_label": "Mexico",
+    "wikidata_id": "Q96",
+    "coordinates": [
+      "23,-102"
+    ],
+    "iso_country_code": [
+      "MX"
+    ],
+    "geonames_id": [
+      "3996063"
+    ]
+  },
+  "n-us-mi": {
+    "place": "Michigan",
+    "wikidata_label": "Michigan",
+    "wikidata_id": "Q1166",
+    "coordinates": [
+      "44.34,-85.58"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5001836"
+    ]
+  },
+  "pott": {
+    "place": "Micronesia",
+    "wikidata_label": "Micronesia",
+    "wikidata_id": "Q3359409",
+    "coordinates": [
+      "12,152"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729900"
+    ]
+  },
+  "n-usl": {
+    "place": "Middle Atlantic States",
+    "wikidata_label": "Mid-Atlantic",
+    "wikidata_id": "Q632014",
+    "coordinates": [
+      "41,-77"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "-cm": {
+    "place": "Middle America",
+    "wikidata_label": "Middle America",
+    "wikidata_id": "Q29876",
+    "coordinates": [
+      "17.4,-91"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3496393"
+    ]
+  },
+  "aw": {
+    "place": "Middle East",
+    "wikidata_label": "Middle East",
+    "wikidata_id": "Q7204",
+    "coordinates": [
+      "28,45"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6269133"
+    ]
+  },
+  "poxf": {
+    "place": "Midway Islands",
+    "wikidata_label": "Midway Atoll",
+    "wikidata_id": "Q47863",
+    "coordinates": [
+      "28.2075,-177.35"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "5854941",
+      "5854943"
+    ]
+  },
+  "n-usc": {
+    "place": "Middle West",
+    "wikidata_label": "Midwestern United States",
+    "wikidata_id": "Q186545",
+    "coordinates": [
+      "41,-90"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "n-us-mn": {
+    "place": "Minnesota",
+    "wikidata_label": "Minnesota",
+    "wikidata_id": "Q1527",
+    "coordinates": [
+      "46,-94"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5037779"
+    ]
+  },
+  "n-us-ms": {
+    "place": "Mississippi",
+    "wikidata_label": "Mississippi",
+    "wikidata_id": "Q1494",
+    "coordinates": [
+      "33,-90"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4436296"
+    ]
+  },
+  "n-usm": {
+    "place": "Mississippi River",
+    "wikidata_label": "Mississippi River",
+    "wikidata_id": "Q1497",
+    "coordinates": [
+      "47.2397,-95.2075",
+      "29.1536,-89.2508"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "10400307"
+    ]
+  },
+  "n-us-mo": {
+    "place": "Missouri",
+    "wikidata_label": "Missouri",
+    "wikidata_id": "Q1581",
+    "coordinates": [
+      "38.5,-92.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4398678"
+    ]
+  },
+  "n-uss": {
+    "place": "Missouri River",
+    "wikidata_label": "Missouri River",
+    "wikidata_id": "Q5419",
+    "coordinates": [
+      "45.9275,-111.5081",
+      "38.8136,-90.1197"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4398665"
+    ]
+  },
+  "e-mv": {
+    "place": "Moldova",
+    "wikidata_label": "Moldova",
+    "wikidata_id": "Q217",
+    "coordinates": [
+      "47.25,28.516667"
+    ],
+    "iso_country_code": [
+      "MD"
+    ],
+    "geonames_id": [
+      "617790"
+    ]
+  },
+  "-e-ur-mv": {
+    "place": "Moldova",
+    "wikidata_label": "Moldova",
+    "wikidata_id": "Q217",
+    "coordinates": [
+      "47.25,28.516667"
+    ],
+    "iso_country_code": [
+      "MD"
+    ],
+    "geonames_id": [
+      "617790"
+    ]
+  },
+  "e-mc": {
+    "place": "Monaco",
+    "wikidata_label": "Monaco",
+    "wikidata_id": "Q235",
+    "coordinates": [
+      "43.73111111111111,7.42"
+    ],
+    "iso_country_code": [
+      "MC"
+    ],
+    "geonames_id": [
+      "2993457"
+    ]
+  },
+  "a-mp": {
+    "place": "Mongolia",
+    "wikidata_label": "Mongolia",
+    "wikidata_id": "Q711",
+    "coordinates": [
+      "46,105"
+    ],
+    "iso_country_code": [
+      "MN"
+    ],
+    "geonames_id": [
+      "2029969"
+    ]
+  },
+  "n-us-mt": {
+    "place": "Montana",
+    "wikidata_label": "Montana",
+    "wikidata_id": "Q1212",
+    "coordinates": [
+      "47,-110"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5667009"
+    ]
+  },
+  "e-mo": {
+    "place": "Montenegro",
+    "wikidata_label": "Montenegro",
+    "wikidata_id": "Q236",
+    "coordinates": [
+      "42.766667,19.216667"
+    ],
+    "iso_country_code": [
+      "ME"
+    ],
+    "geonames_id": [
+      "3194884"
+    ]
+  },
+  "nwmj": {
+    "place": "Montserrat",
+    "wikidata_label": "Montserrat",
+    "wikidata_id": "Q13353",
+    "coordinates": [
+      "16.75,-62.2"
+    ],
+    "iso_country_code": [
+      "MS",
+      "GB"
+    ],
+    "geonames_id": [
+      "3578097"
+    ]
+  },
+  "zmo": {
+    "place": "Moon",
+    "wikidata_label": "Moon",
+    "wikidata_id": "Q405",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "f-mr": {
+    "place": "Morocco",
+    "wikidata_label": "Morocco",
+    "wikidata_id": "Q1028",
+    "coordinates": [
+      "32,-6"
+    ],
+    "iso_country_code": [
+      "MA"
+    ],
+    "geonames_id": [
+      "2542007"
+    ]
+  },
+  "f-mz": {
+    "place": "Mozambique",
+    "wikidata_label": "Mozambique",
+    "wikidata_id": "Q1029",
+    "coordinates": [
+      "-19,35"
+    ],
+    "iso_country_code": [
+      "MZ"
+    ],
+    "geonames_id": [
+      "1036973"
+    ]
+  },
+  "a-br": {
+    "place": "Burma",
+    "wikidata_label": "Myanmar",
+    "wikidata_id": "Q836",
+    "coordinates": [
+      "22,96"
+    ],
+    "iso_country_code": [
+      "MM"
+    ],
+    "geonames_id": [
+      "1327865"
+    ]
+  },
+  "f-sx": {
+    "place": "Namibia",
+    "wikidata_label": "Namibia",
+    "wikidata_id": "Q1030",
+    "coordinates": [
+      "-23,17"
+    ],
+    "iso_country_code": [
+      "NA"
+    ],
+    "geonames_id": [
+      "3355338"
+    ]
+  },
+  "ponu": {
+    "place": "Nauru",
+    "wikidata_label": "Nauru",
+    "wikidata_id": "Q697",
+    "coordinates": [
+      "-0.5275,166.935"
+    ],
+    "iso_country_code": [
+      "NR"
+    ],
+    "geonames_id": [
+      "2110425"
+    ]
+  },
+  "n-us-nb": {
+    "place": "Nebraska",
+    "wikidata_label": "Nebraska",
+    "wikidata_id": "Q1553",
+    "coordinates": [
+      "41.5,-100"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5073708"
+    ]
+  },
+  "a-np": {
+    "place": "Nepal",
+    "wikidata_label": "Nepal",
+    "wikidata_id": "Q837",
+    "coordinates": [
+      "28,84"
+    ],
+    "iso_country_code": [
+      "NP"
+    ],
+    "geonames_id": [
+      "1282988"
+    ]
+  },
+  "zne": {
+    "place": "Neptune",
+    "wikidata_label": "Neptune",
+    "wikidata_id": "Q332",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-ne": {
+    "place": "Netherlands",
+    "wikidata_label": "Netherlands",
+    "wikidata_id": "Q55",
+    "coordinates": [
+      "52.316666666667,5.55"
+    ],
+    "iso_country_code": [
+      "NL"
+    ],
+    "geonames_id": [
+      "2750405"
+    ]
+  },
+  "-nwna": {
+    "place": "Netherlands Antilles",
+    "wikidata_label": "Netherlands Antilles",
+    "wikidata_id": "Q25227",
+    "coordinates": [
+      "15,-66"
+    ],
+    "iso_country_code": [
+      "NL"
+    ],
+    "geonames_id": [
+      "8505032"
+    ]
+  },
+  "n-us-nv": {
+    "place": "Nevada",
+    "wikidata_label": "Nevada",
+    "wikidata_id": "Q1227",
+    "coordinates": [
+      "39,-117"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5509151"
+    ]
+  },
+  "n-cn-nk": {
+    "place": "New Brunswick",
+    "wikidata_label": "New Brunswick",
+    "wikidata_id": "Q1965",
+    "coordinates": [
+      "46.6,-66"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6087430"
+    ]
+  },
+  "ponl": {
+    "place": "New Caledonia",
+    "wikidata_label": "New Caledonia",
+    "wikidata_id": "Q33788",
+    "coordinates": [
+      "-21.25,165.3"
+    ],
+    "iso_country_code": [
+      "NC",
+      "FR"
+    ],
+    "geonames_id": [
+      "2139685"
+    ]
+  },
+  "n-usn": {
+    "place": "New England",
+    "wikidata_label": "New England",
+    "wikidata_id": "Q18389",
+    "coordinates": [
+      "44.205555555556,-70.306425"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "8502102"
+    ]
+  },
+  "n-cn-nf": {
+    "place": "Newfoundland and Labrador",
+    "wikidata_label": "Newfoundland and Labrador",
+    "wikidata_id": "Q2003",
+    "coordinates": [
+      "53,-60"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6354959"
+    ]
+  },
+  "a-nw": {
+    "place": "New Guinea",
+    "wikidata_label": "New Guinea",
+    "wikidata_id": "Q40285",
+    "coordinates": [
+      "-5,140"
+    ],
+    "iso_country_code": [
+      "ID",
+      "PG"
+    ],
+    "geonames_id": [
+      "2082514"
+    ]
+  },
+  "n-us-nh": {
+    "place": "New Hampshire",
+    "wikidata_label": "New Hampshire",
+    "wikidata_id": "Q759",
+    "coordinates": [
+      "44,-71.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5090174"
+    ]
+  },
+  "n-us-nj": {
+    "place": "New Jersey",
+    "wikidata_label": "New Jersey",
+    "wikidata_id": "Q1408",
+    "coordinates": [
+      "40,-74.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5101760"
+    ]
+  },
+  "n-us-nm": {
+    "place": "New Mexico",
+    "wikidata_label": "New Mexico",
+    "wikidata_id": "Q1522",
+    "coordinates": [
+      "34,-106"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5481136"
+    ]
+  },
+  "u-at-ne": {
+    "place": "New South Wales",
+    "wikidata_label": "New South Wales",
+    "wikidata_id": "Q3224",
+    "coordinates": [
+      "-32,147"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2155400"
+    ]
+  },
+  "n-us-ny": {
+    "place": "New York",
+    "wikidata_label": "New York",
+    "wikidata_id": "Q1384",
+    "coordinates": [
+      "43,-75"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5128638"
+    ]
+  },
+  "u-nz": {
+    "place": "New Zealand",
+    "wikidata_label": "New Zealand",
+    "wikidata_id": "Q664",
+    "coordinates": [
+      "-41.2,174"
+    ],
+    "iso_country_code": [
+      "NZ"
+    ],
+    "geonames_id": [
+      "2186224"
+    ]
+  },
+  "ncnq": {
+    "place": "Nicaragua",
+    "wikidata_label": "Nicaragua",
+    "wikidata_id": "Q811",
+    "coordinates": [
+      "13,-85"
+    ],
+    "iso_country_code": [
+      "NI"
+    ],
+    "geonames_id": [
+      "3617476"
+    ]
+  },
+  "f-ng": {
+    "place": "Niger",
+    "wikidata_label": "Niger",
+    "wikidata_id": "Q1032",
+    "coordinates": [
+      "17,10"
+    ],
+    "iso_country_code": [
+      "NE"
+    ],
+    "geonames_id": [
+      "2440476"
+    ]
+  },
+  "f-nr": {
+    "place": "Nigeria",
+    "wikidata_label": "Nigeria",
+    "wikidata_id": "Q1033",
+    "coordinates": [
+      "9,8"
+    ],
+    "iso_country_code": [
+      "NG"
+    ],
+    "geonames_id": [
+      "2328926"
+    ]
+  },
+  "fi": {
+    "place": "Niger River",
+    "wikidata_label": "Niger River",
+    "wikidata_id": "Q3542",
+    "coordinates": [
+      "9.097222222222221,-10.682777777777778",
+      "5.322222222222222,6.469166666666666"
+    ],
+    "iso_country_code": [
+      "BJ",
+      "GN",
+      "ML",
+      "NE",
+      "NG"
+    ],
+    "geonames_id": [
+      "2328928"
+    ]
+  },
+  "fl": {
+    "place": "Nile River",
+    "wikidata_label": "Nile",
+    "wikidata_id": "Q3392",
+    "coordinates": [
+      "15.640138888888888,32.5055",
+      "31.4653,30.3667"
+    ],
+    "iso_country_code": [
+      "SD",
+      "EG",
+      "UG",
+      "SS",
+      "TZ",
+      "ER",
+      "KE",
+      "CD"
+    ],
+    "geonames_id": [
+      "351036"
+    ]
+  },
+  "a-cc-nn": {
+    "place": "Ningxia Huizu Zizhiqu (China)",
+    "wikidata_label": "Ningxia",
+    "wikidata_id": "Q57448",
+    "coordinates": [
+      "38.46654,106.27056"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1799355"
+    ]
+  },
+  "poxh": {
+    "place": "Niue",
+    "wikidata_label": "Niue",
+    "wikidata_id": "Q34020",
+    "coordinates": [
+      "-19.05,-169.91666666667"
+    ],
+    "iso_country_code": [
+      "NU"
+    ],
+    "geonames_id": [
+      "4036232"
+    ]
+  },
+  "ff": {
+    "place": "Africa, North",
+    "wikidata_label": "North Africa",
+    "wikidata_id": "Q27381",
+    "coordinates": [
+      "30.440741666667,9.6817138888889"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729887"
+    ]
+  },
+  "n": {
+    "place": "North America",
+    "wikidata_label": "North America",
+    "wikidata_id": "Q49",
+    "coordinates": [
+      "47,-105"
+    ],
+    "iso_country_code": [
+      "CA",
+      "MX",
+      "US",
+      "BM",
+      "GL",
+      "FR",
+      "BZ",
+      "CR",
+      "SV",
+      "GT",
+      "HN",
+      "NI",
+      "PA",
+      "AG",
+      "BS",
+      "BB",
+      "DM",
+      "DO",
+      "GD",
+      "HT",
+      "JM",
+      "CU",
+      "KN",
+      "LC",
+      "VC",
+      "TT"
+    ],
+    "geonames_id": [
+      "6255149"
+    ]
+  },
+  "ln": {
+    "place": "North Atlantic Ocean",
+    "wikidata_label": "North Atlantic Ocean",
+    "wikidata_id": "Q350134",
+    "coordinates": [
+      "47,-33"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3411923"
+    ]
+  },
+  "n-us-nc": {
+    "place": "North Carolina",
+    "wikidata_label": "North Carolina",
+    "wikidata_id": "Q1454",
+    "coordinates": [
+      "35.5,-80"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4482348"
+    ]
+  },
+  "n-us-nd": {
+    "place": "North Dakota",
+    "wikidata_label": "North Dakota",
+    "wikidata_id": "Q1207",
+    "coordinates": [
+      "47.5,-100.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5690763"
+    ]
+  },
+  "fh": {
+    "place": "Africa, Northeast",
+    "wikidata_label": "Northeast Africa",
+    "wikidata_id": "Q7057805",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-use": {
+    "place": "Northeastern States",
+    "wikidata_label": "Northeastern United States",
+    "wikidata_id": "Q24460",
+    "coordinates": [
+      "42,-73"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "u-atn": {
+    "place": "Northern Australia",
+    "wikidata_label": "Northern Australia",
+    "wikidata_id": "Q17017944",
+    "coordinates": null,
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": null
+  },
+  "en": {
+    "place": "Europe, Northern",
+    "wikidata_label": "Northern Europe",
+    "wikidata_id": "Q27479",
+    "coordinates": [
+      "57,14"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729883"
+    ]
+  },
+  "xb": {
+    "place": "Northern Hemisphere",
+    "wikidata_label": "Northern Hemisphere",
+    "wikidata_id": "Q39061",
+    "coordinates": [
+      "45,0"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-uk-ni": {
+    "place": "Northern Ireland",
+    "wikidata_label": "Northern Ireland",
+    "wikidata_id": "Q26",
+    "coordinates": [
+      "54.6075,-6.6925"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "2641364"
+    ]
+  },
+  "u-at-no": {
+    "place": "Northern Territory",
+    "wikidata_label": "Northern Territory",
+    "wikidata_id": "Q3235",
+    "coordinates": [
+      "-20,133"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2064513"
+    ]
+  },
+  "a-kn": {
+    "place": "Korea (North)",
+    "wikidata_label": "North Korea",
+    "wikidata_id": "Q423",
+    "coordinates": [
+      "40,127"
+    ],
+    "iso_country_code": [
+      "KP"
+    ],
+    "geonames_id": [
+      "1873107"
+    ]
+  },
+  "e-xn": {
+    "place": "North Macedonia",
+    "wikidata_label": "North Macedonia",
+    "wikidata_id": "Q221",
+    "coordinates": [
+      "41.65,21.716667"
+    ],
+    "iso_country_code": [
+      "MK"
+    ],
+    "geonames_id": [
+      "718075"
+    ]
+  },
+  "pn": {
+    "place": "North Pacific Ocean",
+    "wikidata_label": "North Pacific Ocean",
+    "wikidata_id": "Q12353254",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": [
+      "4030875"
+    ]
+  },
+  "-a-vn": {
+    "place": "Viet Nam, North",
+    "wikidata_label": "North Vietnam",
+    "wikidata_id": "Q172640",
+    "coordinates": [
+      "21.033333,105.85"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "11608492"
+    ]
+  },
+  "e-urn": {
+    "place": "Soviet Union, Northwestern",
+    "wikidata_label": "Northwestern Federal District",
+    "wikidata_id": "Q383093",
+    "coordinates": [
+      "59.95,30.316666666667"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": null
+  },
+  "-n-usw": {
+    "place": "Northwest (U.S.)",
+    "wikidata_label": "Northwestern United States",
+    "wikidata_id": "Q944857",
+    "coordinates": [
+      "46,-117"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "n-cn-nt": {
+    "place": "Northwest Territories",
+    "wikidata_label": "Northwest Territories",
+    "wikidata_id": "Q2007",
+    "coordinates": [
+      "66,-119"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6091069"
+    ]
+  },
+  "e-no": {
+    "place": "Norway",
+    "wikidata_label": "Norway",
+    "wikidata_id": "Q20",
+    "coordinates": [
+      "65,11"
+    ],
+    "iso_country_code": [
+      "NO"
+    ],
+    "geonames_id": [
+      "3144096"
+    ]
+  },
+  "n-cn-ns": {
+    "place": "Nova Scotia",
+    "wikidata_label": "Nova Scotia",
+    "wikidata_id": "Q1952",
+    "coordinates": [
+      "45,-63"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6091530"
+    ]
+  },
+  "n-cn-nu": {
+    "place": "Nunavut",
+    "wikidata_label": "Nunavut",
+    "wikidata_id": "Q2023",
+    "coordinates": [
+      "70,-90"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6091732"
+    ]
+  },
+  "po": {
+    "place": "Oceania",
+    "wikidata_label": "Oceania",
+    "wikidata_id": "Q55643",
+    "coordinates": [
+      "-18.5102,139.3671"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255151"
+    ]
+  },
+  "n-us-oh": {
+    "place": "Ohio",
+    "wikidata_label": "Ohio",
+    "wikidata_id": "Q1397",
+    "coordinates": [
+      "40.5,-82.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5165418"
+    ]
+  },
+  "n-uso": {
+    "place": "Ohio River",
+    "wikidata_label": "Ohio River",
+    "wikidata_id": "Q4915",
+    "coordinates": [
+      "40.4430066,-80.0171244",
+      "36.9867,-89.1311"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4401696"
+    ]
+  },
+  "-a-ok": {
+    "place": "Okinawa",
+    "wikidata_label": "Okinawa Island",
+    "wikidata_id": "Q600614",
+    "coordinates": [
+      "26.483333333333,127.95"
+    ],
+    "iso_country_code": [
+      "JP"
+    ],
+    "geonames_id": [
+      "1854346"
+    ]
+  },
+  "n-us-ok": {
+    "place": "Oklahoma",
+    "wikidata_label": "Oklahoma",
+    "wikidata_id": "Q1649",
+    "coordinates": [
+      "35.5,-98"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4544379"
+    ]
+  },
+  "a-mk": {
+    "place": "Oman",
+    "wikidata_label": "Oman",
+    "wikidata_id": "Q842",
+    "coordinates": [
+      "21,57"
+    ],
+    "iso_country_code": [
+      "OM"
+    ],
+    "geonames_id": [
+      "286963"
+    ]
+  },
+  "n-us-or": {
+    "place": "Oregon",
+    "wikidata_label": "Oregon",
+    "wikidata_id": "Q824",
+    "coordinates": [
+      "43.935833,-120.575"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5744337"
+    ]
+  },
+  "zo": {
+    "place": "Outer space",
+    "wikidata_label": "outer space",
+    "wikidata_id": "Q4169",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "p": {
+    "place": "Pacific Ocean",
+    "wikidata_label": "Pacific Ocean",
+    "wikidata_id": "Q98",
+    "coordinates": [
+      "0,-160"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "2363254"
+    ]
+  },
+  "a-pk": {
+    "place": "Pakistan",
+    "wikidata_label": "Pakistan",
+    "wikidata_id": "Q843",
+    "coordinates": [
+      "30,71"
+    ],
+    "iso_country_code": [
+      "PK"
+    ],
+    "geonames_id": [
+      "1168579"
+    ]
+  },
+  "popl": {
+    "place": "Palau",
+    "wikidata_label": "Palau",
+    "wikidata_id": "Q695",
+    "coordinates": [
+      "7.466667,134.55"
+    ],
+    "iso_country_code": [
+      "PW"
+    ],
+    "geonames_id": [
+      "1559582"
+    ]
+  },
+  "ncpn": {
+    "place": "Panama",
+    "wikidata_label": "Panama",
+    "wikidata_id": "Q804",
+    "coordinates": [
+      "8.616667,-80.366667"
+    ],
+    "iso_country_code": [
+      "PA"
+    ],
+    "geonames_id": [
+      "3703430"
+    ]
+  },
+  "nccz": {
+    "place": "Canal Zone",
+    "wikidata_label": "Panama Canal Zone",
+    "wikidata_id": "Q498979",
+    "coordinates": [
+      "9.1176694444444,-79.720166666667"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "a-pp": {
+    "place": "Papua New Guinea",
+    "wikidata_label": "Papua New Guinea",
+    "wikidata_id": "Q691",
+    "coordinates": [
+      "-6.3,147"
+    ],
+    "iso_country_code": [
+      "PG"
+    ],
+    "geonames_id": [
+      "2088628"
+    ]
+  },
+  "aopf": {
+    "place": "Paracel Islands",
+    "wikidata_label": "Paracel Islands",
+    "wikidata_id": "Q274388",
+    "coordinates": [
+      "16.654612,112.747192",
+      "16.5,112"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1821073"
+    ]
+  },
+  "s-py": {
+    "place": "Paraguay",
+    "wikidata_label": "Paraguay",
+    "wikidata_id": "Q733",
+    "coordinates": [
+      "-23.5,-58"
+    ],
+    "iso_country_code": [
+      "PY"
+    ],
+    "geonames_id": [
+      "3437598"
+    ]
+  },
+  "am": {
+    "place": "Malaya",
+    "wikidata_label": "Peninsular Malaysia",
+    "wikidata_id": "Q1973345",
+    "coordinates": [
+      "4,102.5"
+    ],
+    "iso_country_code": [
+      "MY"
+    ],
+    "geonames_id": null
+  },
+  "n-us-pa": {
+    "place": "Pennsylvania",
+    "wikidata_label": "Pennsylvania",
+    "wikidata_id": "Q1400",
+    "coordinates": [
+      "41,-77.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "6254927"
+    ]
+  },
+  "a-cc": {
+    "place": "China",
+    "wikidata_label": "People's Republic of China",
+    "wikidata_id": "Q148",
+    "coordinates": [
+      "35.844722222222224,103.45194444444445"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1814991"
+    ]
+  },
+  "ap": {
+    "place": "Persian Gulf",
+    "wikidata_label": "Persian Gulf",
+    "wikidata_id": "Q34675",
+    "coordinates": [
+      "26,52"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "235616"
+    ]
+  },
+  "s-pe": {
+    "place": "Peru",
+    "wikidata_label": "Peru",
+    "wikidata_id": "Q419",
+    "coordinates": [
+      "-9.4,-76"
+    ],
+    "iso_country_code": [
+      "PE"
+    ],
+    "geonames_id": [
+      "3932488"
+    ]
+  },
+  "a-ph": {
+    "place": "Philippines",
+    "wikidata_label": "Philippines",
+    "wikidata_id": "Q928",
+    "coordinates": [
+      "12,123"
+    ],
+    "iso_country_code": [
+      "PH"
+    ],
+    "geonames_id": [
+      "1694008"
+    ]
+  },
+  "popc": {
+    "place": "Pitcairn Island",
+    "wikidata_label": "Pitcairn Island",
+    "wikidata_id": "Q1779748",
+    "coordinates": [
+      "-25.070556,-130.104444"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "4030700"
+    ]
+  },
+  "f-sh": {
+    "place": "Spanish North Africa",
+    "wikidata_label": "plazas de soberanía",
+    "wikidata_id": "Q191011",
+    "coordinates": null,
+    "iso_country_code": [
+      "ES"
+    ],
+    "geonames_id": null
+  },
+  "zpl": {
+    "place": "Pluto",
+    "wikidata_label": "Pluto",
+    "wikidata_id": "Q339",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-pl": {
+    "place": "Poland",
+    "wikidata_label": "Poland",
+    "wikidata_id": "Q36",
+    "coordinates": [
+      "52,19"
+    ],
+    "iso_country_code": [
+      "PL"
+    ],
+    "geonames_id": [
+      "798544"
+    ]
+  },
+  "pops": {
+    "place": "Polynesia",
+    "wikidata_label": "Polynesia",
+    "wikidata_id": "Q35942",
+    "coordinates": [
+      "-16.852961,148.40522"
+    ],
+    "iso_country_code": [
+      "NZ",
+      "FR",
+      "CL",
+      "US",
+      "KI",
+      "TV",
+      "WS",
+      "TO",
+      "PN"
+    ],
+    "geonames_id": [
+      "7729901"
+    ]
+  },
+  "e-po": {
+    "place": "Portugal",
+    "wikidata_label": "Portugal",
+    "wikidata_id": "Q45",
+    "coordinates": [
+      "38.7,-9.1833333333333"
+    ],
+    "iso_country_code": [
+      "PT"
+    ],
+    "geonames_id": [
+      "2264397"
+    ]
+  },
+  "-a-pt": {
+    "place": "Portuguese Timor",
+    "wikidata_label": "Portuguese Timor",
+    "wikidata_id": "Q142965",
+    "coordinates": [
+      "-8.55,125.583333"
+    ],
+    "iso_country_code": [
+      "TL"
+    ],
+    "geonames_id": null
+  },
+  "n-cn-pi": {
+    "place": "Prince Edward Island",
+    "wikidata_label": "Prince Edward Island",
+    "wikidata_id": "Q1978",
+    "coordinates": [
+      "46.25,-63"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6113358"
+    ]
+  },
+  "nwpr": {
+    "place": "Puerto Rico",
+    "wikidata_label": "Puerto Rico",
+    "wikidata_id": "Q1183",
+    "coordinates": [
+      "18.25,-66.5"
+    ],
+    "iso_country_code": [
+      "PR",
+      "US"
+    ],
+    "geonames_id": [
+      "4566966"
+    ]
+  },
+  "ep": {
+    "place": "Pyrenees",
+    "wikidata_label": "Pyrenees",
+    "wikidata_id": "Q12431",
+    "coordinates": [
+      "42.666666666667,1"
+    ],
+    "iso_country_code": [
+      "ES",
+      "FR",
+      "AD"
+    ],
+    "geonames_id": [
+      "3112616"
+    ]
+  },
+  "a-qa": {
+    "place": "Qatar",
+    "wikidata_label": "Qatar",
+    "wikidata_id": "Q846",
+    "coordinates": [
+      "25.269535,51.212767"
+    ],
+    "iso_country_code": [
+      "QA"
+    ],
+    "geonames_id": [
+      "289688"
+    ]
+  },
+  "a-cc-ts": {
+    "place": "Qinghai Sheng (China)",
+    "wikidata_label": "Qinghai",
+    "wikidata_id": "Q45833",
+    "coordinates": [
+      "35,96"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1280239"
+    ]
+  },
+  "n-cn-qu": {
+    "place": "Québec (Province)",
+    "wikidata_label": "Quebec",
+    "wikidata_id": "Q176",
+    "coordinates": [
+      "52,-72"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6115047"
+    ]
+  },
+  "u-at-qn": {
+    "place": "Queensland",
+    "wikidata_label": "Queensland",
+    "wikidata_id": "Q36074",
+    "coordinates": [
+      "-20,143"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2152274"
+    ]
+  },
+  "mr": {
+    "place": "Red Sea",
+    "wikidata_label": "Red Sea",
+    "wikidata_id": "Q23406",
+    "coordinates": [
+      "22,38"
+    ],
+    "iso_country_code": [
+      "EG",
+      "SA",
+      "SD",
+      "DJ",
+      "ER",
+      "YE",
+      "IL",
+      "JO"
+    ],
+    "geonames_id": [
+      "350155"
+    ]
+  },
+  "e-ie": {
+    "place": "Ireland",
+    "wikidata_label": "Republic of Ireland",
+    "wikidata_id": "Q27",
+    "coordinates": [
+      "53,-8"
+    ],
+    "iso_country_code": [
+      "IE"
+    ],
+    "geonames_id": [
+      "2963597"
+    ]
+  },
+  "-a-vs": {
+    "place": "Viet Nam, South",
+    "wikidata_label": "Republic of Vietnam",
+    "wikidata_id": "Q180573",
+    "coordinates": [
+      "10.776944444444444,106.69527777777778"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "11608491"
+    ]
+  },
+  "i-re": {
+    "place": "Réunion",
+    "wikidata_label": "Réunion Island",
+    "wikidata_id": "Q25396403",
+    "coordinates": [
+      "-21.133333333333333,55.55"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "935316"
+    ]
+  },
+  "er": {
+    "place": "Rhine River",
+    "wikidata_label": "Rhine",
+    "wikidata_id": "Q584",
+    "coordinates": [
+      "51.980833333333,4.0930555555556",
+      "46.632513,8.67481",
+      "47.6662,9.1786"
+    ],
+    "iso_country_code": [
+      "CH",
+      "AT",
+      "LI",
+      "DE",
+      "FR",
+      "NL"
+    ],
+    "geonames_id": [
+      "2748179"
+    ]
+  },
+  "n-us-ri": {
+    "place": "Rhode Island",
+    "wikidata_label": "Rhode Island",
+    "wikidata_id": "Q1387",
+    "coordinates": [
+      "41.7,-71.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5224323"
+    ]
+  },
+  "sp": {
+    "place": "Rio de la Plata (Argentina and Uruguay)",
+    "wikidata_label": "Río de la Plata",
+    "wikidata_id": "Q35827",
+    "coordinates": [
+      "-34.883055555556,-56.713611111111"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3426221",
+      "3441069"
+    ]
+  },
+  "nr": {
+    "place": "Rocky Mountains",
+    "wikidata_label": "Rocky Mountains",
+    "wikidata_id": "Q5463",
+    "coordinates": [
+      "44.5,-113.5"
+    ],
+    "iso_country_code": [
+      "CA",
+      "US"
+    ],
+    "geonames_id": [
+      "5836950"
+    ]
+  },
+  "e-rm": {
+    "place": "Romania",
+    "wikidata_label": "Romania",
+    "wikidata_id": "Q218",
+    "coordinates": [
+      "46,25"
+    ],
+    "iso_country_code": [
+      "RO"
+    ],
+    "geonames_id": [
+      "798549"
+    ]
+  },
+  "e-ru": {
+    "place": "Russia (Federation)",
+    "wikidata_label": "Russia",
+    "wikidata_id": "Q159",
+    "coordinates": [
+      "66.41666666666667,94.25"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "2017370"
+    ]
+  },
+  "e-ur": {
+    "place": "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
+    "wikidata_label": "Russia",
+    "wikidata_id": "Q159",
+    "coordinates": [
+      "66.41666666666667,94.25"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "2017370"
+    ]
+  },
+  "-e-ur-ru": {
+    "place": "Russia (Federation)",
+    "wikidata_label": "Russia",
+    "wikidata_id": "Q159",
+    "coordinates": [
+      "66.41666666666667,94.25"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "2017370"
+    ]
+  },
+  "e-urf": {
+    "place": "Russian Far East (Russia)",
+    "wikidata_label": "Russian Far East",
+    "wikidata_id": "Q609176",
+    "coordinates": [
+      "65.5,147.4"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": null
+  },
+  "f-rw": {
+    "place": "Rwanda",
+    "wikidata_label": "Rwanda",
+    "wikidata_id": "Q1037",
+    "coordinates": [
+      "-2,30"
+    ],
+    "iso_country_code": [
+      "RW"
+    ],
+    "geonames_id": [
+      "49518"
+    ]
+  },
+  "nwsd": {
+    "place": "Saba",
+    "wikidata_label": "Saba",
+    "wikidata_id": "Q25528",
+    "coordinates": [
+      "17.6325,-63.2375"
+    ],
+    "iso_country_code": [
+      "NL"
+    ],
+    "geonames_id": [
+      "3513314",
+      "7610358"
+    ]
+  },
+  "fd": {
+    "place": "Sahara",
+    "wikidata_label": "Sahara",
+    "wikidata_id": "Q6583",
+    "coordinates": [
+      "23.079722222222223,12.612222222222222"
+    ],
+    "iso_country_code": [
+      "DZ",
+      "TD",
+      "EG",
+      "MA",
+      "TN",
+      "MR",
+      "NE",
+      "ML",
+      "SD"
+    ],
+    "geonames_id": [
+      "2212709"
+    ]
+  },
+  "-nwsb": {
+    "place": "Saint-Barthélemy",
+    "wikidata_label": "Saint Barthélemy",
+    "wikidata_id": "Q25362",
+    "coordinates": [
+      "17.897728,-62.8342438"
+    ],
+    "iso_country_code": [
+      "BL",
+      "FR"
+    ],
+    "geonames_id": [
+      "3578476"
+    ]
+  },
+  "nwsc": {
+    "place": "Saint-Barthélemy",
+    "wikidata_label": "Saint Barthélemy",
+    "wikidata_id": "Q25362",
+    "coordinates": [
+      "17.897728,-62.8342438"
+    ],
+    "iso_country_code": [
+      "BL",
+      "FR"
+    ],
+    "geonames_id": [
+      "3578476"
+    ]
+  },
+  "lsxj": {
+    "place": "Saint Helena",
+    "wikidata_label": "Saint Helena",
+    "wikidata_id": "Q34497",
+    "coordinates": [
+      "-15.95,-5.7166666666667"
+    ],
+    "iso_country_code": [
+      "GB",
+      "SH"
+    ],
+    "geonames_id": [
+      "6930057",
+      "3370750"
+    ]
+  },
+  "nwxi": {
+    "place": "Saint Kitts and Nevis",
+    "wikidata_label": "Saint Kitts and Nevis",
+    "wikidata_id": "Q763",
+    "coordinates": [
+      "17.27166666666667,-62.666669444444445"
+    ],
+    "iso_country_code": [
+      "KN"
+    ],
+    "geonames_id": [
+      "3575174"
+    ]
+  },
+  "nwxk": {
+    "place": "Saint Lucia",
+    "wikidata_label": "Saint Lucia",
+    "wikidata_id": "Q760",
+    "coordinates": [
+      "13.883333333333333,-60.96666666666667"
+    ],
+    "iso_country_code": [
+      "LC"
+    ],
+    "geonames_id": [
+      "3576468"
+    ]
+  },
+  "nwst": {
+    "place": "Saint-Martin",
+    "wikidata_label": "Saint-Martin",
+    "wikidata_id": "Q126125",
+    "coordinates": [
+      "18.075277777778,-63.06"
+    ],
+    "iso_country_code": [
+      "MF",
+      "FR"
+    ],
+    "geonames_id": [
+      "3578421"
+    ]
+  },
+  "n-xl": {
+    "place": "Saint Pierre and Miquelon",
+    "wikidata_label": "Saint Pierre and Miquelon",
+    "wikidata_id": "Q34617",
+    "coordinates": [
+      "46.825,-56.275"
+    ],
+    "iso_country_code": [
+      "PM",
+      "FR"
+    ],
+    "geonames_id": [
+      "3424932"
+    ]
+  },
+  "nwxm": {
+    "place": "Saint Vincent and the Grenadines",
+    "wikidata_label": "Saint Vincent and the Grenadines",
+    "wikidata_id": "Q757",
+    "coordinates": [
+      "13.0139,-61.2296"
+    ],
+    "iso_country_code": [
+      "VC"
+    ],
+    "geonames_id": [
+      "3577815"
+    ]
+  },
+  "pows": {
+    "place": "Samoa",
+    "wikidata_label": "Samoa",
+    "wikidata_id": "Q683",
+    "coordinates": [
+      "-13.745,-172.2175"
+    ],
+    "iso_country_code": [
+      "WS"
+    ],
+    "geonames_id": [
+      "4034894"
+    ]
+  },
+  "posh": {
+    "place": "Samoan Islands",
+    "wikidata_label": "Samoan Islands",
+    "wikidata_id": "Q162126",
+    "coordinates": [
+      "-14,-171"
+    ],
+    "iso_country_code": [
+      "WS",
+      "US",
+      "AS"
+    ],
+    "geonames_id": [
+      "5881002"
+    ]
+  },
+  "e-sm": {
+    "place": "San Marino",
+    "wikidata_label": "San Marino",
+    "wikidata_id": "Q238",
+    "coordinates": [
+      "43.93333333333333,12.466666666666667"
+    ],
+    "iso_country_code": [
+      "SM"
+    ],
+    "geonames_id": [
+      "3168068"
+    ]
+  },
+  "-posc": {
+    "place": "Santa Cruz Islands",
+    "wikidata_label": "Santa Cruz Islands",
+    "wikidata_id": "Q148839",
+    "coordinates": [
+      "-11,166.25"
+    ],
+    "iso_country_code": [
+      "SB"
+    ],
+    "geonames_id": [
+      "2178509"
+    ]
+  },
+  "f-sf": {
+    "place": "Sao Tome and Principe",
+    "wikidata_label": "São Tomé and Príncipe",
+    "wikidata_id": "Q1039",
+    "coordinates": [
+      "0.316667,6.6"
+    ],
+    "iso_country_code": [
+      "ST"
+    ],
+    "geonames_id": [
+      "2410758"
+    ]
+  },
+  "n-cn-sn": {
+    "place": "Saskatchewan",
+    "wikidata_label": "Saskatchewan",
+    "wikidata_id": "Q1989",
+    "coordinates": [
+      "55,-106"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6141242"
+    ]
+  },
+  "zsa": {
+    "place": "Saturn",
+    "wikidata_label": "Saturn",
+    "wikidata_id": "Q193",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "a-su": {
+    "place": "Saudi Arabia",
+    "wikidata_label": "Saudi Arabia",
+    "wikidata_id": "Q851",
+    "coordinates": [
+      "23.716667,44.116667"
+    ],
+    "iso_country_code": [
+      "SA"
+    ],
+    "geonames_id": [
+      "102358"
+    ]
+  },
+  "-awiy": {
+    "place": "Iraq-Saudi Arabia Neutral Zone",
+    "wikidata_label": "Saudi–Iraqi Neutral Zone",
+    "wikidata_id": "Q15710",
+    "coordinates": [
+      "29.12527778,45.52111111"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "ev": {
+    "place": "Scandinavia",
+    "wikidata_label": "Scandinavia",
+    "wikidata_id": "Q21195",
+    "coordinates": [
+      "64.779642,14.760936"
+    ],
+    "iso_country_code": [
+      "DK",
+      "NO",
+      "SE"
+    ],
+    "geonames_id": [
+      "2614165"
+    ]
+  },
+  "e-uk-st": {
+    "place": "Scotland",
+    "wikidata_label": "Scotland",
+    "wikidata_id": "Q22",
+    "coordinates": [
+      "57,-5"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "2638360"
+    ]
+  },
+  "f-sg": {
+    "place": "Senegal",
+    "wikidata_label": "Senegal",
+    "wikidata_id": "Q1041",
+    "coordinates": [
+      "14.366667,-14.283333"
+    ],
+    "iso_country_code": [
+      "SN"
+    ],
+    "geonames_id": [
+      "2245662"
+    ]
+  },
+  "e-rb": {
+    "place": "Serbia",
+    "wikidata_label": "Serbia",
+    "wikidata_id": "Q403",
+    "coordinates": [
+      "43.95,20.933333333333"
+    ],
+    "iso_country_code": [
+      "RS"
+    ],
+    "geonames_id": [
+      "6290252"
+    ]
+  },
+  "e-yu": {
+    "place": "Serbia and Montenegro; Yugoslavia",
+    "wikidata_label": "Serbia and Montenegro",
+    "wikidata_id": "Q37024",
+    "coordinates": [
+      "43.15,19.78"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "8505033"
+    ]
+  },
+  "i-se": {
+    "place": "Seychelles",
+    "wikidata_label": "Seychelles",
+    "wikidata_id": "Q1042",
+    "coordinates": [
+      "-7.1,52.766667"
+    ],
+    "iso_country_code": [
+      "SC"
+    ],
+    "geonames_id": [
+      "241170"
+    ]
+  },
+  "a-cc-ss": {
+    "place": "Shaanxi Sheng (China)",
+    "wikidata_label": "Shaanxi",
+    "wikidata_id": "Q47974",
+    "coordinates": [
+      "34.266666666667,108.9"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1796480"
+    ]
+  },
+  "a-cc-sp": {
+    "place": "Shandong Sheng (China)",
+    "wikidata_label": "Shandong",
+    "wikidata_id": "Q43407",
+    "coordinates": [
+      "36.4,118.4"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1796328"
+    ]
+  },
+  "a-cc-sm": {
+    "place": "Shanghai (China)",
+    "wikidata_label": "Shanghai",
+    "wikidata_id": "Q8686",
+    "coordinates": [
+      "31.166666666667,121.46666666667"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1796236"
+    ]
+  },
+  "a-cc-sh": {
+    "place": "Shanxi Sheng (China)",
+    "wikidata_label": "Shanxi",
+    "wikidata_id": "Q46913",
+    "coordinates": [
+      "37.873333333333,112.56444444444"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1795912"
+    ]
+  },
+  "e-urs": {
+    "place": "Siberia (Russia)",
+    "wikidata_label": "Siberia",
+    "wikidata_id": "Q5428",
+    "coordinates": [
+      "60,105"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "11961345"
+    ]
+  },
+  "a-cc-sz": {
+    "place": "Sichuan Sheng (China)",
+    "wikidata_label": "Sichuan",
+    "wikidata_id": "Q19770",
+    "coordinates": [
+      "30,103"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1794299"
+    ]
+  },
+  "f-sl": {
+    "place": "Sierra Leone",
+    "wikidata_label": "Sierra Leone",
+    "wikidata_id": "Q1044",
+    "coordinates": [
+      "8.5,-12.1"
+    ],
+    "iso_country_code": [
+      "SL"
+    ],
+    "geonames_id": [
+      "2403846"
+    ]
+  },
+  "-a-sk": {
+    "place": "Sikkim",
+    "wikidata_label": "Sikkim",
+    "wikidata_id": "Q1505",
+    "coordinates": [
+      "27.55,88.5"
+    ],
+    "iso_country_code": [
+      "IN"
+    ],
+    "geonames_id": [
+      "1256312"
+    ]
+  },
+  "a-si": {
+    "place": "Singapore",
+    "wikidata_label": "Singapore",
+    "wikidata_id": "Q334",
+    "coordinates": [
+      "1.3,103.8"
+    ],
+    "iso_country_code": [
+      "SG"
+    ],
+    "geonames_id": [
+      "1880251"
+    ]
+  },
+  "nweu": {
+    "place": "Sint Eustatius",
+    "wikidata_label": "Sint Eustatius",
+    "wikidata_id": "Q26180",
+    "coordinates": [
+      "17.483333333333,-62.966666666667"
+    ],
+    "iso_country_code": [
+      "NL"
+    ],
+    "geonames_id": [
+      "7610359"
+    ]
+  },
+  "nwsn": {
+    "place": "Sint Maarten",
+    "wikidata_label": "Sint Maarten",
+    "wikidata_id": "Q26273",
+    "coordinates": [
+      "18.031944444444,-63.067777777778"
+    ],
+    "iso_country_code": [
+      "SX",
+      "NL"
+    ],
+    "geonames_id": [
+      "7609695"
+    ]
+  },
+  "e-xo": {
+    "place": "Slovakia",
+    "wikidata_label": "Slovakia",
+    "wikidata_id": "Q214",
+    "coordinates": [
+      "49,20"
+    ],
+    "iso_country_code": [
+      "SK"
+    ],
+    "geonames_id": [
+      "3057568"
+    ]
+  },
+  "e-xv": {
+    "place": "Slovenia",
+    "wikidata_label": "Slovenia",
+    "wikidata_id": "Q215",
+    "coordinates": [
+      "46,15"
+    ],
+    "iso_country_code": [
+      "SI"
+    ],
+    "geonames_id": [
+      "3190538"
+    ]
+  },
+  "-i-xo": {
+    "place": "Socotra Island",
+    "wikidata_label": "Socotra",
+    "wikidata_id": "Q82859",
+    "coordinates": [
+      "12.51,53.92"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "70302"
+    ]
+  },
+  "zs": {
+    "place": "Solar system",
+    "wikidata_label": "Solar System",
+    "wikidata_id": "Q544",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "pobp": {
+    "place": "Solomon Islands",
+    "wikidata_label": "Solomon Islands",
+    "wikidata_id": "Q685",
+    "coordinates": [
+      "-9.4666666666667,159.81666666667"
+    ],
+    "iso_country_code": [
+      "SB"
+    ],
+    "geonames_id": [
+      "2103350"
+    ]
+  },
+  "-posn": {
+    "place": "Solomon Islands",
+    "wikidata_label": "Solomon Islands",
+    "wikidata_id": "Q685",
+    "coordinates": [
+      "-9.4666666666667,159.81666666667"
+    ],
+    "iso_country_code": [
+      "SB"
+    ],
+    "geonames_id": [
+      "2103350"
+    ]
+  },
+  "f-so": {
+    "place": "Somalia",
+    "wikidata_label": "Somalia",
+    "wikidata_id": "Q1045",
+    "coordinates": [
+      "6,47"
+    ],
+    "iso_country_code": [
+      "SO"
+    ],
+    "geonames_id": [
+      "51537"
+    ]
+  },
+  "f-sa": {
+    "place": "South Africa",
+    "wikidata_label": "South Africa",
+    "wikidata_id": "Q258",
+    "coordinates": [
+      "-29,24"
+    ],
+    "iso_country_code": [
+      "ZA"
+    ],
+    "geonames_id": [
+      "953987"
+    ]
+  },
+  "s": {
+    "place": "South America",
+    "wikidata_label": "South America",
+    "wikidata_id": "Q18",
+    "coordinates": [
+      "-21,-59"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "6255150"
+    ]
+  },
+  "az": {
+    "place": "South Asia",
+    "wikidata_label": "South Asia",
+    "wikidata_id": "Q771405",
+    "coordinates": [
+      "26.9,72.2"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729895"
+    ]
+  },
+  "ls": {
+    "place": "South Atlantic Ocean",
+    "wikidata_label": "South Atlantic Ocean",
+    "wikidata_id": "Q1482804",
+    "coordinates": [
+      "-33.73345,-18.83777"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3358844"
+    ]
+  },
+  "u-at-sa": {
+    "place": "South Australia",
+    "wikidata_label": "South Australia",
+    "wikidata_id": "Q35715",
+    "coordinates": [
+      "-30,135"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2061327"
+    ]
+  },
+  "n-us-sc": {
+    "place": "South Carolina",
+    "wikidata_label": "South Carolina",
+    "wikidata_id": "Q1456",
+    "coordinates": [
+      "34,-81"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4597040"
+    ]
+  },
+  "ao": {
+    "place": "South China Sea",
+    "wikidata_label": "South China Sea",
+    "wikidata_id": "Q37660",
+    "coordinates": [
+      "12,113"
+    ],
+    "iso_country_code": [
+      "VN",
+      "TW",
+      "MY",
+      "KH",
+      "CN",
+      "PH",
+      "BN",
+      "ID"
+    ],
+    "geonames_id": [
+      "1594992"
+    ]
+  },
+  "n-us-sd": {
+    "place": "South Dakota",
+    "wikidata_label": "South Dakota",
+    "wikidata_id": "Q1211",
+    "coordinates": [
+      "44.5,-100"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5769223"
+    ]
+  },
+  "as": {
+    "place": "Southeast Asia",
+    "wikidata_label": "Southeast Asia",
+    "wikidata_id": "Q11708",
+    "coordinates": [
+      "12,105.1"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729896"
+    ]
+  },
+  "fs": {
+    "place": "Africa, Southern",
+    "wikidata_label": "Southern Africa",
+    "wikidata_id": "Q27394",
+    "coordinates": [
+      "-25.879105555556,23.097577777778"
+    ],
+    "iso_country_code": [
+      "BW",
+      "LS",
+      "SZ",
+      "ZW",
+      "NA"
+    ],
+    "geonames_id": [
+      "9406051"
+    ]
+  },
+  "es": {
+    "place": "Europe, Southern",
+    "wikidata_label": "Southern Europe",
+    "wikidata_id": "Q27449",
+    "coordinates": [
+      "41.093498,15.017008"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "9408658"
+    ]
+  },
+  "xc": {
+    "place": "Southern Hemisphere",
+    "wikidata_label": "Southern Hemisphere",
+    "wikidata_id": "Q41228",
+    "coordinates": [
+      "-45,0"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-pory": {
+    "place": "Ryukyu Islands, Southern",
+    "wikidata_label": "Southern Ryukyu Islands",
+    "wikidata_id": "Q62590870",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-usu": {
+    "place": "Southern States",
+    "wikidata_label": "Southern United States",
+    "wikidata_id": "Q49042",
+    "coordinates": [
+      "33.9,-89.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "lsxs": {
+    "place": "South Georgia and South Sandwich Islands",
+    "wikidata_label": "South Georgia and the South Sandwich Islands",
+    "wikidata_id": "Q35086",
+    "coordinates": [
+      "-54.25,-36.75"
+    ],
+    "iso_country_code": [
+      "GS",
+      "GB"
+    ],
+    "geonames_id": [
+      "3474415"
+    ]
+  },
+  "a-ko": {
+    "place": "Korea (South)",
+    "wikidata_label": "South Korea",
+    "wikidata_id": "Q884",
+    "coordinates": [
+      "36,128"
+    ],
+    "iso_country_code": [
+      "KR"
+    ],
+    "geonames_id": [
+      "1835841"
+    ]
+  },
+  "ps": {
+    "place": "South Pacific Ocean",
+    "wikidata_label": "South Pacific Ocean",
+    "wikidata_id": "Q12355425",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": [
+      "4030483"
+    ]
+  },
+  "f-sd": {
+    "place": "South Sudan",
+    "wikidata_label": "South Sudan",
+    "wikidata_id": "Q958",
+    "coordinates": [
+      "7,30"
+    ],
+    "iso_country_code": [
+      "SS"
+    ],
+    "geonames_id": [
+      "7909807"
+    ]
+  },
+  "n-ust": {
+    "place": "Southwest, New",
+    "wikidata_label": "Southwestern United States",
+    "wikidata_id": "Q858847",
+    "coordinates": [
+      "37,-111.2"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": null
+  },
+  "-a-ys": {
+    "place": "Yemen (People's Democratic Republic)",
+    "wikidata_label": "South Yemen",
+    "wikidata_id": "Q199841",
+    "coordinates": [
+      "12.8,45.033333333333"
+    ],
+    "iso_country_code": [
+      "YE"
+    ],
+    "geonames_id": [
+      "8505034"
+    ]
+  },
+  "-e-uro": {
+    "place": "Soviet Central Asia",
+    "wikidata_label": "Soviet Central Asia",
+    "wikidata_id": "Q1211919",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "e-sp": {
+    "place": "Spain",
+    "wikidata_label": "Spain",
+    "wikidata_id": "Q29",
+    "coordinates": [
+      "40.2,-3.5"
+    ],
+    "iso_country_code": [
+      "ES"
+    ],
+    "geonames_id": [
+      "2510769"
+    ]
+  },
+  "aoxp": {
+    "place": "Spratly Islands",
+    "wikidata_label": "Spratly Islands",
+    "wikidata_id": "Q215664",
+    "coordinates": [
+      "10,114"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1821005"
+    ]
+  },
+  "a-ce": {
+    "place": "Sri Lanka",
+    "wikidata_label": "Sri Lanka",
+    "wikidata_id": "Q854",
+    "coordinates": [
+      "7,81"
+    ],
+    "iso_country_code": [
+      "LK"
+    ],
+    "geonames_id": [
+      "1227603"
+    ]
+  },
+  "fb": {
+    "place": "Africa, Sub-Saharan",
+    "wikidata_label": "Sub-Saharan Africa",
+    "wikidata_id": "Q132959",
+    "coordinates": [
+      "-10,23"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "f-sj": {
+    "place": "Sudan",
+    "wikidata_label": "Sudan",
+    "wikidata_id": "Q1049",
+    "coordinates": [
+      "15,32"
+    ],
+    "iso_country_code": [
+      "SD"
+    ],
+    "geonames_id": [
+      "366755"
+    ]
+  },
+  "fn": {
+    "place": "Sudan (Region)",
+    "wikidata_label": "Sudan",
+    "wikidata_id": "Q209703",
+    "coordinates": null,
+    "iso_country_code": [
+      "SS",
+      "SD",
+      "ET",
+      "DJ",
+      "ER",
+      "TD",
+      "CF",
+      "CM",
+      "NG",
+      "NE",
+      "ML",
+      "BF",
+      "GH",
+      "TG",
+      "CI",
+      "SN",
+      "GM"
+    ],
+    "geonames_id": null
+  },
+  "fu": {
+    "place": "Suez Canal (Egypt)",
+    "wikidata_label": "Suez Canal",
+    "wikidata_id": "Q899",
+    "coordinates": [
+      "30.705,32.344166666667"
+    ],
+    "iso_country_code": [
+      "EG"
+    ],
+    "geonames_id": [
+      "347712"
+    ]
+  },
+  "zsu": {
+    "place": "Sun",
+    "wikidata_label": "Sun",
+    "wikidata_id": "Q525",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "s-sr": {
+    "place": "Suriname",
+    "wikidata_label": "Suriname",
+    "wikidata_id": "Q730",
+    "coordinates": [
+      "4,-56"
+    ],
+    "iso_country_code": [
+      "SR"
+    ],
+    "geonames_id": [
+      "3382998"
+    ]
+  },
+  "lnsb": {
+    "place": "Svalbard (Norway)",
+    "wikidata_label": "Svalbard",
+    "wikidata_id": "Q25231",
+    "coordinates": [
+      "78.15706,15.86426"
+    ],
+    "iso_country_code": [
+      "NO"
+    ],
+    "geonames_id": [
+      "7521757"
+    ]
+  },
+  "nwsv": {
+    "place": "Swan Islands (Honduras)",
+    "wikidata_label": "Swan Islands",
+    "wikidata_id": "Q1547671",
+    "coordinates": [
+      "17.410555555556,-83.921944444444"
+    ],
+    "iso_country_code": [
+      "HN"
+    ],
+    "geonames_id": [
+      "3601534"
+    ]
+  },
+  "e-sw": {
+    "place": "Sweden",
+    "wikidata_label": "Sweden",
+    "wikidata_id": "Q34",
+    "coordinates": [
+      "61,15"
+    ],
+    "iso_country_code": [
+      "SE"
+    ],
+    "geonames_id": [
+      "2661886"
+    ]
+  },
+  "e-sz": {
+    "place": "Switzerland",
+    "wikidata_label": "Switzerland",
+    "wikidata_id": "Q39",
+    "coordinates": [
+      "46.798562,8.231973"
+    ],
+    "iso_country_code": [
+      "CH"
+    ],
+    "geonames_id": [
+      "2658434"
+    ]
+  },
+  "a-sy": {
+    "place": "Syria",
+    "wikidata_label": "Syria",
+    "wikidata_id": "Q858",
+    "coordinates": [
+      "35.216667,38.583333"
+    ],
+    "iso_country_code": [
+      "SY"
+    ],
+    "geonames_id": [
+      "163843"
+    ]
+  },
+  "a-ch": {
+    "place": "Taiwan",
+    "wikidata_label": "Taiwan",
+    "wikidata_id": "Q865",
+    "coordinates": [
+      "24,121"
+    ],
+    "iso_country_code": [
+      "TW"
+    ],
+    "geonames_id": [
+      "1668284"
+    ]
+  },
+  "a-ta": {
+    "place": "Tajikistan",
+    "wikidata_label": "Tajikistan",
+    "wikidata_id": "Q863",
+    "coordinates": [
+      "38.583333,71.366667"
+    ],
+    "iso_country_code": [
+      "TJ"
+    ],
+    "geonames_id": [
+      "1220409"
+    ]
+  },
+  "-e-ur-ta": {
+    "place": "Tajikistan",
+    "wikidata_label": "Tajikistan",
+    "wikidata_id": "Q863",
+    "coordinates": [
+      "38.583333,71.366667"
+    ],
+    "iso_country_code": [
+      "TJ"
+    ],
+    "geonames_id": [
+      "1220409"
+    ]
+  },
+  "f-tz": {
+    "place": "Tanzania",
+    "wikidata_label": "Tanzania",
+    "wikidata_id": "Q924",
+    "coordinates": [
+      "-6.3069444444444445,34.85388888888889"
+    ],
+    "iso_country_code": [
+      "TZ"
+    ],
+    "geonames_id": [
+      "149590"
+    ]
+  },
+  "u-at-tm": {
+    "place": "Tasmania",
+    "wikidata_label": "Tasmania",
+    "wikidata_id": "Q34366",
+    "coordinates": [
+      "-42,147"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2147291"
+    ]
+  },
+  "n-us-tn": {
+    "place": "Tennessee",
+    "wikidata_label": "Tennessee",
+    "wikidata_id": "Q1509",
+    "coordinates": [
+      "36,-86"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4662168"
+    ]
+  },
+  "n-us-tx": {
+    "place": "Texas",
+    "wikidata_label": "Texas",
+    "wikidata_id": "Q1439",
+    "coordinates": [
+      "31,-100"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4736286"
+    ]
+  },
+  "a-th": {
+    "place": "Thailand",
+    "wikidata_label": "Thailand",
+    "wikidata_id": "Q869",
+    "coordinates": [
+      "14,101"
+    ],
+    "iso_country_code": [
+      "TH"
+    ],
+    "geonames_id": [
+      "1605651"
+    ]
+  },
+  "nwbf": {
+    "place": "Bahamas",
+    "wikidata_label": "The Bahamas",
+    "wikidata_id": "Q778",
+    "coordinates": [
+      "25,-77.4"
+    ],
+    "iso_country_code": [
+      "BS"
+    ],
+    "geonames_id": [
+      "3572887"
+    ]
+  },
+  "f-gm": {
+    "place": "Gambia",
+    "wikidata_label": "The Gambia",
+    "wikidata_id": "Q1005",
+    "coordinates": [
+      "13.5,-15.5"
+    ],
+    "iso_country_code": [
+      "GM"
+    ],
+    "geonames_id": [
+      "2413451"
+    ]
+  },
+  "a-cc-tn": {
+    "place": "Tianjin (China)",
+    "wikidata_label": "Tianjin",
+    "wikidata_id": "Q11736",
+    "coordinates": [
+      "39.146666666667,117.20555555556"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1792943"
+    ]
+  },
+  "at": {
+    "place": "Tien Shan",
+    "wikidata_label": "Tianshan Mountains",
+    "wikidata_id": "Q5474",
+    "coordinates": [
+      "42.0375,80.125277777778"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1489643"
+    ]
+  },
+  "a-cc-ti": {
+    "place": "Tibet (China)",
+    "wikidata_label": "Tibet",
+    "wikidata_id": "Q17269",
+    "coordinates": [
+      "31.705556,86.940278"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1279685"
+    ]
+  },
+  "f-tg": {
+    "place": "Togo",
+    "wikidata_label": "Togo",
+    "wikidata_id": "Q945",
+    "coordinates": [
+      "8.25,1.183333"
+    ],
+    "iso_country_code": [
+      "TG"
+    ],
+    "geonames_id": [
+      "2363686"
+    ]
+  },
+  "potl": {
+    "place": "Tokelau",
+    "wikidata_label": "Tokelau",
+    "wikidata_id": "Q36823",
+    "coordinates": [
+      "-9.1666666666667,-171.83333333333"
+    ],
+    "iso_country_code": [
+      "TK"
+    ],
+    "geonames_id": [
+      "4031074"
+    ]
+  },
+  "poto": {
+    "place": "Tonga",
+    "wikidata_label": "Tonga",
+    "wikidata_id": "Q678",
+    "coordinates": [
+      "-20.587778,-174.810278"
+    ],
+    "iso_country_code": [
+      "TO"
+    ],
+    "geonames_id": [
+      "4032283"
+    ]
+  },
+  "nwtr": {
+    "place": "Trinidad and Tobago",
+    "wikidata_label": "Trinidad and Tobago",
+    "wikidata_id": "Q754",
+    "coordinates": [
+      "10.666666666667,-61.516666666667"
+    ],
+    "iso_country_code": [
+      "TT"
+    ],
+    "geonames_id": [
+      "3573591"
+    ]
+  },
+  "lstd": {
+    "place": "Tristan da Cunha",
+    "wikidata_label": "Tristan da Cunha",
+    "wikidata_id": "Q220982",
+    "coordinates": [
+      "-37.116666666667,-12.283333333333"
+    ],
+    "iso_country_code": [
+      "SH"
+    ],
+    "geonames_id": [
+      "3370684"
+    ]
+  },
+  "w": {
+    "place": "Tropics",
+    "wikidata_label": "tropics",
+    "wikidata_id": "Q42530",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "f-ti": {
+    "place": "Tunisia",
+    "wikidata_label": "Tunisia",
+    "wikidata_id": "Q948",
+    "coordinates": [
+      "34,10"
+    ],
+    "iso_country_code": [
+      "TN"
+    ],
+    "geonames_id": [
+      "2464461"
+    ]
+  },
+  "a-tu": {
+    "place": "Turkey",
+    "wikidata_label": "Turkey",
+    "wikidata_id": "Q43",
+    "coordinates": [
+      "39,36"
+    ],
+    "iso_country_code": [
+      "TR"
+    ],
+    "geonames_id": [
+      "298795"
+    ]
+  },
+  "a-tk": {
+    "place": "Turkmenistan",
+    "wikidata_label": "Turkmenistan",
+    "wikidata_id": "Q874",
+    "coordinates": [
+      "39,60"
+    ],
+    "iso_country_code": [
+      "TM"
+    ],
+    "geonames_id": [
+      "1218197"
+    ]
+  },
+  "-e-ur-tk": {
+    "place": "Turkmenistan",
+    "wikidata_label": "Turkmenistan",
+    "wikidata_id": "Q874",
+    "coordinates": [
+      "39,60"
+    ],
+    "iso_country_code": [
+      "TM"
+    ],
+    "geonames_id": [
+      "1218197"
+    ]
+  },
+  "nwtc": {
+    "place": "Turks and Caicos Islands",
+    "wikidata_label": "Turks and Caicos Islands",
+    "wikidata_id": "Q18221",
+    "coordinates": [
+      "21.78,-71.8"
+    ],
+    "iso_country_code": [
+      "TC",
+      "GB"
+    ],
+    "geonames_id": [
+      "3576916"
+    ]
+  },
+  "potv": {
+    "place": "Tuvalu",
+    "wikidata_label": "Tuvalu",
+    "wikidata_id": "Q672",
+    "coordinates": [
+      "-7.475,178.005556"
+    ],
+    "iso_country_code": [
+      "TV"
+    ],
+    "geonames_id": [
+      "2110297"
+    ]
+  },
+  "f-ug": {
+    "place": "Uganda",
+    "wikidata_label": "Uganda",
+    "wikidata_id": "Q1036",
+    "coordinates": [
+      "1.28,32.39"
+    ],
+    "iso_country_code": [
+      "UG"
+    ],
+    "geonames_id": [
+      "226074"
+    ]
+  },
+  "e-un": {
+    "place": "Ukraine",
+    "wikidata_label": "Ukraine",
+    "wikidata_id": "Q212",
+    "coordinates": [
+      "49,32"
+    ],
+    "iso_country_code": [
+      "UA"
+    ],
+    "geonames_id": [
+      "690791"
+    ]
+  },
+  "-e-ur-un": {
+    "place": "Ukraine",
+    "wikidata_label": "Ukraine",
+    "wikidata_id": "Q212",
+    "coordinates": [
+      "49,32"
+    ],
+    "iso_country_code": [
+      "UA"
+    ],
+    "geonames_id": [
+      "690791"
+    ]
+  },
+  "a-ts": {
+    "place": "United Arab Emirates",
+    "wikidata_label": "United Arab Emirates",
+    "wikidata_id": "Q878",
+    "coordinates": [
+      "24.4,54.3"
+    ],
+    "iso_country_code": [
+      "AE"
+    ],
+    "geonames_id": [
+      "290557"
+    ]
+  },
+  "e-uk": {
+    "place": "Great Britain",
+    "wikidata_label": "United Kingdom",
+    "wikidata_id": "Q145",
+    "coordinates": [
+      "54.6,-2"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "2635167"
+    ]
+  },
+  "nwuc": {
+    "place": "United States Miscellaneous Caribbean Islands",
+    "wikidata_label": "United States Miscellaneous Caribbean Islands",
+    "wikidata_id": "Q7890763",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "poup": {
+    "place": "United States Miscellaneous Pacific Islands",
+    "wikidata_label": "United States Miscellaneous Pacific Islands",
+    "wikidata_id": "Q3378903",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-us": {
+    "place": "United States",
+    "wikidata_label": "United States of America",
+    "wikidata_id": "Q30",
+    "coordinates": [
+      "39.828175,-98.5795"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "6252001"
+    ]
+  },
+  "nwvi": {
+    "place": "Virgin Islands of the United States",
+    "wikidata_label": "United States Virgin Islands",
+    "wikidata_id": "Q11703",
+    "coordinates": [
+      "18.333333,-64.833333"
+    ],
+    "iso_country_code": [
+      "VI",
+      "US"
+    ],
+    "geonames_id": [
+      "4796775"
+    ]
+  },
+  "e-uru": {
+    "place": "Ural Mountains (Russia)",
+    "wikidata_label": "Ural Mountains",
+    "wikidata_id": "Q35600",
+    "coordinates": [
+      "60,59"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "1488441"
+    ]
+  },
+  "zur": {
+    "place": "Uranus",
+    "wikidata_label": "Uranus",
+    "wikidata_id": "Q324",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "s-uy": {
+    "place": "Uruguay",
+    "wikidata_label": "Uruguay",
+    "wikidata_id": "Q77",
+    "coordinates": [
+      "-33,-56"
+    ],
+    "iso_country_code": [
+      "UY"
+    ],
+    "geonames_id": [
+      "3439705"
+    ]
+  },
+  "n-us-ut": {
+    "place": "Utah",
+    "wikidata_label": "Utah",
+    "wikidata_id": "Q829",
+    "coordinates": [
+      "39.5,-111.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5549030"
+    ]
+  },
+  "a-uz": {
+    "place": "Uzbekistan",
+    "wikidata_label": "Uzbekistan",
+    "wikidata_id": "Q265",
+    "coordinates": [
+      "41,66"
+    ],
+    "iso_country_code": [
+      "UZ"
+    ],
+    "geonames_id": [
+      "1512440"
+    ]
+  },
+  "-e-ur-uz": {
+    "place": "Uzbekistan",
+    "wikidata_label": "Uzbekistan",
+    "wikidata_id": "Q265",
+    "coordinates": [
+      "41,66"
+    ],
+    "iso_country_code": [
+      "UZ"
+    ],
+    "geonames_id": [
+      "1512440"
+    ]
+  },
+  "ponn": {
+    "place": "Vanuatu",
+    "wikidata_label": "Vanuatu",
+    "wikidata_id": "Q686",
+    "coordinates": [
+      "-16.633330555556,168.01666944444"
+    ],
+    "iso_country_code": [
+      "VU"
+    ],
+    "geonames_id": [
+      "2134431"
+    ]
+  },
+  "e-vc": {
+    "place": "Vatican City",
+    "wikidata_label": "Vatican City",
+    "wikidata_id": "Q237",
+    "coordinates": [
+      "41.904,12.453"
+    ],
+    "iso_country_code": [
+      "VA"
+    ],
+    "geonames_id": [
+      "3164670"
+    ]
+  },
+  "s-ve": {
+    "place": "Venezuela",
+    "wikidata_label": "Venezuela",
+    "wikidata_id": "Q717",
+    "coordinates": [
+      "8,-67"
+    ],
+    "iso_country_code": [
+      "VE"
+    ],
+    "geonames_id": [
+      "3625428"
+    ]
+  },
+  "zve": {
+    "place": "Venus ",
+    "wikidata_label": "Venus",
+    "wikidata_id": "Q313",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "n-us-vt": {
+    "place": "Vermont",
+    "wikidata_label": "Vermont",
+    "wikidata_id": "Q16551",
+    "coordinates": [
+      "44,-72.7"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5242283"
+    ]
+  },
+  "u-at-vi": {
+    "place": "Victoria",
+    "wikidata_label": "Victoria",
+    "wikidata_id": "Q36687",
+    "coordinates": [
+      "-37,144"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2145234"
+    ]
+  },
+  "a-vt": {
+    "place": "Vietnam",
+    "wikidata_label": "Vietnam",
+    "wikidata_id": "Q881",
+    "coordinates": [
+      "16,108"
+    ],
+    "iso_country_code": [
+      "VN"
+    ],
+    "geonames_id": [
+      "1562822"
+    ]
+  },
+  "n-us-va": {
+    "place": "Virginia",
+    "wikidata_label": "Virginia",
+    "wikidata_id": "Q1370",
+    "coordinates": [
+      "37.5,-79"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "6254928"
+    ]
+  },
+  "-nwvr": {
+    "place": "Virgin Islands",
+    "wikidata_label": "Virgin Islands",
+    "wikidata_id": "Q26262",
+    "coordinates": [
+      "18.2,-64.8"
+    ],
+    "iso_country_code": [
+      "US",
+      "GB"
+    ],
+    "geonames_id": [
+      "3577322"
+    ]
+  },
+  "e-urp": {
+    "place": "Volga River (Russia)",
+    "wikidata_label": "Volga",
+    "wikidata_id": "Q626",
+    "coordinates": [
+      "57.251331194444,32.467965694444",
+      "45.697194444444,47.8625"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": [
+      "472776"
+    ]
+  },
+  "-e-urv": {
+    "place": "Volgo-Viatskii Region, RSFSR",
+    "wikidata_label": "Volga-Vyatka Economic Region",
+    "wikidata_id": "Q1050174",
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "fv": {
+    "place": "Volta River (Ghana)",
+    "wikidata_label": "Volta River",
+    "wikidata_id": "Q192415",
+    "coordinates": [
+      "8.648741,-0.982618",
+      "5.7711111111111,0.67305555555556"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "2294237"
+    ]
+  },
+  "powk": {
+    "place": "Wake Island",
+    "wikidata_label": "Wake Island",
+    "wikidata_id": "Q43296",
+    "coordinates": [
+      "19.3,166.63333333333"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "4041684"
+    ]
+  },
+  "e-uk-wl": {
+    "place": "Wales",
+    "wikidata_label": "Wales",
+    "wikidata_id": "Q25",
+    "coordinates": [
+      "52.35,-3.6333333333333"
+    ],
+    "iso_country_code": [
+      "GB"
+    ],
+    "geonames_id": [
+      "2634895"
+    ]
+  },
+  "powf": {
+    "place": "Wallis and Futuna Islands",
+    "wikidata_label": "Wallis and Futuna",
+    "wikidata_id": "Q35555",
+    "coordinates": [
+      "-14.30181,-178.10932"
+    ],
+    "iso_country_code": [
+      "WF"
+    ],
+    "geonames_id": [
+      "4034749",
+      "6942150"
+    ]
+  },
+  "n-us-wa": {
+    "place": "Washington (State)",
+    "wikidata_label": "Washington",
+    "wikidata_id": "Q1223",
+    "coordinates": [
+      "47.5,-120.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5815135"
+    ]
+  },
+  "n-us-dc": {
+    "place": "Washington (D.C.)",
+    "wikidata_label": "Washington, D.C.",
+    "wikidata_id": "Q61",
+    "coordinates": [
+      "38.895,-77.036666666667"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4140963"
+    ]
+  },
+  "fw": {
+    "place": "Africa, West",
+    "wikidata_label": "West Africa",
+    "wikidata_id": "Q4412",
+    "coordinates": [
+      "12,3"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "7729885"
+    ]
+  },
+  "awba": {
+    "place": "West Bank",
+    "wikidata_label": "West Bank",
+    "wikidata_id": "Q36678",
+    "coordinates": [
+      "32,35.35"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "285153"
+    ]
+  },
+  "u-at-we": {
+    "place": "Western Australia",
+    "wikidata_label": "Western Australia",
+    "wikidata_id": "Q3206",
+    "coordinates": [
+      "-26,121"
+    ],
+    "iso_country_code": [
+      "AU"
+    ],
+    "geonames_id": [
+      "2058645"
+    ]
+  },
+  "ew": {
+    "place": "Europe, Western",
+    "wikidata_label": "Western Europe",
+    "wikidata_id": "Q27496",
+    "coordinates": [
+      "47.409273,2.536919"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "9408659"
+    ]
+  },
+  "xd": {
+    "place": "Western Hemisphere",
+    "wikidata_label": "Western Hemisphere",
+    "wikidata_id": "Q181982",
+    "coordinates": [
+      "0,-90"
+    ],
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "f-ss": {
+    "place": "Western Sahara",
+    "wikidata_label": "Western Sahara",
+    "wikidata_id": "Q6250",
+    "coordinates": [
+      "25,-13"
+    ],
+    "iso_country_code": [
+      "EH"
+    ],
+    "geonames_id": [
+      "2461445"
+    ]
+  },
+  "e-urw": {
+    "place": "Siberia, Western (Russia)",
+    "wikidata_label": "Western Siberia",
+    "wikidata_id": "Q1191358",
+    "coordinates": [
+      "55.2,81.6"
+    ],
+    "iso_country_code": [
+      "RU"
+    ],
+    "geonames_id": null
+  },
+  "n-usp": {
+    "place": "West (U.S.)",
+    "wikidata_label": "Western United States",
+    "wikidata_id": "Q12612",
+    "coordinates": [
+      "40,-113"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "11887751"
+    ]
+  },
+  "e-gw": {
+    "place": "Germany (West)",
+    "wikidata_label": "West Germany",
+    "wikidata_id": "Q713750",
+    "coordinates": [
+      "50.733888888889,7.0997222222222"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "11612754"
+    ]
+  },
+  "nw": {
+    "place": "West Indies",
+    "wikidata_label": "West Indies",
+    "wikidata_id": "Q669037",
+    "coordinates": [
+      "21.98333333,-79.03333333"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "3571219"
+    ]
+  },
+  "n-us-wv": {
+    "place": "West Virginia",
+    "wikidata_label": "West Virginia",
+    "wikidata_id": "Q1371",
+    "coordinates": [
+      "39,-80.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "4826850"
+    ]
+  },
+  "nwwi": {
+    "place": "Windward Islands (West Indies)",
+    "wikidata_label": "Windward Islands",
+    "wikidata_id": "Q183416",
+    "coordinates": [
+      "13.25,-61.2",
+      "13,-61"
+    ],
+    "iso_country_code": [
+      "BB",
+      "GD",
+      "LC",
+      "VC",
+      "FR",
+      "TT"
+    ],
+    "geonames_id": [
+      "3578263"
+    ]
+  },
+  "n-us-wi": {
+    "place": "Wisconsin",
+    "wikidata_label": "Wisconsin",
+    "wikidata_id": "Q1537",
+    "coordinates": [
+      "44.5,-89.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5279468"
+    ]
+  },
+  "n-us-wy": {
+    "place": "Wyoming",
+    "wikidata_label": "Wyoming",
+    "wikidata_id": "Q1214",
+    "coordinates": [
+      "43,-107.5"
+    ],
+    "iso_country_code": [
+      "US"
+    ],
+    "geonames_id": [
+      "5843591"
+    ]
+  },
+  "a-cc-su": {
+    "place": "Xinjiang Uygur Zizhiqu (China)",
+    "wikidata_label": "Xinjiang",
+    "wikidata_id": "Q34800",
+    "coordinates": [
+      "43.8253,87.61379"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1529047"
+    ]
+  },
+  "a-ccs": {
+    "place": "Xi River (China)",
+    "wikidata_label": "Xi River",
+    "wikidata_id": "Q216941",
+    "coordinates": [
+      "23.4692299,111.3122749",
+      "22.0601872,113.4791565",
+      "22.8,113.05"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1789402"
+    ]
+  },
+  "a-ccg": {
+    "place": "Yangtze River (China)",
+    "wikidata_label": "Yangtze",
+    "wikidata_id": "Q5413",
+    "coordinates": [
+      "33.444166666667,90.936111111111",
+      "31.393611111111,121.98305555556"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1815696"
+    ]
+  },
+  "a-ccy": {
+    "place": "Yellow River (China)",
+    "wikidata_label": "Yellow River",
+    "wikidata_id": "Q7355",
+    "coordinates": [
+      "36.12419444444444,116.09766666666667"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1807482"
+    ]
+  },
+  "ay": {
+    "place": "Yellow Sea",
+    "wikidata_label": "Yellow Sea",
+    "wikidata_id": "Q37960",
+    "coordinates": [
+      "35,123"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "1818183"
+    ]
+  },
+  "a-ye": {
+    "place": "Yemen (Republic)",
+    "wikidata_label": "Yemen",
+    "wikidata_id": "Q805",
+    "coordinates": [
+      "15.5,48"
+    ],
+    "iso_country_code": [
+      "YE"
+    ],
+    "geonames_id": [
+      "69543"
+    ]
+  },
+  "n-cn-yk": {
+    "place": "Yukon Territory",
+    "wikidata_label": "Yukon",
+    "wikidata_id": "Q2009",
+    "coordinates": [
+      "60.72086,-135.05323"
+    ],
+    "iso_country_code": [
+      "CA"
+    ],
+    "geonames_id": [
+      "6185811"
+    ]
+  },
+  "a-cc-yu": {
+    "place": "Yunnan Sheng (China)",
+    "wikidata_label": "Yunnan",
+    "wikidata_id": "Q43194",
+    "coordinates": [
+      "25.049444444444443,102.7088888888889"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1785694"
+    ]
+  },
+  "fz": {
+    "place": "Zambezi River",
+    "wikidata_label": "Zambezi River",
+    "wikidata_id": "Q43106",
+    "coordinates": [
+      "-11.3702,24.3083",
+      "-18.570555555555554,36.47027777777778"
+    ],
+    "iso_country_code": [],
+    "geonames_id": [
+      "876728"
+    ]
+  },
+  "f-za": {
+    "place": "Zambia",
+    "wikidata_label": "Zambia",
+    "wikidata_id": "Q953",
+    "coordinates": [
+      "-14,28"
+    ],
+    "iso_country_code": [
+      "ZM"
+    ],
+    "geonames_id": [
+      "895949"
+    ]
+  },
+  "a-cc-ch": {
+    "place": "Zhejiang Sheng (China)",
+    "wikidata_label": "Zhejiang",
+    "wikidata_id": "Q16967",
+    "coordinates": [
+      "30.266666666667,120.15"
+    ],
+    "iso_country_code": [
+      "CN"
+    ],
+    "geonames_id": [
+      "1784764"
+    ]
+  },
+  "f-rh": {
+    "place": "Zimbabwe",
+    "wikidata_label": "Zimbabwe",
+    "wikidata_id": "Q954",
+    "coordinates": [
+      "-19,30"
+    ],
+    "iso_country_code": [
+      "ZW"
+    ],
+    "geonames_id": [
+      "878675"
+    ]
+  },
+  "c": {
+    "place": "Intercontinental areas (Western Hemisphere)",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-cr": {
+    "place": "Circumcaribbean",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "d": {
+    "place": "Developing countries",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "dd": {
+    "place": "Developed countries",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-e-uk-ui": {
+    "place": "Great Britain Miscellaneous Island Dependencies",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "m": {
+    "place": "Intercontinental areas (Eastern Hemisphere)",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "q": {
+    "place": "Cold regions",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "-v": {
+    "place": "Communist countries",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  },
+  "zd": {
+    "place": "Deep space",
+    "wikidata_label": null,
+    "wikidata_id": null,
+    "coordinates": null,
+    "iso_country_code": [],
+    "geonames_id": null
+  }
+}

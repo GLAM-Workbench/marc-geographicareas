@@ -9533,8 +9533,8 @@
     "coordinates": [
       "-90,0"
     ],
-    "iso_country_code": [],
-    "iso_numeric_country_code": [],
+    "iso_country_code": ["AQ"],
+    "iso_numeric_country_code": ["610"],
     "geonames_id": [
       "6632710"
     ]

@@ -549,7 +549,7 @@ s-ve,Venezuela,Venezuela,Q717,"8,-67",VE,862,3625428
 sa,Amazon River,Amazon,Q3783,"-4.44836,-73.4559|0.7077777777777778,-50.089444444444446",PE|CO|BR,604|170|076,3407729
 sn,Andes,Andes,Q5456,"-32.65333333,-70.01166667",BO|CL|CO|EC|PE|VE|AR,068|152|170|218|604|862|032,
 sp,Rio de la Plata (Argentina and Uruguay),Río de la Plata,Q35827,"-34.883055555556,-56.713611111111",,,3426221|3441069
-t,Antarctic Ocean; Antarctica,Antarctic,Q1555938,"-90,0",,,6632710
+t,Antarctic Ocean; Antarctica,Antarctic,Q1555938,"-90,0",AQ,610,6632710
 -t-ay,Antarctica,Antarctica,Q51,"-90,0",,,6255152
 u,Australasia,Australasia,Q45256,"-28.1095,146.301",,,12626210
 u-ac,Ashmore and Cartier Islands,Ashmore and Cartier Islands,Q133888,"-12.258333333333,123.04166666667",AU,,2077507
